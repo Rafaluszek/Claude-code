@@ -227,6 +227,7 @@ R33 (in progress) — 26.04.2026:
 @marta_mlynska_psycholozka (17,9K) — psycholożka, wypalenie, książka, TEDx, 25K przeszkolonych
 @patrycja.kopala.lioness (20,6K) — Lioness Reset™, Tryb Osadzony™, kobiety wypalone
 @holistyczny.reset (26,6K) — Ewelina Esencja, regulacja stresu/kortyzol, kurs 21 dni resetów, aromaterapia
+@facefitness.u.ani (153K) — Anna Raczyńska, FaceFitness 35+, Siłownia online, 4000+ klientek
 
 ================================================================
 8. KONTA Z POPRZEDNICH PITCHY (NIE WYSYŁAĆ PONOWNIE)
