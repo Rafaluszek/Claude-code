@@ -223,6 +223,9 @@ R32 (10) — 26.04.2026:
 @agata.skoniecka (18,4K) — stylistka + ex-corpo psycholog, naffy.io kursy
 @gabriela.academie (2,0K) — hipnoza emocji + webinary online
 
+R33 (in progress) — 26.04.2026:
+@marta_mlynska_psycholozka (17,9K) — psycholożka, wypalenie, książka, TEDx, 25K przeszkolonych
+
 ================================================================
 8. KONTA Z POPRZEDNICH PITCHY (NIE WYSYŁAĆ PONOWNIE)
 ================================================================
