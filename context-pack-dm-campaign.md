@@ -270,6 +270,9 @@ R32 wykryte duplikaty (9):
 @hipnoterapia_plodnosci (9,4K, Agata Korneluk) — pitch Wt 13:12
 @spojrzinaczej.terapia (87,1K) — pitchowane w R31
 
+R33 wykryte duplikaty:
+@joannarebelka (5,6K, PRACUJ BEZ PRESJI) — pitch Śr 19:37
+
 R32 SKIP-y (poza duplikatami):
 @logopeda_neuromowa — lokalna + brand-only/influencer (Moodsy, Lovi)
 @logopedia_sensoryka (294 obs) — poniżej floor
