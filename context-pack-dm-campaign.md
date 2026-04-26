@@ -275,6 +275,7 @@ R32 wykryte duplikaty (9):
 R33 wykryte duplikaty:
 @joannarebelka (5,6K, PRACUJ BEZ PRESJI) — pitch Śr 19:37
 @moja_fizjo (8,1K, fizjo uroginekologiczna Rzeszów) — pitch 16 kwi 2026, ⚠ KRYTYCZNY feedback "pisanie z chata gpt odrzuca klienta" + "nie prowadzę IG dla followersów, chodzi o społeczność"
+@magdalenkafitmom (451K, Magdalena Dzika, trener osobisty + ebooki + m-well.cz) — pitch wcześniejszy (transformacja -50kg z Hashimoto)
 
 R32 SKIP-y (poza duplikatami):
 @logopeda_neuromowa — lokalna + brand-only/influencer (Moodsy, Lovi)
