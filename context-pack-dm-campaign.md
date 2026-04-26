@@ -225,6 +225,7 @@ R32 (10) — 26.04.2026:
 
 R33 (in progress) — 26.04.2026:
 @marta_mlynska_psycholozka (17,9K) — psycholożka, wypalenie, książka, TEDx, 25K przeszkolonych
+@patrycja.kopala.lioness (20,6K) — Lioness Reset™, Tryb Osadzony™, kobiety wypalone
 
 ================================================================
 8. KONTA Z POPRZEDNICH PITCHY (NIE WYSYŁAĆ PONOWNIE)
