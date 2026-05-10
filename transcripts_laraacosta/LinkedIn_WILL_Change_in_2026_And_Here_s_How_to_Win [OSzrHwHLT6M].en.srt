@@ -1,0 +1,3955 @@
+1
+00:00:00,080 --> 00:00:02,389
+
+I just made the boldest prediction of my
+
+2
+00:00:02,389 --> 00:00:02,399
+I just made the boldest prediction of my
+ 
+
+3
+00:00:02,399 --> 00:00:05,269
+I just made the boldest prediction of my
+career and it's about LinkedIn in 2026.
+
+4
+00:00:05,269 --> 00:00:05,279
+career and it's about LinkedIn in 2026.
+ 
+
+5
+00:00:05,279 --> 00:00:07,430
+career and it's about LinkedIn in 2026.
+And if I'm right, 90% of current
+
+6
+00:00:07,430 --> 00:00:07,440
+And if I'm right, 90% of current
+ 
+
+7
+00:00:07,440 --> 00:00:09,110
+And if I'm right, 90% of current
+LinkedIn users are about to become
+
+8
+00:00:09,110 --> 00:00:09,120
+LinkedIn users are about to become
+ 
+
+9
+00:00:09,120 --> 00:00:11,430
+LinkedIn users are about to become
+completely irrelevant.
+
+10
+00:00:11,430 --> 00:00:11,440
+completely irrelevant.
+ 
+
+11
+00:00:11,440 --> 00:00:13,030
+completely irrelevant.
+Look, I've been tracking early signals
+
+12
+00:00:13,030 --> 00:00:13,040
+Look, I've been tracking early signals
+ 
+
+13
+00:00:13,040 --> 00:00:14,870
+Look, I've been tracking early signals
+in the algorithm, studying emerging
+
+14
+00:00:14,870 --> 00:00:14,880
+in the algorithm, studying emerging
+ 
+
+15
+00:00:14,880 --> 00:00:16,790
+in the algorithm, studying emerging
+content patterns, and watching what the
+
+16
+00:00:16,790 --> 00:00:16,800
+content patterns, and watching what the
+ 
+
+17
+00:00:16,800 --> 00:00:18,870
+content patterns, and watching what the
+smartest creators are quietly testing.
+
+18
+00:00:18,870 --> 00:00:18,880
+smartest creators are quietly testing.
+ 
+
+19
+00:00:18,880 --> 00:00:20,950
+smartest creators are quietly testing.
+And what I'm seeing is a massive shift
+
+20
+00:00:20,950 --> 00:00:20,960
+And what I'm seeing is a massive shift
+ 
+
+21
+00:00:20,960 --> 00:00:22,630
+And what I'm seeing is a massive shift
+that's going to change everything about
+
+22
+00:00:22,630 --> 00:00:22,640
+that's going to change everything about
+ 
+
+23
+00:00:22,640 --> 00:00:24,870
+that's going to change everything about
+how growth works on LinkedIn right now.
+
+24
+00:00:24,870 --> 00:00:24,880
+how growth works on LinkedIn right now.
+ 
+
+25
+00:00:24,880 --> 00:00:26,630
+how growth works on LinkedIn right now.
+I just hopped off a call with my team.
+
+26
+00:00:26,630 --> 00:00:26,640
+I just hopped off a call with my team.
+ 
+
+27
+00:00:26,640 --> 00:00:28,710
+I just hopped off a call with my team.
+Together, they've analyzed thousands of
+
+28
+00:00:28,710 --> 00:00:28,720
+Together, they've analyzed thousands of
+ 
+
+29
+00:00:28,720 --> 00:00:30,630
+Together, they've analyzed thousands of
+LinkedIn posts from the last 6 months.
+
+30
+00:00:30,630 --> 00:00:30,640
+LinkedIn posts from the last 6 months.
+ 
+
+31
+00:00:30,640 --> 00:00:33,830
+LinkedIn posts from the last 6 months.
+The data is clear. 3 years ago, when I
+
+32
+00:00:33,830 --> 00:00:33,840
+The data is clear. 3 years ago, when I
+ 
+
+33
+00:00:33,840 --> 00:00:35,510
+The data is clear. 3 years ago, when I
+started blowing up on LinkedIn, the feed
+
+34
+00:00:35,510 --> 00:00:35,520
+started blowing up on LinkedIn, the feed
+ 
+
+35
+00:00:35,520 --> 00:00:37,910
+started blowing up on LinkedIn, the feed
+rewarded nearly anything. Simply posting
+
+36
+00:00:37,910 --> 00:00:37,920
+rewarded nearly anything. Simply posting
+ 
+
+37
+00:00:37,920 --> 00:00:39,670
+rewarded nearly anything. Simply posting
+at all could lead to more reach.
+
+38
+00:00:39,670 --> 00:00:39,680
+at all could lead to more reach.
+ 
+
+39
+00:00:39,680 --> 00:00:41,670
+at all could lead to more reach.
+LinkedIn's algorithm rewarded people
+
+40
+00:00:41,670 --> 00:00:41,680
+LinkedIn's algorithm rewarded people
+ 
+
+41
+00:00:41,680 --> 00:00:43,750
+LinkedIn's algorithm rewarded people
+creating more content. That's it. They
+
+42
+00:00:43,750 --> 00:00:43,760
+creating more content. That's it. They
+ 
+
+43
+00:00:43,760 --> 00:00:45,990
+creating more content. That's it. They
+wanted to supply the overdemand that we
+
+44
+00:00:45,990 --> 00:00:46,000
+wanted to supply the overdemand that we
+ 
+
+45
+00:00:46,000 --> 00:00:47,910
+wanted to supply the overdemand that we
+still have right now. We can even see it
+
+46
+00:00:47,910 --> 00:00:47,920
+still have right now. We can even see it
+ 
+
+47
+00:00:47,920 --> 00:00:49,910
+still have right now. We can even see it
+in the videos that were blowing up back
+
+48
+00:00:49,910 --> 00:00:49,920
+in the videos that were blowing up back
+ 
+
+49
+00:00:49,920 --> 00:00:52,150
+in the videos that were blowing up back
+then. How to optimize your profile, how
+
+50
+00:00:52,150 --> 00:00:52,160
+then. How to optimize your profile, how
+ 
+
+51
+00:00:52,160 --> 00:00:54,549
+then. How to optimize your profile, how
+to use sales navigator, how to write an
+
+52
+00:00:54,549 --> 00:00:54,559
+to use sales navigator, how to write an
+ 
+
+53
+00:00:54,559 --> 00:00:56,950
+to use sales navigator, how to write an
+about section. the bare minimum effort
+
+54
+00:00:56,950 --> 00:00:56,960
+about section. the bare minimum effort
+ 
+
+55
+00:00:56,960 --> 00:00:59,029
+about section. the bare minimum effort
+would lead to the highest return. And
+
+56
+00:00:59,029 --> 00:00:59,039
+would lead to the highest return. And
+ 
+
+57
+00:00:59,039 --> 00:01:01,270
+would lead to the highest return. And
+that's where we saw the boom of cringe
+
+58
+00:01:01,270 --> 00:01:01,280
+that's where we saw the boom of cringe
+ 
+
+59
+00:01:01,280 --> 00:01:03,270
+that's where we saw the boom of cringe
+storytelling, the here's what I learned
+
+60
+00:01:03,270 --> 00:01:03,280
+storytelling, the here's what I learned
+ 
+
+61
+00:01:03,280 --> 00:01:05,590
+storytelling, the here's what I learned
+about B2B sales post, the motivational
+
+62
+00:01:05,590 --> 00:01:05,600
+about B2B sales post, the motivational
+ 
+
+63
+00:01:05,600 --> 00:01:07,429
+about B2B sales post, the motivational
+quotes that even Tony Robbins would even
+
+64
+00:01:07,429 --> 00:01:07,439
+quotes that even Tony Robbins would even
+ 
+
+65
+00:01:07,439 --> 00:01:09,750
+quotes that even Tony Robbins would even
+cringe at reading. It was a true blue
+
+66
+00:01:09,750 --> 00:01:09,760
+cringe at reading. It was a true blue
+ 
+
+67
+00:01:09,760 --> 00:01:11,910
+cringe at reading. It was a true blue
+ocean. But now, like in any other
+
+68
+00:01:11,910 --> 00:01:11,920
+ocean. But now, like in any other
+ 
+
+69
+00:01:11,920 --> 00:01:13,670
+ocean. But now, like in any other
+platform, the algorithm has begun
+
+70
+00:01:13,670 --> 00:01:13,680
+platform, the algorithm has begun
+ 
+
+71
+00:01:13,680 --> 00:01:15,670
+platform, the algorithm has begun
+rewriting itself. It's no longer
+
+72
+00:01:15,670 --> 00:01:15,680
+rewriting itself. It's no longer
+ 
+
+73
+00:01:15,680 --> 00:01:17,749
+rewriting itself. It's no longer
+rewarding quantity. It's rewarding
+
+74
+00:01:17,749 --> 00:01:17,759
+rewarding quantity. It's rewarding
+ 
+
+75
+00:01:17,759 --> 00:01:19,990
+rewarding quantity. It's rewarding
+expertise, but not the expertise in the
+
+76
+00:01:19,990 --> 00:01:20,000
+expertise, but not the expertise in the
+ 
+
+77
+00:01:20,000 --> 00:01:21,830
+expertise, but not the expertise in the
+way you think. LinkedIn is now hunting
+
+78
+00:01:21,830 --> 00:01:21,840
+way you think. LinkedIn is now hunting
+ 
+
+79
+00:01:21,840 --> 00:01:24,230
+way you think. LinkedIn is now hunting
+for domain authorities. people who can
+
+80
+00:01:24,230 --> 00:01:24,240
+for domain authorities. people who can
+ 
+
+81
+00:01:24,240 --> 00:01:25,830
+for domain authorities. people who can
+actually prove they've done the thing
+
+82
+00:01:25,830 --> 00:01:25,840
+actually prove they've done the thing
+ 
+
+83
+00:01:25,840 --> 00:01:27,429
+actually prove they've done the thing
+that they're teaching. And just so you
+
+84
+00:01:27,429 --> 00:01:27,439
+that they're teaching. And just so you
+ 
+
+85
+00:01:27,439 --> 00:01:29,109
+that they're teaching. And just so you
+know, I'm not making this up like every
+
+86
+00:01:29,109 --> 00:01:29,119
+know, I'm not making this up like every
+ 
+
+87
+00:01:29,119 --> 00:01:31,109
+know, I'm not making this up like every
+other LinkedIn expert. This is
+
+88
+00:01:31,109 --> 00:01:31,119
+other LinkedIn expert. This is
+ 
+
+89
+00:01:31,119 --> 00:01:32,710
+other LinkedIn expert. This is
+information directly from their can
+
+90
+00:01:32,710 --> 00:01:32,720
+information directly from their can
+ 
+
+91
+00:01:32,720 --> 00:01:34,789
+information directly from their can
+event LinkedIn themselves hosted 3
+
+92
+00:01:34,789 --> 00:01:34,799
+event LinkedIn themselves hosted 3
+ 
+
+93
+00:01:34,799 --> 00:01:37,190
+event LinkedIn themselves hosted 3
+months ago indicating this exact same
+
+94
+00:01:37,190 --> 00:01:37,200
+months ago indicating this exact same
+ 
+
+95
+00:01:37,200 --> 00:01:39,350
+months ago indicating this exact same
+shift. And although my invite got lost
+
+96
+00:01:39,350 --> 00:01:39,360
+shift. And although my invite got lost
+ 
+
+97
+00:01:39,360 --> 00:01:41,590
+shift. And although my invite got lost
+in the mail for this alongside my
+
+98
+00:01:41,590 --> 00:01:41,600
+in the mail for this alongside my
+ 
+
+99
+00:01:41,600 --> 00:01:43,590
+in the mail for this alongside my
+influencer box with LinkedIn merch in it
+
+100
+00:01:43,590 --> 00:01:43,600
+influencer box with LinkedIn merch in it
+ 
+
+101
+00:01:43,600 --> 00:01:45,990
+influencer box with LinkedIn merch in it
+and a DJI mic, we also found content
+
+102
+00:01:45,990 --> 00:01:46,000
+and a DJI mic, we also found content
+ 
+
+103
+00:01:46,000 --> 00:01:48,149
+and a DJI mic, we also found content
+written by the news editor from LinkedIn
+
+104
+00:01:48,149 --> 00:01:48,159
+written by the news editor from LinkedIn
+ 
+
+105
+00:01:48,159 --> 00:01:50,069
+written by the news editor from LinkedIn
+confirming this again. And yeah, I got
+
+106
+00:01:50,069 --> 00:01:50,079
+confirming this again. And yeah, I got
+ 
+
+107
+00:01:50,079 --> 00:01:51,990
+confirming this again. And yeah, I got
+my own DJI mic anyway, so it doesn't
+
+108
+00:01:51,990 --> 00:01:52,000
+my own DJI mic anyway, so it doesn't
+ 
+
+109
+00:01:52,000 --> 00:01:54,870
+my own DJI mic anyway, so it doesn't
+matter. So, here's how LinkedIn is
+
+110
+00:01:54,870 --> 00:01:54,880
+matter. So, here's how LinkedIn is
+ 
+
+111
+00:01:54,880 --> 00:01:57,190
+matter. So, here's how LinkedIn is
+starting to shift. Now, let's take Adam
+
+112
+00:01:57,190 --> 00:01:57,200
+starting to shift. Now, let's take Adam
+ 
+
+113
+00:01:57,200 --> 00:02:00,230
+starting to shift. Now, let's take Adam
+Robinson. He has 138,000 followers on
+
+114
+00:02:00,230 --> 00:02:00,240
+Robinson. He has 138,000 followers on
+ 
+
+115
+00:02:00,240 --> 00:02:01,990
+Robinson. He has 138,000 followers on
+LinkedIn. But that isn't the most
+
+116
+00:02:01,990 --> 00:02:02,000
+LinkedIn. But that isn't the most
+ 
+
+117
+00:02:02,000 --> 00:02:03,910
+LinkedIn. But that isn't the most
+impressive thing about him. Adam has
+
+118
+00:02:03,910 --> 00:02:03,920
+impressive thing about him. Adam has
+ 
+
+119
+00:02:03,920 --> 00:02:05,670
+impressive thing about him. Adam has
+blown up his account, ignoring common
+
+120
+00:02:05,670 --> 00:02:05,680
+blown up his account, ignoring common
+ 
+
+121
+00:02:05,680 --> 00:02:07,990
+blown up his account, ignoring common
+LinkedIn advice. Instead, he focused on
+
+122
+00:02:07,990 --> 00:02:08,000
+LinkedIn advice. Instead, he focused on
+ 
+
+123
+00:02:08,000 --> 00:02:10,389
+LinkedIn advice. Instead, he focused on
+being seen as a domain expert, which has
+
+124
+00:02:10,389 --> 00:02:10,399
+being seen as a domain expert, which has
+ 
+
+125
+00:02:10,399 --> 00:02:12,229
+being seen as a domain expert, which has
+led him to drive millions for his
+
+126
+00:02:12,229 --> 00:02:12,239
+led him to drive millions for his
+ 
+
+127
+00:02:12,239 --> 00:02:14,470
+led him to drive millions for his
+business. His content is truly
+
+128
+00:02:14,470 --> 00:02:14,480
+business. His content is truly
+ 
+
+129
+00:02:14,480 --> 00:02:17,110
+business. His content is truly
+expert-led, sharing results, sharing
+
+130
+00:02:17,110 --> 00:02:17,120
+expert-led, sharing results, sharing
+ 
+
+131
+00:02:17,120 --> 00:02:19,510
+expert-led, sharing results, sharing
+trends, even sharing unique opinions he
+
+132
+00:02:19,510 --> 00:02:19,520
+trends, even sharing unique opinions he
+ 
+
+133
+00:02:19,520 --> 00:02:21,110
+trends, even sharing unique opinions he
+has as someone who is in the true
+
+134
+00:02:21,110 --> 00:02:21,120
+has as someone who is in the true
+ 
+
+135
+00:02:21,120 --> 00:02:23,190
+has as someone who is in the true
+trenches of his industry. Meaning that
+
+136
+00:02:23,190 --> 00:02:23,200
+trenches of his industry. Meaning that
+ 
+
+137
+00:02:23,200 --> 00:02:25,190
+trenches of his industry. Meaning that
+he gets pushed to the right audience for
+
+138
+00:02:25,190 --> 00:02:25,200
+he gets pushed to the right audience for
+ 
+
+139
+00:02:25,200 --> 00:02:27,830
+he gets pushed to the right audience for
+him and rewarded by LinkedIn because
+
+140
+00:02:27,830 --> 00:02:27,840
+him and rewarded by LinkedIn because
+ 
+
+141
+00:02:27,840 --> 00:02:29,830
+him and rewarded by LinkedIn because
+shockingly enough, this is the content
+
+142
+00:02:29,830 --> 00:02:29,840
+shockingly enough, this is the content
+ 
+
+143
+00:02:29,840 --> 00:02:32,710
+shockingly enough, this is the content
+they like to see the most. Expertled.
+
+144
+00:02:32,710 --> 00:02:32,720
+they like to see the most. Expertled.
+ 
+
+145
+00:02:32,720 --> 00:02:34,710
+they like to see the most. Expertled.
+Now, this might sound obvious, but the
+
+146
+00:02:34,710 --> 00:02:34,720
+Now, this might sound obvious, but the
+ 
+
+147
+00:02:34,720 --> 00:02:36,949
+Now, this might sound obvious, but the
+truth about obvious things is that
+
+148
+00:02:36,949 --> 00:02:36,959
+truth about obvious things is that
+ 
+
+149
+00:02:36,959 --> 00:02:39,110
+truth about obvious things is that
+people still ignore them. And for a good
+
+150
+00:02:39,110 --> 00:02:39,120
+people still ignore them. And for a good
+ 
+
+151
+00:02:39,120 --> 00:02:40,869
+people still ignore them. And for a good
+reason. If you log on to LinkedIn right
+
+152
+00:02:40,869 --> 00:02:40,879
+reason. If you log on to LinkedIn right
+ 
+
+153
+00:02:40,879 --> 00:02:43,110
+reason. If you log on to LinkedIn right
+now, you'll see three viral posts with a
+
+154
+00:02:43,110 --> 00:02:43,120
+now, you'll see three viral posts with a
+ 
+
+155
+00:02:43,120 --> 00:02:45,190
+now, you'll see three viral posts with a
+quote on them. 10 leadership hacks that
+
+156
+00:02:45,190 --> 00:02:45,200
+quote on them. 10 leadership hacks that
+ 
+
+157
+00:02:45,200 --> 00:02:46,869
+quote on them. 10 leadership hacks that
+will change your life. Thousands of
+
+158
+00:02:46,869 --> 00:02:46,879
+will change your life. Thousands of
+ 
+
+159
+00:02:46,879 --> 00:02:49,030
+will change your life. Thousands of
+likes in them and then a post like Adams
+
+160
+00:02:49,030 --> 00:02:49,040
+likes in them and then a post like Adams
+ 
+
+161
+00:02:49,040 --> 00:02:51,750
+likes in them and then a post like Adams
+with 500 likes. But here's the thing.
+
+162
+00:02:51,750 --> 00:02:51,760
+with 500 likes. But here's the thing.
+ 
+
+163
+00:02:51,760 --> 00:02:53,990
+with 500 likes. But here's the thing.
+Likes are no longer the metric that
+
+164
+00:02:53,990 --> 00:02:54,000
+Likes are no longer the metric that
+ 
+
+165
+00:02:54,000 --> 00:02:55,830
+Likes are no longer the metric that
+matters for true personal brand
+
+166
+00:02:55,830 --> 00:02:55,840
+matters for true personal brand
+ 
+
+167
+00:02:55,840 --> 00:02:57,910
+matters for true personal brand
+performance, especially if your goal is
+
+168
+00:02:57,910 --> 00:02:57,920
+performance, especially if your goal is
+ 
+
+169
+00:02:57,920 --> 00:03:00,229
+performance, especially if your goal is
+to drive sales to your business. Because
+
+170
+00:03:00,229 --> 00:03:00,239
+to drive sales to your business. Because
+ 
+
+171
+00:03:00,239 --> 00:03:02,229
+to drive sales to your business. Because
+while those feelood posts are collecting
+
+172
+00:03:02,229 --> 00:03:02,239
+while those feelood posts are collecting
+ 
+
+173
+00:03:02,239 --> 00:03:04,390
+while those feelood posts are collecting
+dopamine and engagement, Adam's posts
+
+174
+00:03:04,390 --> 00:03:04,400
+dopamine and engagement, Adam's posts
+ 
+
+175
+00:03:04,400 --> 00:03:07,030
+dopamine and engagement, Adam's posts
+are collecting qualified leads. And
+
+176
+00:03:07,030 --> 00:03:07,040
+are collecting qualified leads. And
+ 
+
+177
+00:03:07,040 --> 00:03:08,949
+are collecting qualified leads. And
+speaking about collecting leads, there
+
+178
+00:03:08,949 --> 00:03:08,959
+speaking about collecting leads, there
+ 
+
+179
+00:03:08,959 --> 00:03:11,190
+speaking about collecting leads, there
+is an easy and effective way to start
+
+180
+00:03:11,190 --> 00:03:11,200
+is an easy and effective way to start
+ 
+
+181
+00:03:11,200 --> 00:03:12,869
+is an easy and effective way to start
+collecting them. I actually used this
+
+182
+00:03:12,869 --> 00:03:12,879
+collecting them. I actually used this
+ 
+
+183
+00:03:12,879 --> 00:03:15,270
+collecting them. I actually used this
+when I had no time to build a landing
+
+184
+00:03:15,270 --> 00:03:15,280
+when I had no time to build a landing
+ 
+
+185
+00:03:15,280 --> 00:03:17,589
+when I had no time to build a landing
+page or set up a new website or a new
+
+186
+00:03:17,589 --> 00:03:17,599
+page or set up a new website or a new
+ 
+
+187
+00:03:17,599 --> 00:03:19,350
+page or set up a new website or a new
+email list or pick and choose between
+
+188
+00:03:19,350 --> 00:03:19,360
+email list or pick and choose between
+ 
+
+189
+00:03:19,360 --> 00:03:21,190
+email list or pick and choose between
+different platforms and connect to them.
+
+190
+00:03:21,190 --> 00:03:21,200
+different platforms and connect to them.
+ 
+
+191
+00:03:21,200 --> 00:03:23,190
+different platforms and connect to them.
+And the thing that I'm referring to is
+
+192
+00:03:23,190 --> 00:03:23,200
+And the thing that I'm referring to is
+ 
+
+193
+00:03:23,200 --> 00:03:25,350
+And the thing that I'm referring to is
+Stanto. It's like the digital shop
+
+194
+00:03:25,350 --> 00:03:25,360
+Stanto. It's like the digital shop
+ 
+
+195
+00:03:25,360 --> 00:03:27,509
+Stanto. It's like the digital shop
+window for your business except it
+
+196
+00:03:27,509 --> 00:03:27,519
+window for your business except it
+ 
+
+197
+00:03:27,519 --> 00:03:29,430
+window for your business except it
+doesn't suck. You can host free
+
+198
+00:03:29,430 --> 00:03:29,440
+doesn't suck. You can host free
+ 
+
+199
+00:03:29,440 --> 00:03:31,670
+doesn't suck. You can host free
+resources, collect emails, sell digital
+
+200
+00:03:31,670 --> 00:03:31,680
+resources, collect emails, sell digital
+ 
+
+201
+00:03:31,680 --> 00:03:34,070
+resources, collect emails, sell digital
+products, launch offers all in one
+
+202
+00:03:34,070 --> 00:03:34,080
+products, launch offers all in one
+ 
+
+203
+00:03:34,080 --> 00:03:36,309
+products, launch offers all in one
+place. And the best part, it literally
+
+204
+00:03:36,309 --> 00:03:36,319
+place. And the best part, it literally
+ 
+
+205
+00:03:36,319 --> 00:03:38,630
+place. And the best part, it literally
+takes five minutes to set up. I've done
+
+206
+00:03:38,630 --> 00:03:38,640
+takes five minutes to set up. I've done
+ 
+
+207
+00:03:38,640 --> 00:03:40,630
+takes five minutes to set up. I've done
+it myself multiple times. You don't need
+
+208
+00:03:40,630 --> 00:03:40,640
+it myself multiple times. You don't need
+ 
+
+209
+00:03:40,640 --> 00:03:42,710
+it myself multiple times. You don't need
+a website. There's no tech headaches.
+
+210
+00:03:42,710 --> 00:03:42,720
+a website. There's no tech headaches.
+ 
+
+211
+00:03:42,720 --> 00:03:44,869
+a website. There's no tech headaches.
+Just a clean link you can drop on the
+
+212
+00:03:44,869 --> 00:03:44,879
+Just a clean link you can drop on the
+ 
+
+213
+00:03:44,879 --> 00:03:46,550
+Just a clean link you can drop on the
+every single post or even in your
+
+214
+00:03:46,550 --> 00:03:46,560
+every single post or even in your
+ 
+
+215
+00:03:46,560 --> 00:03:48,630
+every single post or even in your
+profile or your bio. I've used it many,
+
+216
+00:03:48,630 --> 00:03:48,640
+profile or your bio. I've used it many,
+ 
+
+217
+00:03:48,640 --> 00:03:50,630
+profile or your bio. I've used it many,
+many times. I actually even used this to
+
+218
+00:03:50,630 --> 00:03:50,640
+many times. I actually even used this to
+ 
+
+219
+00:03:50,640 --> 00:03:52,550
+many times. I actually even used this to
+launch my first ever lead magnet.
+
+220
+00:03:52,550 --> 00:03:52,560
+launch my first ever lead magnet.
+ 
+
+221
+00:03:52,560 --> 00:03:54,229
+launch my first ever lead magnet.
+Collected thousands of emails before I
+
+222
+00:03:54,229 --> 00:03:54,239
+Collected thousands of emails before I
+ 
+
+223
+00:03:54,239 --> 00:03:57,030
+Collected thousands of emails before I
+even had a real offer, literally. So, if
+
+224
+00:03:57,030 --> 00:03:57,040
+even had a real offer, literally. So, if
+ 
+
+225
+00:03:57,040 --> 00:03:58,470
+even had a real offer, literally. So, if
+you're building your personal brand and
+
+226
+00:03:58,470 --> 00:03:58,480
+you're building your personal brand and
+ 
+
+227
+00:03:58,480 --> 00:04:00,229
+you're building your personal brand and
+you don't have a link that collects and
+
+228
+00:04:00,229 --> 00:04:00,239
+you don't have a link that collects and
+ 
+
+229
+00:04:00,239 --> 00:04:01,990
+you don't have a link that collects and
+converts, then you're probably leaving
+
+230
+00:04:01,990 --> 00:04:02,000
+converts, then you're probably leaving
+ 
+
+231
+00:04:02,000 --> 00:04:04,070
+converts, then you're probably leaving
+some money on the table. So, if you want
+
+232
+00:04:04,070 --> 00:04:04,080
+some money on the table. So, if you want
+ 
+
+233
+00:04:04,080 --> 00:04:06,070
+some money on the table. So, if you want
+to make your first online dollar on
+
+234
+00:04:06,070 --> 00:04:06,080
+to make your first online dollar on
+ 
+
+235
+00:04:06,080 --> 00:04:08,789
+to make your first online dollar on
+LinkedIn or even your first $100,000,
+
+236
+00:04:08,789 --> 00:04:08,799
+LinkedIn or even your first $100,000,
+ 
+
+237
+00:04:08,799 --> 00:04:10,869
+LinkedIn or even your first $100,000,
+Stanto store is the easiest place to
+
+238
+00:04:10,869 --> 00:04:10,879
+Stanto store is the easiest place to
+ 
+
+239
+00:04:10,879 --> 00:04:13,030
+Stanto store is the easiest place to
+start. I'm dropping a free trial link in
+
+240
+00:04:13,030 --> 00:04:13,040
+start. I'm dropping a free trial link in
+ 
+
+241
+00:04:13,040 --> 00:04:14,630
+start. I'm dropping a free trial link in
+the description so you can test it out.
+
+242
+00:04:14,630 --> 00:04:14,640
+the description so you can test it out.
+ 
+
+243
+00:04:14,640 --> 00:04:16,550
+the description so you can test it out.
+Now, back to Adam. His business is
+
+244
+00:04:16,550 --> 00:04:16,560
+Now, back to Adam. His business is
+ 
+
+245
+00:04:16,560 --> 00:04:18,870
+Now, back to Adam. His business is
+growing. His offers are converting. His
+
+246
+00:04:18,870 --> 00:04:18,880
+growing. His offers are converting. His
+ 
+
+247
+00:04:18,880 --> 00:04:21,189
+growing. His offers are converting. His
+audience are also his customers. That's
+
+248
+00:04:21,189 --> 00:04:21,199
+audience are also his customers. That's
+ 
+
+249
+00:04:21,199 --> 00:04:23,189
+audience are also his customers. That's
+the shift most LinkedIn users are
+
+250
+00:04:23,189 --> 00:04:23,199
+the shift most LinkedIn users are
+ 
+
+251
+00:04:23,199 --> 00:04:25,030
+the shift most LinkedIn users are
+missing. You don't need viral content.
+
+252
+00:04:25,030 --> 00:04:25,040
+missing. You don't need viral content.
+ 
+
+253
+00:04:25,040 --> 00:04:26,629
+missing. You don't need viral content.
+You need the right content in front of
+
+254
+00:04:26,629 --> 00:04:26,639
+You need the right content in front of
+ 
+
+255
+00:04:26,639 --> 00:04:28,629
+You need the right content in front of
+the right people delivered with real
+
+256
+00:04:28,629 --> 00:04:28,639
+the right people delivered with real
+ 
+
+257
+00:04:28,639 --> 00:04:30,950
+the right people delivered with real
+credibility. And eventually, these posts
+
+258
+00:04:30,950 --> 00:04:30,960
+credibility. And eventually, these posts
+ 
+
+259
+00:04:30,960 --> 00:04:33,749
+credibility. And eventually, these posts
+become viral posts. I've done exactly
+
+260
+00:04:33,749 --> 00:04:33,759
+become viral posts. I've done exactly
+ 
+
+261
+00:04:33,759 --> 00:04:35,830
+become viral posts. I've done exactly
+that as well. Every single one of my
+
+262
+00:04:35,830 --> 00:04:35,840
+that as well. Every single one of my
+ 
+
+263
+00:04:35,840 --> 00:04:38,230
+that as well. Every single one of my
+LinkedIn posts is expert-led. Yet,
+
+264
+00:04:38,230 --> 00:04:38,240
+LinkedIn posts is expert-led. Yet,
+ 
+
+265
+00:04:38,240 --> 00:04:39,909
+LinkedIn posts is expert-led. Yet,
+they've reached virality not because
+
+266
+00:04:39,909 --> 00:04:39,919
+they've reached virality not because
+ 
+
+267
+00:04:39,919 --> 00:04:41,909
+they've reached virality not because
+they're broad and generic, but because
+
+268
+00:04:41,909 --> 00:04:41,919
+they're broad and generic, but because
+ 
+
+269
+00:04:41,919 --> 00:04:44,550
+they're broad and generic, but because
+they're useful. They position me daily.
+
+270
+00:04:44,550 --> 00:04:44,560
+they're useful. They position me daily.
+ 
+
+271
+00:04:44,560 --> 00:04:46,790
+they're useful. They position me daily.
+Data collected via my own account and
+
+272
+00:04:46,790 --> 00:04:46,800
+Data collected via my own account and
+ 
+
+273
+00:04:46,800 --> 00:04:49,030
+Data collected via my own account and
+clients further emphasizes on this
+
+274
+00:04:49,030 --> 00:04:49,040
+clients further emphasizes on this
+ 
+
+275
+00:04:49,040 --> 00:04:51,189
+clients further emphasizes on this
+point. Posts from verified experts gets
+
+276
+00:04:51,189 --> 00:04:51,199
+point. Posts from verified experts gets
+ 
+
+277
+00:04:51,199 --> 00:04:53,270
+point. Posts from verified experts gets
+increasingly more reach than generic
+
+278
+00:04:53,270 --> 00:04:53,280
+increasingly more reach than generic
+ 
+
+279
+00:04:53,280 --> 00:04:55,909
+increasingly more reach than generic
+advice posts. Expertex expert engagement
+
+280
+00:04:55,909 --> 00:04:55,919
+advice posts. Expertex expert engagement
+ 
+
+281
+00:04:55,919 --> 00:04:57,830
+advice posts. Expertex expert engagement
+triggers massive algorithmic
+
+282
+00:04:57,830 --> 00:04:57,840
+triggers massive algorithmic
+ 
+
+283
+00:04:57,840 --> 00:04:59,990
+triggers massive algorithmic
+amplification just naturally by how
+
+284
+00:04:59,990 --> 00:05:00,000
+amplification just naturally by how
+ 
+
+285
+00:05:00,000 --> 00:05:01,590
+amplification just naturally by how
+LinkedIn connects people behind the
+
+286
+00:05:01,590 --> 00:05:01,600
+LinkedIn connects people behind the
+ 
+
+287
+00:05:01,600 --> 00:05:03,270
+LinkedIn connects people behind the
+scenes. Think about it like this. Every
+
+288
+00:05:03,270 --> 00:05:03,280
+scenes. Think about it like this. Every
+ 
+
+289
+00:05:03,280 --> 00:05:05,670
+scenes. Think about it like this. Every
+time two domain experts engage with each
+
+290
+00:05:05,670 --> 00:05:05,680
+time two domain experts engage with each
+ 
+
+291
+00:05:05,680 --> 00:05:08,230
+time two domain experts engage with each
+other, LinkedIn goes, "Interesting." Two
+
+292
+00:05:08,230 --> 00:05:08,240
+other, LinkedIn goes, "Interesting." Two
+ 
+
+293
+00:05:08,240 --> 00:05:10,230
+other, LinkedIn goes, "Interesting." Two
+domain experts in the same topic are
+
+294
+00:05:10,230 --> 00:05:10,240
+domain experts in the same topic are
+ 
+
+295
+00:05:10,240 --> 00:05:12,390
+domain experts in the same topic are
+engaging with each other. So instead of
+
+296
+00:05:12,390 --> 00:05:12,400
+engaging with each other. So instead of
+ 
+
+297
+00:05:12,400 --> 00:05:14,390
+engaging with each other. So instead of
+showing it to your usual circle, it
+
+298
+00:05:14,390 --> 00:05:14,400
+showing it to your usual circle, it
+ 
+
+299
+00:05:14,400 --> 00:05:16,469
+showing it to your usual circle, it
+pushes that content out to people just
+
+300
+00:05:16,469 --> 00:05:16,479
+pushes that content out to people just
+ 
+
+301
+00:05:16,479 --> 00:05:18,150
+pushes that content out to people just
+like them. Almost like when you talk
+
+302
+00:05:18,150 --> 00:05:18,160
+like them. Almost like when you talk
+ 
+
+303
+00:05:18,160 --> 00:05:20,310
+like them. Almost like when you talk
+about a celebrity and then Instagram all
+
+304
+00:05:20,310 --> 00:05:20,320
+about a celebrity and then Instagram all
+ 
+
+305
+00:05:20,320 --> 00:05:21,909
+about a celebrity and then Instagram all
+of a sudden shows you them on your feed
+
+306
+00:05:21,909 --> 00:05:21,919
+of a sudden shows you them on your feed
+ 
+
+307
+00:05:21,919 --> 00:05:23,670
+of a sudden shows you them on your feed
+the next day, or when you like a cat
+
+308
+00:05:23,670 --> 00:05:23,680
+the next day, or when you like a cat
+ 
+
+309
+00:05:23,680 --> 00:05:25,749
+the next day, or when you like a cat
+post on Twitter and then you get 10 more
+
+310
+00:05:25,749 --> 00:05:25,759
+post on Twitter and then you get 10 more
+ 
+
+311
+00:05:25,759 --> 00:05:28,390
+post on Twitter and then you get 10 more
+of them. Now, here's my bold prediction.
+
+312
+00:05:28,390 --> 00:05:28,400
+of them. Now, here's my bold prediction.
+ 
+
+313
+00:05:28,400 --> 00:05:30,950
+of them. Now, here's my bold prediction.
+By the end of 2026, LinkedIn will be
+
+314
+00:05:30,950 --> 00:05:30,960
+By the end of 2026, LinkedIn will be
+ 
+
+315
+00:05:30,960 --> 00:05:33,909
+By the end of 2026, LinkedIn will be
+dominated by expert prneurs. Not content
+
+316
+00:05:33,909 --> 00:05:33,919
+dominated by expert prneurs. Not content
+ 
+
+317
+00:05:33,919 --> 00:05:36,390
+dominated by expert prneurs. Not content
+creators, not motivational speakers,
+
+318
+00:05:36,390 --> 00:05:36,400
+creators, not motivational speakers,
+ 
+
+319
+00:05:36,400 --> 00:05:38,790
+creators, not motivational speakers,
+expertreneurs. Now, if you're not a
+
+320
+00:05:38,790 --> 00:05:38,800
+expertreneurs. Now, if you're not a
+ 
+
+321
+00:05:38,800 --> 00:05:41,110
+expertreneurs. Now, if you're not a
+domain expert yet, I'll get to you in a
+
+322
+00:05:41,110 --> 00:05:41,120
+domain expert yet, I'll get to you in a
+ 
+
+323
+00:05:41,120 --> 00:05:42,950
+domain expert yet, I'll get to you in a
+second. I promise I've got good news for
+
+324
+00:05:42,950 --> 00:05:42,960
+second. I promise I've got good news for
+ 
+
+325
+00:05:42,960 --> 00:05:45,029
+second. I promise I've got good news for
+you, too. But expertreneurs are people
+
+326
+00:05:45,029 --> 00:05:45,039
+you, too. But expertreneurs are people
+ 
+
+327
+00:05:45,039 --> 00:05:47,029
+you, too. But expertreneurs are people
+who combine both deep expertise with
+
+328
+00:05:47,029 --> 00:05:47,039
+who combine both deep expertise with
+ 
+
+329
+00:05:47,039 --> 00:05:49,110
+who combine both deep expertise with
+entrepreneurial execution. The ones who
+
+330
+00:05:49,110 --> 00:05:49,120
+entrepreneurial execution. The ones who
+ 
+
+331
+00:05:49,120 --> 00:05:51,350
+entrepreneurial execution. The ones who
+live and breathe speed over motivational
+
+332
+00:05:51,350 --> 00:05:51,360
+live and breathe speed over motivational
+ 
+
+333
+00:05:51,360 --> 00:05:53,590
+live and breathe speed over motivational
+fluff. The ones who are seen doing the
+
+334
+00:05:53,590 --> 00:05:53,600
+fluff. The ones who are seen doing the
+ 
+
+335
+00:05:53,600 --> 00:05:55,510
+fluff. The ones who are seen doing the
+thing rather than just talking about it.
+
+336
+00:05:55,510 --> 00:05:55,520
+thing rather than just talking about it.
+ 
+
+337
+00:05:55,520 --> 00:05:57,350
+thing rather than just talking about it.
+The blue ocean is still there for
+
+338
+00:05:57,350 --> 00:05:57,360
+The blue ocean is still there for
+ 
+
+339
+00:05:57,360 --> 00:05:59,350
+The blue ocean is still there for
+LinkedIn, but is shifting from an anyone
+
+340
+00:05:59,350 --> 00:05:59,360
+LinkedIn, but is shifting from an anyone
+ 
+
+341
+00:05:59,360 --> 00:06:01,990
+LinkedIn, but is shifting from an anyone
+can post to an expert-led content wins.
+
+342
+00:06:01,990 --> 00:06:02,000
+can post to an expert-led content wins.
+ 
+
+343
+00:06:02,000 --> 00:06:04,309
+can post to an expert-led content wins.
+The era of the micro niches where no one
+
+344
+00:06:04,309 --> 00:06:04,319
+The era of the micro niches where no one
+ 
+
+345
+00:06:04,319 --> 00:06:07,189
+The era of the micro niches where no one
+has claimed expert status yet has just
+
+346
+00:06:07,189 --> 00:06:07,199
+has claimed expert status yet has just
+ 
+
+347
+00:06:07,199 --> 00:06:09,270
+has claimed expert status yet has just
+begun. And I've seen this done to near
+
+348
+00:06:09,270 --> 00:06:09,280
+begun. And I've seen this done to near
+ 
+
+349
+00:06:09,280 --> 00:06:11,590
+begun. And I've seen this done to near
+perfect execution. This is my friend
+
+350
+00:06:11,590 --> 00:06:11,600
+perfect execution. This is my friend
+ 
+
+351
+00:06:11,600 --> 00:06:13,749
+perfect execution. This is my friend
+Jake and also one of my co-founders for
+
+352
+00:06:13,749 --> 00:06:13,759
+Jake and also one of my co-founders for
+ 
+
+353
+00:06:13,759 --> 00:06:15,909
+Jake and also one of my co-founders for
+a software business. He saw the wave of
+
+354
+00:06:15,909 --> 00:06:15,919
+a software business. He saw the wave of
+ 
+
+355
+00:06:15,919 --> 00:06:18,070
+a software business. He saw the wave of
+viral storytelling and decided not to
+
+356
+00:06:18,070 --> 00:06:18,080
+viral storytelling and decided not to
+ 
+
+357
+00:06:18,080 --> 00:06:20,390
+viral storytelling and decided not to
+hop on it. Instead, he microniched down
+
+358
+00:06:20,390 --> 00:06:20,400
+hop on it. Instead, he microniched down
+ 
+
+359
+00:06:20,400 --> 00:06:23,189
+hop on it. Instead, he microniched down
+on the one thing, SEO. At the time, SEO
+
+360
+00:06:23,189 --> 00:06:23,199
+on the one thing, SEO. At the time, SEO
+ 
+
+361
+00:06:23,199 --> 00:06:25,670
+on the one thing, SEO. At the time, SEO
+content looked like this and like this.
+
+362
+00:06:25,670 --> 00:06:25,680
+content looked like this and like this.
+ 
+
+363
+00:06:25,680 --> 00:06:28,790
+content looked like this and like this.
+Broad, boring, vague. So, he decided to
+
+364
+00:06:28,790 --> 00:06:28,800
+Broad, boring, vague. So, he decided to
+ 
+
+365
+00:06:28,800 --> 00:06:31,430
+Broad, boring, vague. So, he decided to
+share the entire playbook out for free
+
+366
+00:06:31,430 --> 00:06:31,440
+share the entire playbook out for free
+ 
+
+367
+00:06:31,440 --> 00:06:33,909
+share the entire playbook out for free
+every day for 2 years. Today, he's
+
+368
+00:06:33,909 --> 00:06:33,919
+every day for 2 years. Today, he's
+ 
+
+369
+00:06:33,919 --> 00:06:36,550
+every day for 2 years. Today, he's
+nearly at 200,000 followers. He's a top
+
+370
+00:06:36,550 --> 00:06:36,560
+nearly at 200,000 followers. He's a top
+ 
+
+371
+00:06:36,560 --> 00:06:39,189
+nearly at 200,000 followers. He's a top
+expert for SEO on LinkedIn. And he's
+
+372
+00:06:39,189 --> 00:06:39,199
+expert for SEO on LinkedIn. And he's
+ 
+
+373
+00:06:39,199 --> 00:06:41,350
+expert for SEO on LinkedIn. And he's
+never shared a crying selfie or a
+
+374
+00:06:41,350 --> 00:06:41,360
+never shared a crying selfie or a
+ 
+
+375
+00:06:41,360 --> 00:06:43,590
+never shared a crying selfie or a
+productivity carousel. Whenever anyone
+
+376
+00:06:43,590 --> 00:06:43,600
+productivity carousel. Whenever anyone
+ 
+
+377
+00:06:43,600 --> 00:06:45,670
+productivity carousel. Whenever anyone
+thinks about SEO, they think of him,
+
+378
+00:06:45,670 --> 00:06:45,680
+thinks about SEO, they think of him,
+ 
+
+379
+00:06:45,680 --> 00:06:47,909
+thinks about SEO, they think of him,
+which drives hundreds of leads to his,
+
+380
+00:06:47,909 --> 00:06:47,919
+which drives hundreds of leads to his,
+ 
+
+381
+00:06:47,919 --> 00:06:50,629
+which drives hundreds of leads to his,
+drum roll, SEO agency. Now the thing
+
+382
+00:06:50,629 --> 00:06:50,639
+drum roll, SEO agency. Now the thing
+ 
+
+383
+00:06:50,639 --> 00:06:52,550
+drum roll, SEO agency. Now the thing
+here and this is important when he
+
+384
+00:06:52,550 --> 00:06:52,560
+here and this is important when he
+ 
+
+385
+00:06:52,560 --> 00:06:54,550
+here and this is important when he
+started he was just like many of you
+
+386
+00:06:54,550 --> 00:06:54,560
+started he was just like many of you
+ 
+
+387
+00:06:54,560 --> 00:06:57,430
+started he was just like many of you
+too. Not a domain expert not a renown
+
+388
+00:06:57,430 --> 00:06:57,440
+too. Not a domain expert not a renown
+ 
+
+389
+00:06:57,440 --> 00:07:00,710
+too. Not a domain expert not a renown
+founder no fancy titles no online clout
+
+390
+00:07:00,710 --> 00:07:00,720
+founder no fancy titles no online clout
+ 
+
+391
+00:07:00,720 --> 00:07:03,270
+founder no fancy titles no online clout
+just someone with a mini agency and one
+
+392
+00:07:03,270 --> 00:07:03,280
+just someone with a mini agency and one
+ 
+
+393
+00:07:03,280 --> 00:07:05,830
+just someone with a mini agency and one
+goal lead generation. And over time he
+
+394
+00:07:05,830 --> 00:07:05,840
+goal lead generation. And over time he
+ 
+
+395
+00:07:05,840 --> 00:07:08,629
+goal lead generation. And over time he
+earns the expert title. And this can
+
+396
+00:07:08,629 --> 00:07:08,639
+earns the expert title. And this can
+ 
+
+397
+00:07:08,639 --> 00:07:10,710
+earns the expert title. And this can
+happen to anyone who does the exact same
+
+398
+00:07:10,710 --> 00:07:10,720
+happen to anyone who does the exact same
+ 
+
+399
+00:07:10,720 --> 00:07:13,110
+happen to anyone who does the exact same
+thing. I see it happen nearly every
+
+400
+00:07:13,110 --> 00:07:13,120
+thing. I see it happen nearly every
+ 
+
+401
+00:07:13,120 --> 00:07:15,430
+thing. I see it happen nearly every
+single month. AI consultants going from
+
+402
+00:07:15,430 --> 00:07:15,440
+single month. AI consultants going from
+ 
+
+403
+00:07:15,440 --> 00:07:18,230
+single month. AI consultants going from
+zero to 50,000 followers in months and
+
+404
+00:07:18,230 --> 00:07:18,240
+zero to 50,000 followers in months and
+ 
+
+405
+00:07:18,240 --> 00:07:21,350
+zero to 50,000 followers in months and
+then adding an extra $100,000 in revenue
+
+406
+00:07:21,350 --> 00:07:21,360
+then adding an extra $100,000 in revenue
+ 
+
+407
+00:07:21,360 --> 00:07:23,029
+then adding an extra $100,000 in revenue
+in one single month. LinkedIn
+
+408
+00:07:23,029 --> 00:07:23,039
+in one single month. LinkedIn
+ 
+
+409
+00:07:23,039 --> 00:07:24,870
+in one single month. LinkedIn
+strategists building seven figureure
+
+410
+00:07:24,870 --> 00:07:24,880
+strategists building seven figureure
+ 
+
+411
+00:07:24,880 --> 00:07:27,110
+strategists building seven figureure
+agencies, niche experts becoming the
+
+412
+00:07:27,110 --> 00:07:27,120
+agencies, niche experts becoming the
+ 
+
+413
+00:07:27,120 --> 00:07:29,589
+agencies, niche experts becoming the
+go-to voice in their industry. The
+
+414
+00:07:29,589 --> 00:07:29,599
+go-to voice in their industry. The
+ 
+
+415
+00:07:29,599 --> 00:07:32,390
+go-to voice in their industry. The
+entrepreneurs who move fast in 2026 will
+
+416
+00:07:32,390 --> 00:07:32,400
+entrepreneurs who move fast in 2026 will
+ 
+
+417
+00:07:32,400 --> 00:07:34,550
+entrepreneurs who move fast in 2026 will
+dominate. But the ones who hesitate will
+
+418
+00:07:34,550 --> 00:07:34,560
+dominate. But the ones who hesitate will
+ 
+
+419
+00:07:34,560 --> 00:07:37,110
+dominate. But the ones who hesitate will
+spend years trying to catch up. Now,
+
+420
+00:07:37,110 --> 00:07:37,120
+spend years trying to catch up. Now,
+ 
+
+421
+00:07:37,120 --> 00:07:38,870
+spend years trying to catch up. Now,
+here's why I'm sharing this prediction
+
+422
+00:07:38,870 --> 00:07:38,880
+here's why I'm sharing this prediction
+ 
+
+423
+00:07:38,880 --> 00:07:41,350
+here's why I'm sharing this prediction
+so early in the year. There's still a 12
+
+424
+00:07:41,350 --> 00:07:41,360
+so early in the year. There's still a 12
+ 
+
+425
+00:07:41,360 --> 00:07:43,350
+so early in the year. There's still a 12
+month window before everyone else
+
+426
+00:07:43,350 --> 00:07:43,360
+month window before everyone else
+ 
+
+427
+00:07:43,360 --> 00:07:45,589
+month window before everyone else
+catches on because even if they hear it,
+
+428
+00:07:45,589 --> 00:07:45,599
+catches on because even if they hear it,
+ 
+
+429
+00:07:45,599 --> 00:07:47,510
+catches on because even if they hear it,
+people won't actually do it until it's
+
+430
+00:07:47,510 --> 00:07:47,520
+people won't actually do it until it's
+ 
+
+431
+00:07:47,520 --> 00:07:50,230
+people won't actually do it until it's
+too late. I've seen this pattern before.
+
+432
+00:07:50,230 --> 00:07:50,240
+too late. I've seen this pattern before.
+ 
+
+433
+00:07:50,240 --> 00:07:52,390
+too late. I've seen this pattern before.
+Instagram in 2012, basic content,
+
+434
+00:07:52,390 --> 00:07:52,400
+Instagram in 2012, basic content,
+ 
+
+435
+00:07:52,400 --> 00:07:54,710
+Instagram in 2012, basic content,
+massive growth. YouTube in 2015, simple
+
+436
+00:07:54,710 --> 00:07:54,720
+massive growth. YouTube in 2015, simple
+ 
+
+437
+00:07:54,720 --> 00:07:56,629
+massive growth. YouTube in 2015, simple
+videos but millions of subscribers. Tik
+
+438
+00:07:56,629 --> 00:07:56,639
+videos but millions of subscribers. Tik
+ 
+
+439
+00:07:56,639 --> 00:07:59,350
+videos but millions of subscribers. Tik
+Tok in 2019, anyone could go viral.
+
+440
+00:07:59,350 --> 00:07:59,360
+Tok in 2019, anyone could go viral.
+ 
+
+441
+00:07:59,360 --> 00:08:02,070
+Tok in 2019, anyone could go viral.
+LinkedIn is having its expert moment
+
+442
+00:08:02,070 --> 00:08:02,080
+LinkedIn is having its expert moment
+ 
+
+443
+00:08:02,080 --> 00:08:04,390
+LinkedIn is having its expert moment
+right now. But like I said, the blue
+
+444
+00:08:04,390 --> 00:08:04,400
+right now. But like I said, the blue
+ 
+
+445
+00:08:04,400 --> 00:08:06,790
+right now. But like I said, the blue
+ocean has moved and it's becoming
+
+446
+00:08:06,790 --> 00:08:06,800
+ocean has moved and it's becoming
+ 
+
+447
+00:08:06,800 --> 00:08:08,629
+ocean has moved and it's becoming
+smaller. The algorithm is actively
+
+448
+00:08:08,629 --> 00:08:08,639
+smaller. The algorithm is actively
+ 
+
+449
+00:08:08,639 --> 00:08:10,710
+smaller. The algorithm is actively
+looking for domain experts to amplify.
+
+450
+00:08:10,710 --> 00:08:10,720
+looking for domain experts to amplify.
+ 
+
+451
+00:08:10,720 --> 00:08:12,710
+looking for domain experts to amplify.
+Not just another influencer, not just
+
+452
+00:08:12,710 --> 00:08:12,720
+Not just another influencer, not just
+ 
+
+453
+00:08:12,720 --> 00:08:14,550
+Not just another influencer, not just
+another viral creator. That's why
+
+454
+00:08:14,550 --> 00:08:14,560
+another viral creator. That's why
+ 
+
+455
+00:08:14,560 --> 00:08:16,469
+another viral creator. That's why
+creators with viral content who tried to
+
+456
+00:08:16,469 --> 00:08:16,479
+creators with viral content who tried to
+ 
+
+457
+00:08:16,479 --> 00:08:18,469
+creators with viral content who tried to
+hop on LinkedIn failed because that's
+
+458
+00:08:18,469 --> 00:08:18,479
+hop on LinkedIn failed because that's
+ 
+
+459
+00:08:18,479 --> 00:08:21,189
+hop on LinkedIn failed because that's
+all they had. Viral flashy content, but
+
+460
+00:08:21,189 --> 00:08:21,199
+all they had. Viral flashy content, but
+ 
+
+461
+00:08:21,199 --> 00:08:23,749
+all they had. Viral flashy content, but
+no real showcase of insights. And the
+
+462
+00:08:23,749 --> 00:08:23,759
+no real showcase of insights. And the
+ 
+
+463
+00:08:23,759 --> 00:08:25,589
+no real showcase of insights. And the
+saddest part, most of them would
+
+464
+00:08:25,589 --> 00:08:25,599
+saddest part, most of them would
+ 
+
+465
+00:08:25,599 --> 00:08:27,189
+saddest part, most of them would
+actually crush it on there. But they
+
+466
+00:08:27,189 --> 00:08:27,199
+actually crush it on there. But they
+ 
+
+467
+00:08:27,199 --> 00:08:29,110
+actually crush it on there. But they
+lack the right frameworks to turn their
+
+468
+00:08:29,110 --> 00:08:29,120
+lack the right frameworks to turn their
+ 
+
+469
+00:08:29,120 --> 00:08:32,149
+lack the right frameworks to turn their
+content into expertled content. And if
+
+470
+00:08:32,149 --> 00:08:32,159
+content into expertled content. And if
+ 
+
+471
+00:08:32,159 --> 00:08:33,829
+content into expertled content. And if
+that sounds like you, I actually put
+
+472
+00:08:33,829 --> 00:08:33,839
+that sounds like you, I actually put
+ 
+
+473
+00:08:33,839 --> 00:08:36,230
+that sounds like you, I actually put
+together a 7-day free course teaching
+
+474
+00:08:36,230 --> 00:08:36,240
+together a 7-day free course teaching
+ 
+
+475
+00:08:36,240 --> 00:08:38,630
+together a 7-day free course teaching
+you exactly how to write, strategize,
+
+476
+00:08:38,630 --> 00:08:38,640
+you exactly how to write, strategize,
+ 
+
+477
+00:08:38,640 --> 00:08:40,389
+you exactly how to write, strategize,
+and position yourself on LinkedIn. Check
+
+478
+00:08:40,389 --> 00:08:40,399
+and position yourself on LinkedIn. Check
+ 
+
+479
+00:08:40,399 --> 00:08:42,070
+and position yourself on LinkedIn. Check
+it out in the description. It's free.
+
+480
+00:08:42,070 --> 00:08:42,080
+it out in the description. It's free.
+ 
+
+481
+00:08:42,080 --> 00:08:43,750
+it out in the description. It's free.
+And while you're there, please subscribe
+
+482
+00:08:43,750 --> 00:08:43,760
+And while you're there, please subscribe
+ 
+
+483
+00:08:43,760 --> 00:08:45,750
+And while you're there, please subscribe
+to my channel. My editors are going to
+
+484
+00:08:45,750 --> 00:08:45,760
+to my channel. My editors are going to
+ 
+
+485
+00:08:45,760 --> 00:08:47,910
+to my channel. My editors are going to
+kill me at how long this video actually
+
+486
+00:08:47,910 --> 00:08:47,920
+kill me at how long this video actually
+ 
+
+487
+00:08:47,920 --> 00:08:49,990
+kill me at how long this video actually
+is right now. So, please subscribe so
+
+488
+00:08:49,990 --> 00:08:50,000
+is right now. So, please subscribe so
+ 
+
+489
+00:08:50,000 --> 00:08:51,829
+is right now. So, please subscribe so
+they don't quit. It helps us both. Thank
+
+490
+00:08:51,829 --> 00:08:51,839
+they don't quit. It helps us both. Thank
+ 
+
+491
+00:08:51,839 --> 00:08:54,389
+they don't quit. It helps us both. Thank
+you. See, while everyone's trying to be
+
+492
+00:08:54,389 --> 00:08:54,399
+you. See, while everyone's trying to be
+ 
+
+493
+00:08:54,399 --> 00:08:57,430
+you. See, while everyone's trying to be
+funny or inspirational, you can focus on
+
+494
+00:08:57,430 --> 00:08:57,440
+funny or inspirational, you can focus on
+ 
+
+495
+00:08:57,440 --> 00:08:59,509
+funny or inspirational, you can focus on
+being useful. Now, here's the exact
+
+496
+00:08:59,509 --> 00:08:59,519
+being useful. Now, here's the exact
+ 
+
+497
+00:08:59,519 --> 00:09:01,430
+being useful. Now, here's the exact
+strategy I'd use if I had to start from
+
+498
+00:09:01,430 --> 00:09:01,440
+strategy I'd use if I had to start from
+ 
+
+499
+00:09:01,440 --> 00:09:03,590
+strategy I'd use if I had to start from
+zero. Today, you're going to go hyper
+
+500
+00:09:03,590 --> 00:09:03,600
+zero. Today, you're going to go hyper
+ 
+
+501
+00:09:03,600 --> 00:09:06,070
+zero. Today, you're going to go hyper
+niche in your topic of expertise. So,
+
+502
+00:09:06,070 --> 00:09:06,080
+niche in your topic of expertise. So,
+ 
+
+503
+00:09:06,080 --> 00:09:08,630
+niche in your topic of expertise. So,
+forget about saying I do marketing or I
+
+504
+00:09:08,630 --> 00:09:08,640
+forget about saying I do marketing or I
+ 
+
+505
+00:09:08,640 --> 00:09:11,590
+forget about saying I do marketing or I
+do sales. Go microspecific like email
+
+506
+00:09:11,590 --> 00:09:11,600
+do sales. Go microspecific like email
+ 
+
+507
+00:09:11,600 --> 00:09:13,829
+do sales. Go microspecific like email
+automations for e-commerce brands doing
+
+508
+00:09:13,829 --> 00:09:13,839
+automations for e-commerce brands doing
+ 
+
+509
+00:09:13,839 --> 00:09:15,990
+automations for e-commerce brands doing
+1 million plus a year. With this, you
+
+510
+00:09:15,990 --> 00:09:16,000
+1 million plus a year. With this, you
+ 
+
+511
+00:09:16,000 --> 00:09:18,310
+1 million plus a year. With this, you
+want to be the only person talking about
+
+512
+00:09:18,310 --> 00:09:18,320
+want to be the only person talking about
+ 
+
+513
+00:09:18,320 --> 00:09:20,630
+want to be the only person talking about
+the specific thing or if not, you want
+
+514
+00:09:20,630 --> 00:09:20,640
+the specific thing or if not, you want
+ 
+
+515
+00:09:20,640 --> 00:09:23,030
+the specific thing or if not, you want
+to be the best. Someone who's doing this
+
+516
+00:09:23,030 --> 00:09:23,040
+to be the best. Someone who's doing this
+ 
+
+517
+00:09:23,040 --> 00:09:25,829
+to be the best. Someone who's doing this
+incredibly well is Daniel Bamante. He's
+
+518
+00:09:25,829 --> 00:09:25,839
+incredibly well is Daniel Bamante. He's
+ 
+
+519
+00:09:25,839 --> 00:09:28,630
+incredibly well is Daniel Bamante. He's
+absolutely nailed expertled positioning.
+
+520
+00:09:28,630 --> 00:09:28,640
+absolutely nailed expertled positioning.
+ 
+
+521
+00:09:28,640 --> 00:09:30,150
+absolutely nailed expertled positioning.
+Had the pleasure to meet him. Actually
+
+522
+00:09:30,150 --> 00:09:30,160
+Had the pleasure to meet him. Actually
+ 
+
+523
+00:09:30,160 --> 00:09:32,070
+Had the pleasure to meet him. Actually
+had consulting with him and I found him
+
+524
+00:09:32,070 --> 00:09:32,080
+had consulting with him and I found him
+ 
+
+525
+00:09:32,080 --> 00:09:34,790
+had consulting with him and I found him
+via LinkedIn. He's making thousands of
+
+526
+00:09:34,790 --> 00:09:34,800
+via LinkedIn. He's making thousands of
+ 
+
+527
+00:09:34,800 --> 00:09:37,030
+via LinkedIn. He's making thousands of
+dollars off of his LinkedIn. So pretty
+
+528
+00:09:37,030 --> 00:09:37,040
+dollars off of his LinkedIn. So pretty
+ 
+
+529
+00:09:37,040 --> 00:09:38,870
+dollars off of his LinkedIn. So pretty
+validated example here. And I also
+
+530
+00:09:38,870 --> 00:09:38,880
+validated example here. And I also
+ 
+
+531
+00:09:38,880 --> 00:09:40,550
+validated example here. And I also
+reached out to him organically. So
+
+532
+00:09:40,550 --> 00:09:40,560
+reached out to him organically. So
+ 
+
+533
+00:09:40,560 --> 00:09:42,790
+reached out to him organically. So
+that's double validation. Now step two
+
+534
+00:09:42,790 --> 00:09:42,800
+that's double validation. Now step two
+ 
+
+535
+00:09:42,800 --> 00:09:44,949
+that's double validation. Now step two
+is that your headline needs an upgrade.
+
+536
+00:09:44,949 --> 00:09:44,959
+is that your headline needs an upgrade.
+ 
+
+537
+00:09:44,959 --> 00:09:46,710
+is that your headline needs an upgrade.
+The headline formula has changed
+
+538
+00:09:46,710 --> 00:09:46,720
+The headline formula has changed
+ 
+
+539
+00:09:46,720 --> 00:09:48,870
+The headline formula has changed
+completely. The old way is I help
+
+540
+00:09:48,870 --> 00:09:48,880
+completely. The old way is I help
+ 
+
+541
+00:09:48,880 --> 00:09:50,550
+completely. The old way is I help
+businesses grow with marketing. That's
+
+542
+00:09:50,550 --> 00:09:50,560
+businesses grow with marketing. That's
+ 
+
+543
+00:09:50,560 --> 00:09:52,870
+businesses grow with marketing. That's
+vague. Now the new way is something like
+
+544
+00:09:52,870 --> 00:09:52,880
+vague. Now the new way is something like
+ 
+
+545
+00:09:52,880 --> 00:09:55,670
+vague. Now the new way is something like
+scaled 47 e-commerce brands past 5
+
+546
+00:09:55,670 --> 00:09:55,680
+scaled 47 e-commerce brands past 5
+ 
+
+547
+00:09:55,680 --> 00:09:58,150
+scaled 47 e-commerce brands past 5
+millions with email automation free case
+
+548
+00:09:58,150 --> 00:09:58,160
+millions with email automation free case
+ 
+
+549
+00:09:58,160 --> 00:09:59,990
+millions with email automation free case
+study below with an arrow lead with
+
+550
+00:09:59,990 --> 00:10:00,000
+study below with an arrow lead with
+ 
+
+551
+00:10:00,000 --> 00:10:02,710
+study below with an arrow lead with
+proof then the promise then the delivery
+
+552
+00:10:02,710 --> 00:10:02,720
+proof then the promise then the delivery
+ 
+
+553
+00:10:02,720 --> 00:10:05,509
+proof then the promise then the delivery
+mechanism and then your banner then aids
+
+554
+00:10:05,509 --> 00:10:05,519
+mechanism and then your banner then aids
+ 
+
+555
+00:10:05,519 --> 00:10:08,070
+mechanism and then your banner then aids
+that process the more professional and
+
+556
+00:10:08,070 --> 00:10:08,080
+that process the more professional and
+ 
+
+557
+00:10:08,080 --> 00:10:10,470
+that process the more professional and
+clean your banner looks the better. But
+
+558
+00:10:10,470 --> 00:10:10,480
+clean your banner looks the better. But
+ 
+
+559
+00:10:10,480 --> 00:10:12,230
+clean your banner looks the better. But
+again, look at Adam Robinson's. You
+
+560
+00:10:12,230 --> 00:10:12,240
+again, look at Adam Robinson's. You
+ 
+
+561
+00:10:12,240 --> 00:10:14,230
+again, look at Adam Robinson's. You
+don't need a mega designer for this.
+
+562
+00:10:14,230 --> 00:10:14,240
+don't need a mega designer for this.
+ 
+
+563
+00:10:14,240 --> 00:10:16,389
+don't need a mega designer for this.
+Don't worry. Just show results, show
+
+564
+00:10:16,389 --> 00:10:16,399
+Don't worry. Just show results, show
+ 
+
+565
+00:10:16,399 --> 00:10:19,030
+Don't worry. Just show results, show
+clients, show authority. Period. Now,
+
+566
+00:10:19,030 --> 00:10:19,040
+clients, show authority. Period. Now,
+ 
+
+567
+00:10:19,040 --> 00:10:21,430
+clients, show authority. Period. Now,
+step three is your proof first content
+
+568
+00:10:21,430 --> 00:10:21,440
+step three is your proof first content
+ 
+
+569
+00:10:21,440 --> 00:10:23,910
+step three is your proof first content
+strategy. 80% tactical post based on
+
+570
+00:10:23,910 --> 00:10:23,920
+strategy. 80% tactical post based on
+ 
+
+571
+00:10:23,920 --> 00:10:25,590
+strategy. 80% tactical post based on
+your lived experience, 20%
+
+572
+00:10:25,590 --> 00:10:25,600
+your lived experience, 20%
+ 
+
+573
+00:10:25,600 --> 00:10:27,190
+your lived experience, 20%
+behind-the-scenes content of you doing
+
+574
+00:10:27,190 --> 00:10:27,200
+behind-the-scenes content of you doing
+ 
+
+575
+00:10:27,200 --> 00:10:29,269
+behind-the-scenes content of you doing
+the work. Every post needs to answer,
+
+576
+00:10:29,269 --> 00:10:29,279
+the work. Every post needs to answer,
+ 
+
+577
+00:10:29,279 --> 00:10:31,590
+the work. Every post needs to answer,
+how do I know this person has actually
+
+578
+00:10:31,590 --> 00:10:31,600
+how do I know this person has actually
+ 
+
+579
+00:10:31,600 --> 00:10:33,829
+how do I know this person has actually
+done this? screenshots, case studies,
+
+580
+00:10:33,829 --> 00:10:33,839
+done this? screenshots, case studies,
+ 
+
+581
+00:10:33,839 --> 00:10:35,670
+done this? screenshots, case studies,
+before and after results. And if you
+
+582
+00:10:35,670 --> 00:10:35,680
+before and after results. And if you
+ 
+
+583
+00:10:35,680 --> 00:10:37,190
+before and after results. And if you
+don't have them, then make sure your
+
+584
+00:10:37,190 --> 00:10:37,200
+don't have them, then make sure your
+ 
+
+585
+00:10:37,200 --> 00:10:39,350
+don't have them, then make sure your
+content itself solves an issue for the
+
+586
+00:10:39,350 --> 00:10:39,360
+content itself solves an issue for the
+ 
+
+587
+00:10:39,360 --> 00:10:41,750
+content itself solves an issue for the
+reader right then and there. It needs to
+
+588
+00:10:41,750 --> 00:10:41,760
+reader right then and there. It needs to
+ 
+
+589
+00:10:41,760 --> 00:10:43,590
+reader right then and there. It needs to
+be applicable instantly in order to get
+
+590
+00:10:43,590 --> 00:10:43,600
+be applicable instantly in order to get
+ 
+
+591
+00:10:43,600 --> 00:10:45,430
+be applicable instantly in order to get
+that social proof you may be lacking
+
+592
+00:10:45,430 --> 00:10:45,440
+that social proof you may be lacking
+ 
+
+593
+00:10:45,440 --> 00:10:46,710
+that social proof you may be lacking
+right now if you don't have any case
+
+594
+00:10:46,710 --> 00:10:46,720
+right now if you don't have any case
+ 
+
+595
+00:10:46,720 --> 00:10:48,550
+right now if you don't have any case
+studies or testimonials or social proof
+
+596
+00:10:48,550 --> 00:10:48,560
+studies or testimonials or social proof
+ 
+
+597
+00:10:48,560 --> 00:10:50,790
+studies or testimonials or social proof
+or any of those things. But please, and
+
+598
+00:10:50,790 --> 00:10:50,800
+or any of those things. But please, and
+ 
+
+599
+00:10:50,800 --> 00:10:53,269
+or any of those things. But please, and
+I say please, no more here's what I
+
+600
+00:10:53,269 --> 00:10:53,279
+I say please, no more here's what I
+ 
+
+601
+00:10:53,279 --> 00:10:55,269
+I say please, no more here's what I
+learned post because they don't work.
+
+602
+00:10:55,269 --> 00:10:55,279
+learned post because they don't work.
+ 
+
+603
+00:10:55,279 --> 00:10:57,590
+learned post because they don't work.
+Only here's what I did and here's what
+
+604
+00:10:57,590 --> 00:10:57,600
+Only here's what I did and here's what
+ 
+
+605
+00:10:57,600 --> 00:11:00,230
+Only here's what I did and here's what
+happened posts. Please. And by the way,
+
+606
+00:11:00,230 --> 00:11:00,240
+happened posts. Please. And by the way,
+ 
+
+607
+00:11:00,240 --> 00:11:02,310
+happened posts. Please. And by the way,
+you can also use storytelling to aid
+
+608
+00:11:02,310 --> 00:11:02,320
+you can also use storytelling to aid
+ 
+
+609
+00:11:02,320 --> 00:11:04,230
+you can also use storytelling to aid
+this, too. I did this last week with
+
+610
+00:11:04,230 --> 00:11:04,240
+this, too. I did this last week with
+ 
+
+611
+00:11:04,240 --> 00:11:06,630
+this, too. I did this last week with
+several of my posts where I referenced
+
+612
+00:11:06,630 --> 00:11:06,640
+several of my posts where I referenced
+ 
+
+613
+00:11:06,640 --> 00:11:08,870
+several of my posts where I referenced
+personal stories, conversations, and
+
+614
+00:11:08,870 --> 00:11:08,880
+personal stories, conversations, and
+ 
+
+615
+00:11:08,880 --> 00:11:10,949
+personal stories, conversations, and
+moments that I had in my real life. Then
+
+616
+00:11:10,949 --> 00:11:10,959
+moments that I had in my real life. Then
+ 
+
+617
+00:11:10,959 --> 00:11:13,269
+moments that I had in my real life. Then
+I linked them back to one tip or one
+
+618
+00:11:13,269 --> 00:11:13,279
+I linked them back to one tip or one
+ 
+
+619
+00:11:13,279 --> 00:11:15,509
+I linked them back to one tip or one
+lesson or one single thing that makes me
+
+620
+00:11:15,509 --> 00:11:15,519
+lesson or one single thing that makes me
+ 
+
+621
+00:11:15,519 --> 00:11:17,430
+lesson or one single thing that makes me
+look like an authority in that field,
+
+622
+00:11:17,430 --> 00:11:17,440
+look like an authority in that field,
+ 
+
+623
+00:11:17,440 --> 00:11:20,150
+look like an authority in that field,
+but I put a story on top of it so I felt
+
+624
+00:11:20,150 --> 00:11:20,160
+but I put a story on top of it so I felt
+ 
+
+625
+00:11:20,160 --> 00:11:21,910
+but I put a story on top of it so I felt
+more emotionally connected to my
+
+626
+00:11:21,910 --> 00:11:21,920
+more emotionally connected to my
+ 
+
+627
+00:11:21,920 --> 00:11:23,910
+more emotionally connected to my
+audience. And it works. Which leads me
+
+628
+00:11:23,910 --> 00:11:23,920
+audience. And it works. Which leads me
+ 
+
+629
+00:11:23,920 --> 00:11:26,389
+audience. And it works. Which leads me
+to step number four, expertled
+
+630
+00:11:26,389 --> 00:11:26,399
+to step number four, expertled
+ 
+
+631
+00:11:26,399 --> 00:11:29,030
+to step number four, expertled
+engagement system. Your comments need to
+
+632
+00:11:29,030 --> 00:11:29,040
+engagement system. Your comments need to
+ 
+
+633
+00:11:29,040 --> 00:11:31,670
+engagement system. Your comments need to
+add expert level insights. Don't just
+
+634
+00:11:31,670 --> 00:11:31,680
+add expert level insights. Don't just
+ 
+
+635
+00:11:31,680 --> 00:11:34,389
+add expert level insights. Don't just
+say great post, share a mini case study,
+
+636
+00:11:34,389 --> 00:11:34,399
+say great post, share a mini case study,
+ 
+
+637
+00:11:34,399 --> 00:11:36,389
+say great post, share a mini case study,
+challenge an assumption, add a tactical
+
+638
+00:11:36,389 --> 00:11:36,399
+challenge an assumption, add a tactical
+ 
+
+639
+00:11:36,399 --> 00:11:38,710
+challenge an assumption, add a tactical
+tip. Your comments become a mini post
+
+640
+00:11:38,710 --> 00:11:38,720
+tip. Your comments become a mini post
+ 
+
+641
+00:11:38,720 --> 00:11:41,269
+tip. Your comments become a mini post
+that drive traffic back to your profile.
+
+642
+00:11:41,269 --> 00:11:41,279
+that drive traffic back to your profile.
+ 
+
+643
+00:11:41,279 --> 00:11:43,590
+that drive traffic back to your profile.
+Now, for the bad news, you need to block
+
+644
+00:11:43,590 --> 00:11:43,600
+Now, for the bad news, you need to block
+ 
+
+645
+00:11:43,600 --> 00:11:46,550
+Now, for the bad news, you need to block
+one to two hours daily for this. Yes, 2
+
+646
+00:11:46,550 --> 00:11:46,560
+one to two hours daily for this. Yes, 2
+ 
+
+647
+00:11:46,560 --> 00:11:49,110
+one to two hours daily for this. Yes, 2
+hours. It's worth it. I promise. Now,
+
+648
+00:11:49,110 --> 00:11:49,120
+hours. It's worth it. I promise. Now,
+ 
+
+649
+00:11:49,120 --> 00:11:50,949
+hours. It's worth it. I promise. Now,
+this is what I tell my extremely busy
+
+650
+00:11:50,949 --> 00:11:50,959
+this is what I tell my extremely busy
+ 
+
+651
+00:11:50,959 --> 00:11:52,710
+this is what I tell my extremely busy
+clients because look, I get it. It's
+
+652
+00:11:52,710 --> 00:11:52,720
+clients because look, I get it. It's
+ 
+
+653
+00:11:52,720 --> 00:11:54,630
+clients because look, I get it. It's
+tiring. It's long. But you need to do it
+
+654
+00:11:54,630 --> 00:11:54,640
+tiring. It's long. But you need to do it
+ 
+
+655
+00:11:54,640 --> 00:11:56,550
+tiring. It's long. But you need to do it
+yourself for a while. then you can hire
+
+656
+00:11:56,550 --> 00:11:56,560
+yourself for a while. then you can hire
+ 
+
+657
+00:11:56,560 --> 00:11:58,470
+yourself for a while. then you can hire
+people to do it for you once you
+
+658
+00:11:58,470 --> 00:11:58,480
+people to do it for you once you
+ 
+
+659
+00:11:58,480 --> 00:12:00,550
+people to do it for you once you
+understand your own tone of voice and
+
+660
+00:12:00,550 --> 00:12:00,560
+understand your own tone of voice and
+ 
+
+661
+00:12:00,560 --> 00:12:02,389
+understand your own tone of voice and
+your type of replies and who you
+
+662
+00:12:02,389 --> 00:12:02,399
+your type of replies and who you
+ 
+
+663
+00:12:02,399 --> 00:12:04,310
+your type of replies and who you
+actually like engaging with. Now, I
+
+664
+00:12:04,310 --> 00:12:04,320
+actually like engaging with. Now, I
+ 
+
+665
+00:12:04,320 --> 00:12:05,990
+actually like engaging with. Now, I
+still do this myself for at least 2
+
+666
+00:12:05,990 --> 00:12:06,000
+still do this myself for at least 2
+ 
+
+667
+00:12:06,000 --> 00:12:08,230
+still do this myself for at least 2
+hours a day because it matters and it's
+
+668
+00:12:08,230 --> 00:12:08,240
+hours a day because it matters and it's
+ 
+
+669
+00:12:08,240 --> 00:12:09,990
+hours a day because it matters and it's
+worth it. Now, here's the one thing I
+
+670
+00:12:09,990 --> 00:12:10,000
+worth it. Now, here's the one thing I
+ 
+
+671
+00:12:10,000 --> 00:12:11,430
+worth it. Now, here's the one thing I
+want to talk about that no one on
+
+672
+00:12:11,430 --> 00:12:11,440
+want to talk about that no one on
+ 
+
+673
+00:12:11,440 --> 00:12:12,949
+want to talk about that no one on
+YouTube has touched on yet, and it's
+
+674
+00:12:12,949 --> 00:12:12,959
+YouTube has touched on yet, and it's
+ 
+
+675
+00:12:12,959 --> 00:12:14,230
+YouTube has touched on yet, and it's
+part of my new blueprint that I'm
+
+676
+00:12:14,230 --> 00:12:14,240
+part of my new blueprint that I'm
+ 
+
+677
+00:12:14,240 --> 00:12:16,470
+part of my new blueprint that I'm
+building for 2026. Thought leadership
+
+678
+00:12:16,470 --> 00:12:16,480
+building for 2026. Thought leadership
+ 
+
+679
+00:12:16,480 --> 00:12:18,710
+building for 2026. Thought leadership
+ads. This is where 2026 gets
+
+680
+00:12:18,710 --> 00:12:18,720
+ads. This is where 2026 gets
+ 
+
+681
+00:12:18,720 --> 00:12:20,550
+ads. This is where 2026 gets
+interesting. See, thought leadership ads
+
+682
+00:12:20,550 --> 00:12:20,560
+interesting. See, thought leadership ads
+ 
+
+683
+00:12:20,560 --> 00:12:22,790
+interesting. See, thought leadership ads
+are kind of new, but have proven to be
+
+684
+00:12:22,790 --> 00:12:22,800
+are kind of new, but have proven to be
+ 
+
+685
+00:12:22,800 --> 00:12:25,030
+are kind of new, but have proven to be
+incredibly effective so far. You can't
+
+686
+00:12:25,030 --> 00:12:25,040
+incredibly effective so far. You can't
+ 
+
+687
+00:12:25,040 --> 00:12:27,110
+incredibly effective so far. You can't
+even tell they're ads. So, the success
+
+688
+00:12:27,110 --> 00:12:27,120
+even tell they're ads. So, the success
+ 
+
+689
+00:12:27,120 --> 00:12:28,949
+even tell they're ads. So, the success
+rate is massive. You're basically
+
+690
+00:12:28,949 --> 00:12:28,959
+rate is massive. You're basically
+ 
+
+691
+00:12:28,959 --> 00:12:30,949
+rate is massive. You're basically
+boosting your own organic post and
+
+692
+00:12:30,949 --> 00:12:30,959
+boosting your own organic post and
+ 
+
+693
+00:12:30,959 --> 00:12:32,629
+boosting your own organic post and
+putting them onto different feeds
+
+694
+00:12:32,629 --> 00:12:32,639
+putting them onto different feeds
+ 
+
+695
+00:12:32,639 --> 00:12:35,030
+putting them onto different feeds
+manually every single day, but people
+
+696
+00:12:35,030 --> 00:12:35,040
+manually every single day, but people
+ 
+
+697
+00:12:35,040 --> 00:12:37,190
+manually every single day, but people
+will perceive them as a normal post.
+
+698
+00:12:37,190 --> 00:12:37,200
+will perceive them as a normal post.
+ 
+
+699
+00:12:37,200 --> 00:12:40,389
+will perceive them as a normal post.
+This is so smart. So, if you want to try
+
+700
+00:12:40,389 --> 00:12:40,399
+This is so smart. So, if you want to try
+ 
+
+701
+00:12:40,399 --> 00:12:42,629
+This is so smart. So, if you want to try
+it, build some good organic content that
+
+702
+00:12:42,629 --> 00:12:42,639
+it, build some good organic content that
+ 
+
+703
+00:12:42,639 --> 00:12:44,629
+it, build some good organic content that
+is proven to work. Showcase your
+
+704
+00:12:44,629 --> 00:12:44,639
+is proven to work. Showcase your
+ 
+
+705
+00:12:44,639 --> 00:12:46,710
+is proven to work. Showcase your
+authority, have social proof, build a
+
+706
+00:12:46,710 --> 00:12:46,720
+authority, have social proof, build a
+ 
+
+707
+00:12:46,720 --> 00:12:48,949
+authority, have social proof, build a
+case study, have a testimonial, have a
+
+708
+00:12:48,949 --> 00:12:48,959
+case study, have a testimonial, have a
+ 
+
+709
+00:12:48,959 --> 00:12:51,269
+case study, have a testimonial, have a
+framework, then promote it as a thought
+
+710
+00:12:51,269 --> 00:12:51,279
+framework, then promote it as a thought
+ 
+
+711
+00:12:51,279 --> 00:12:53,670
+framework, then promote it as a thought
+leader ad. reach thousands of more
+
+712
+00:12:53,670 --> 00:12:53,680
+leader ad. reach thousands of more
+ 
+
+713
+00:12:53,680 --> 00:12:55,670
+leader ad. reach thousands of more
+people without creating more content.
+
+714
+00:12:55,670 --> 00:12:55,680
+people without creating more content.
+ 
+
+715
+00:12:55,680 --> 00:12:58,870
+people without creating more content.
+This is like Facebook in 2015 all over
+
+716
+00:12:58,870 --> 00:12:58,880
+This is like Facebook in 2015 all over
+ 
+
+717
+00:12:58,880 --> 00:13:00,710
+This is like Facebook in 2015 all over
+again. All right, so back to my bold
+
+718
+00:13:00,710 --> 00:13:00,720
+again. All right, so back to my bold
+ 
+
+719
+00:13:00,720 --> 00:13:02,710
+again. All right, so back to my bold
+prediction. 90% of current LinkedIn
+
+720
+00:13:02,710 --> 00:13:02,720
+prediction. 90% of current LinkedIn
+ 
+
+721
+00:13:02,720 --> 00:13:05,430
+prediction. 90% of current LinkedIn
+users will become irrelevant by 2026.
+
+722
+00:13:05,430 --> 00:13:05,440
+users will become irrelevant by 2026.
+ 
+
+723
+00:13:05,440 --> 00:13:07,269
+users will become irrelevant by 2026.
+But not because their content is bad,
+
+724
+00:13:07,269 --> 00:13:07,279
+But not because their content is bad,
+ 
+
+725
+00:13:07,279 --> 00:13:08,949
+But not because their content is bad,
+but because they're playing the wrong
+
+726
+00:13:08,949 --> 00:13:08,959
+but because they're playing the wrong
+ 
+
+727
+00:13:08,959 --> 00:13:10,629
+but because they're playing the wrong
+game. They're still in the content
+
+728
+00:13:10,629 --> 00:13:10,639
+game. They're still in the content
+ 
+
+729
+00:13:10,639 --> 00:13:13,110
+game. They're still in the content
+creation era. That is long gone. The
+
+730
+00:13:13,110 --> 00:13:13,120
+creation era. That is long gone. The
+ 
+
+731
+00:13:13,120 --> 00:13:15,110
+creation era. That is long gone. The
+market has sophisticated way too much
+
+732
+00:13:15,110 --> 00:13:15,120
+market has sophisticated way too much
+ 
+
+733
+00:13:15,120 --> 00:13:17,030
+market has sophisticated way too much
+for this. But now you know this before
+
+734
+00:13:17,030 --> 00:13:17,040
+for this. But now you know this before
+ 
+
+735
+00:13:17,040 --> 00:13:19,030
+for this. But now you know this before
+literally anyone else. I need to tell
+
+736
+00:13:19,030 --> 00:13:19,040
+literally anyone else. I need to tell
+ 
+
+737
+00:13:19,040 --> 00:13:20,790
+literally anyone else. I need to tell
+you this one last thing. You don't need
+
+738
+00:13:20,790 --> 00:13:20,800
+you this one last thing. You don't need
+ 
+
+739
+00:13:20,800 --> 00:13:22,949
+you this one last thing. You don't need
+to be an expert to start doing all of
+
+740
+00:13:22,949 --> 00:13:22,959
+to be an expert to start doing all of
+ 
+
+741
+00:13:22,959 --> 00:13:24,870
+to be an expert to start doing all of
+these things, but you do need to start
+
+742
+00:13:24,870 --> 00:13:24,880
+these things, but you do need to start
+ 
+
+743
+00:13:24,880 --> 00:13:27,430
+these things, but you do need to start
+if you want to be seen as an expert in
+
+744
+00:13:27,430 --> 00:13:27,440
+if you want to be seen as an expert in
+ 
+
+745
+00:13:27,440 --> 00:13:29,350
+if you want to be seen as an expert in
+the future. Quick recap because I know
+
+746
+00:13:29,350 --> 00:13:29,360
+the future. Quick recap because I know
+ 
+
+747
+00:13:29,360 --> 00:13:30,710
+the future. Quick recap because I know
+so many of you have been requesting
+
+748
+00:13:30,710 --> 00:13:30,720
+so many of you have been requesting
+ 
+
+749
+00:13:30,720 --> 00:13:33,350
+so many of you have been requesting
+them. This is the 2026 LinkedIn and
+
+750
+00:13:33,350 --> 00:13:33,360
+them. This is the 2026 LinkedIn and
+ 
+
+751
+00:13:33,360 --> 00:13:35,430
+them. This is the 2026 LinkedIn and
+beyond blueprint. First, we covered how
+
+752
+00:13:35,430 --> 00:13:35,440
+beyond blueprint. First, we covered how
+ 
+
+753
+00:13:35,440 --> 00:13:37,110
+beyond blueprint. First, we covered how
+the LinkedIn game completely changed
+
+754
+00:13:37,110 --> 00:13:37,120
+the LinkedIn game completely changed
+ 
+
+755
+00:13:37,120 --> 00:13:39,430
+the LinkedIn game completely changed
+since 2024. The algorithm shifted from
+
+756
+00:13:39,430 --> 00:13:39,440
+since 2024. The algorithm shifted from
+ 
+
+757
+00:13:39,440 --> 00:13:41,269
+since 2024. The algorithm shifted from
+rewarding quantity to rewarding
+
+758
+00:13:41,269 --> 00:13:41,279
+rewarding quantity to rewarding
+ 
+
+759
+00:13:41,279 --> 00:13:42,870
+rewarding quantity to rewarding
+expertise. If you're still posting
+
+760
+00:13:42,870 --> 00:13:42,880
+expertise. If you're still posting
+ 
+
+761
+00:13:42,880 --> 00:13:44,629
+expertise. If you're still posting
+motivational content, then I outlined
+
+762
+00:13:44,629 --> 00:13:44,639
+motivational content, then I outlined
+ 
+
+763
+00:13:44,639 --> 00:13:46,710
+motivational content, then I outlined
+exactly how to get to expert level
+
+764
+00:13:46,710 --> 00:13:46,720
+exactly how to get to expert level
+ 
+
+765
+00:13:46,720 --> 00:13:48,710
+exactly how to get to expert level
+content immediately. Then we broke down
+
+766
+00:13:48,710 --> 00:13:48,720
+content immediately. Then we broke down
+ 
+
+767
+00:13:48,720 --> 00:13:50,790
+content immediately. Then we broke down
+exactly what this means in practice with
+
+768
+00:13:50,790 --> 00:13:50,800
+exactly what this means in practice with
+ 
+
+769
+00:13:50,800 --> 00:13:52,949
+exactly what this means in practice with
+tactical examples. And finally, I
+
+770
+00:13:52,949 --> 00:13:52,959
+tactical examples. And finally, I
+ 
+
+771
+00:13:52,959 --> 00:13:55,030
+tactical examples. And finally, I
+revealed the one thing that no one else
+
+772
+00:13:55,030 --> 00:13:55,040
+revealed the one thing that no one else
+ 
+
+773
+00:13:55,040 --> 00:13:57,189
+revealed the one thing that no one else
+is talking about on YouTube or even on
+
+774
+00:13:57,189 --> 00:13:57,199
+is talking about on YouTube or even on
+ 
+
+775
+00:13:57,199 --> 00:13:59,509
+is talking about on YouTube or even on
+LinkedIn. Thoughts leader ads, the new
+
+776
+00:13:59,509 --> 00:13:59,519
+LinkedIn. Thoughts leader ads, the new
+ 
+
+777
+00:13:59,519 --> 00:14:01,829
+LinkedIn. Thoughts leader ads, the new
+secret weapon for entrepreneurs. So, if
+
+778
+00:14:01,829 --> 00:14:01,839
+secret weapon for entrepreneurs. So, if
+ 
+
+779
+00:14:01,839 --> 00:14:03,350
+secret weapon for entrepreneurs. So, if
+you enjoyed this video, please subscribe
+
+780
+00:14:03,350 --> 00:14:03,360
+you enjoyed this video, please subscribe
+ 
+
+781
+00:14:03,360 --> 00:14:04,870
+you enjoyed this video, please subscribe
+to the channel so we can keep up the
+
+782
+00:14:04,870 --> 00:14:04,880
+to the channel so we can keep up the
+ 
+
+783
+00:14:04,880 --> 00:14:06,790
+to the channel so we can keep up the
+cadence. And also, maybe LinkedIn will
+
+784
+00:14:06,790 --> 00:14:06,800
+cadence. And also, maybe LinkedIn will
+ 
+
+785
+00:14:06,800 --> 00:14:09,509
+cadence. And also, maybe LinkedIn will
+send me a suitcase if I hit 100K on here
+
+786
+00:14:09,509 --> 00:14:09,519
+send me a suitcase if I hit 100K on here
+ 
+
+787
+00:14:09,519 --> 00:14:11,590
+send me a suitcase if I hit 100K on here
+or maybe a Top Voice badge or anything
+
+788
+00:14:11,590 --> 00:14:11,600
+or maybe a Top Voice badge or anything
+ 
+
+789
+00:14:11,600 --> 00:14:13,430
+or maybe a Top Voice badge or anything
+like that. I'm not picky. All right.
+
+790
+00:14:13,430 --> 00:14:13,440
+like that. I'm not picky. All right.
+ 
+
+791
+00:14:13,440 --> 00:14:15,760
+like that. I'm not picky. All right.
+Bye.
+
