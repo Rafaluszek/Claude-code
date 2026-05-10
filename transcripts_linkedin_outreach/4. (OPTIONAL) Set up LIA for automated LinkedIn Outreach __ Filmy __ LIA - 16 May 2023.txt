@@ -1,0 +1,21 @@
+# 4. (OPTIONAL) Set up LIA for automated LinkedIn Outreach/Filmy/LIA - 16 May 2023.mp4
+# duration: 81.7s
+# language: en (p=1.00)
+
+So for GetLia settings, go to Conviggarations, go to quota.
+So here, if you're just using Connector Campaigns,
+only this one field is relatively important.
+So what you want to do here is set it at 10
+and then gradually increase by 2 every 3 days until you hit 20.
+In general, depending on how valuable your LinkedIn profile is,
+you can be aggressive with the settings on different levels.
+So if your LinkedIn profile doesn't have a lot of connections,
+and it's relatively new, and doesn't have a lot of value,
+you can have it at 25, maybe 40.
+If it's more valuable and you might be afraid of getting in band,
+you can even disable this.
+But I think this is a relatively safe option.
+So like in between 20 and 25, and just gradually increase.
+And again, if your LinkedIn profile is very valuable,
+and you don't want it to be blocked or restricted for a certain period of time,
+you can turn on safe mode as well.

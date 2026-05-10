@@ -1,0 +1,114 @@
+# 3. Get your lead list/Filmy/How to Use the LinkedIn Region Nav Scraper to Scrape Leads from LinkedIn 📊.mp4
+# duration: 409.5s
+# language: en (p=1.00)
+
+Hi, I want to show you how to use our LinkedIn region now scraper, which is a tool we've built internally.
+But we're going to show it with all the growth partners.
+And it allows you to scrape LinkedIn strictly for LinkedIn now.
+So it doesn't pull any emails. It only pulls first name last name on links.
+In some cases, it just pulls the links on LinkedIn because that's all you need.
+No, good thing about this is that it doesn't really have restrictions.
+I think the only one is 15,000 profiles per I think 24 hours.
+And there is no way to overcome that limit.
+It's something that sales enough just puts and forces on you once you cross 15,000 profiles.
+Let's say pages with profiles we use per that right.
+So here's how it works.
+It's Chrome extension and above this video, we will be able to download is it file.
+Now, once you've downloaded it, you need to unpack it.
+So you can do it in your file explorer.
+Then you go to a new page, or you can have Chrome extensions within login packed,
+then go to download, click on the unpacked folder.
+Don't click inside. Just click on the whole folder and then select folder.
+Right. Cool.
+Now it'll show up here.
+This way, it's a region now scraper.
+Make sure it's enabled.
+Okay.
+Now what you do is you go to sales up and you create your own search.
+Right. So let's say see you United States marketing services.
+Cool. 30, 500 results.
+So what you do now is you click on the extension here.
+If it's not showing up, just click on extension button.
+Find it here and click on the pen.
+It's just a here.
+Right. So click on that and it opens.
+I'm not sure if you can see it.
+If not, it's just a little additional window.
+And it gives you an option to input sales and search URL number of profiles to scrape
+and number of towns to scrape from now.
+In sales and search URL, you simply want to paste the URL from here.
+Okay.
+Then number of profiles to scrape from,
+to scrape. This is just a number of,
+well, that's pretty salt like voluntary.
+So this case will be 3, 500 unless you just want less.
+Let's say you just want 500.
+That's okay.
+And then number of towns to scrape from.
+The way this works is in sales now.
+It won't let you go.
+Be on 2500 results, right?
+Which is I think 100 pages.
+And this is simply because 100 pages is max.
+So what you would normally do is you would go into folders and think,
+okay, how can I split these filters into smaller searches?
+So this case, you could say, okay,
+well, CEO can't really break it down anymore.
+And the stream marketing, you can't break it down anymore.
+Geography, United States.
+Okay. Well, we can break it down first date or per city.
+So now would region namescraper.
+Does is in automatically text different folders here.
+So there is geography.
+I think there is the use of experience.
+There could be headquarters, headcount.
+I think these are the main ones and maybe years in current and company in position.
+And using those, it splits the searches into smaller ones.
+So if you, if you add all of these, I think this gives you five options.
+This gives you another five options.
+And then geography, I think it splits per city.
+But enables you to just split your search basically from the whole of US.
+If you go for a broad industry, right?
+So, so then you or your VA don't have to create a sheet and break down all the searches
+and make sure all of it is scraped using different tools.
+So once you've got that pasted in into the window,
+put the number of of profiles to scrape and number of times to scrape from,
+which if you're just going for United States,
+like the whole region, country or whatever, you just put one,
+and then you click start.
+Okay.
+And then it'll start scrolling through this.
+I can show you right now.
+I'll put 100 profiles in all press start now.
+So it'll open the page, which will be the same page in this case.
+And it's very quick.
+So it scrolls through the page and it should open the next one after a few seconds.
+Then as soon as it's loaded, it'll open the next one.
+And you can see on the left and personal geography, we're in Alaska now.
+Now when we're in Albany, right?
+So it splits the result and what's called smart way just to be able to pull 100 prospects.
+This usually wouldn't do it.
+You would only use it if you want more than 2500,
+but just to show you this is how it works.
+Now, once it's done, it'll just pause automatically.
+But if you want to stop it yourself,
+there is a big emergency stop button, which you need to double-click.
+But it's just finished.
+So I'll show you the file that gives you.
+So just go into sheets, file import,
+and I'll drop in the file that just gave me.
+Okay, and let's just append an import.
+Okay, so actually it gives you more information.
+So for we get first name, last name, profile URL,
+which is form of the this way, and it has to be just because this is the only way.
+So we can get linked in your relic at work and tools like expand your Leah from directly from sales now,
+job title and company name.
+Right, this is all you need to launch your LinkedIn campaigns.
+So we have 114 profiles.
+So this will take us around three days to contact, right?
+Using a LinkedIn now-treach, if we assume 35 connect requests per day limit,
+and we did that in like 30 seconds, I think.
+And you could easily score a 15,000 in a day.
+Right, so that will last you forever if you're doing outreach from one account.
+So that is it.
+And once you have this file, we can upload it to expand or the just get sorted.

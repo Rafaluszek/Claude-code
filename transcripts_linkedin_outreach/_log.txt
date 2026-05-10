@@ -1,13 +1,23 @@
 Found 10 videos
 Loading model: base (CPU, int8)...
-Model loaded in 3.2s
-[1/10] 1. Optimise your LinkedIn profile\Filmy\How To Optimise LinkedIn Profiles.mp4
-  -> 1. Optimise your LinkedIn profile __ Filmy __ How To Optimise LinkedIn Profiles.txt  (71.2s, 367 segments)
-Traceback (most recent call last):
-  File "C:\Users\laea1\Downloads\Claude code\transcripts_linkedin_outreach\_transcribe.py", line 24, in <module>
-    print(f"[{i}/{len(videos)}] {rel}", flush=True)
-    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3568.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1250.py", line 19, in encode
-    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
-           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4ca' in position 108: character maps to <undefined>
+Model loaded in 1.1s
+[1/10] SKIP (exists): 1. Optimise your LinkedIn profile\Filmy\How To Optimise LinkedIn Profiles.mp4
+[2/10] 3. Get your lead list\Filmy\How to Use the LinkedIn Region Nav Scraper to Scrape Leads from LinkedIn 📊.mp4
+  -> 3. Get your lead list __ Filmy __ How to Use the LinkedIn Region Nav Scraper to Scrape Leads from LinkedIn 📊.txt  (23.3s, 110 segments)
+[3/10] 4. (OPTIONAL) Set up LIA for automated LinkedIn Outreach\Filmy\LIA - 16 May 2023 2.mp4
+  -> 4. (OPTIONAL) Set up LIA for automated LinkedIn Outreach __ Filmy __ LIA - 16 May 2023 2.txt  (8.0s, 38 segments)
+[4/10] 4. (OPTIONAL) Set up LIA for automated LinkedIn Outreach\Filmy\LIA - 16 May 2023.mp4
+  -> 4. (OPTIONAL) Set up LIA for automated LinkedIn Outreach __ Filmy __ LIA - 16 May 2023.txt  (4.5s, 17 segments)
+[5/10] 5. Campaign Messaging\2. Direct Messaging\Filmy\Outbound Messaging on LinkedIn.mp4
+  -> 5. Campaign Messaging __ 2. Direct Messaging __ Filmy __ Outbound Messaging on LinkedIn.txt  (25.5s, 93 segments)
+[6/10] 5. Campaign Messaging\3. How To Generate Interview Calls With LinkedIn\Filmy\Interview Method On LinkedIn.mp4
+  -> 5. Campaign Messaging __ 3. How To Generate Interview Calls With LinkedIn __ Filmy __ Interview Method On LinkedIn.txt  (16.2s, 54 segments)
+[7/10] 6. Booking calls through LinkedIn\Filmy\Following Up On LinkedIn.mp4
+  -> 6. Booking calls through LinkedIn __ Filmy __ Following Up On LinkedIn.txt  (14.9s, 44 segments)
+[8/10] 6. Booking calls through LinkedIn\Filmy\How To Manage LinkedIn Inboxes.mp4
+  -> 6. Booking calls through LinkedIn __ Filmy __ How To Manage LinkedIn Inboxes.txt  (16.6s, 44 segments)
+[9/10] 6. Booking calls through LinkedIn\Filmy\How To Send Personalised Videos.mp4
+  -> 6. Booking calls through LinkedIn __ Filmy __ How To Send Personalised Videos.txt  (14.4s, 50 segments)
+[10/10] 6. Booking calls through LinkedIn\Filmy\Types Of LinkedIn Responses And Templates.mp4
+  -> 6. Booking calls through LinkedIn __ Filmy __ Types Of LinkedIn Responses And Templates.txt  (9.0s, 29 segments)
+DONE

@@ -1,0 +1,42 @@
+# 4. (OPTIONAL) Set up LIA for automated LinkedIn Outreach/Filmy/LIA - 16 May 2023 2.mp4
+# duration: 186.9s
+# language: en (p=1.00)
+
+This is how you can create a connector campaign in Get Leah using a CSV that you already have scraped.
+So you'll go to the campaigns button.
+Select create new campaign. So how we will call it is
+an actor and then add at bags that will give you the identification around the industry,
+the role, the company size and the geography around who you're targeting.
+So in my case, it would be
+get a get a science list for it.
+Company size that I think one 10 role was founder and location was let's say USA.
+You can use whatever tags and whatever tags structure you want.
+I like to use this one, but just make sure it's easily
+findable and you understand what the campaign does and who is the target.
+In this case, we will
+we will import a CSV.
+Another option start link and search and see us now.
+Skip the duplicates it's on.
+I'll fill out your CSV file.
+We have a file ready.
+So email first we can skip.
+We cannot import.
+So what we want to import is first name last name
+for URL.
+In my case, the URL is actually the profile URL company name.
+We're not using it for for a connector campaign.
+And I'll import link IDs.
+Well, they have it.
+Find it.
+Let me click an ID.
+It's cool.
+Save data.
+You just want to check it so good.
+Configure settings.
+In this case, we're just using it as a connector campaign.
+So we don't need anything here.
+Create a sequence, start from scratch.
+It just the connective campaigns will just use the blank
+connection request done.
+Save.
+Start campaign and we have our campaign ready.
