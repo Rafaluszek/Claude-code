@@ -1,0 +1,13 @@
+Found 10 videos
+Loading model: base (CPU, int8)...
+Model loaded in 3.2s
+[1/10] 1. Optimise your LinkedIn profile\Filmy\How To Optimise LinkedIn Profiles.mp4
+  -> 1. Optimise your LinkedIn profile __ Filmy __ How To Optimise LinkedIn Profiles.txt  (71.2s, 367 segments)
+Traceback (most recent call last):
+  File "C:\Users\laea1\Downloads\Claude code\transcripts_linkedin_outreach\_transcribe.py", line 24, in <module>
+    print(f"[{i}/{len(videos)}] {rel}", flush=True)
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3568.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1250.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4ca' in position 108: character maps to <undefined>

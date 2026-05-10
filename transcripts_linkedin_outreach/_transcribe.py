@@ -2,6 +2,12 @@ import sys, time
 from pathlib import Path
 from faster_whisper import WhisperModel
 
+try:
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+except Exception:
+    pass
+
 ROOT = Path(r"C:/Users/laea1/Downloads/2. LinkedIn Outreach-20260510T115859Z-3-001/2. LinkedIn Outreach")
 OUT = Path(__file__).parent
 OUT.mkdir(exist_ok=True)
