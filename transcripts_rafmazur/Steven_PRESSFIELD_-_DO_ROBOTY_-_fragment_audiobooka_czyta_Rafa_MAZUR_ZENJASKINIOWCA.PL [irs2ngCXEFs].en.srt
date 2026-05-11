@@ -1,0 +1,3197 @@
+1
+00:00:01,050 --> 00:00:02,290
+
+Steven Pressfield, get
+
+2
+00:00:02,290 --> 00:00:02,300
+Steven Pressfield, get
+ 
+
+3
+00:00:02,300 --> 00:00:06,249
+Steven Pressfield, get
+to work, also known as
+
+4
+00:00:06,249 --> 00:00:06,259
+to work, also known as
+ 
+
+5
+00:00:06,259 --> 00:00:08,709
+to work, also known as
+Pull the Trigger,
+
+6
+00:00:08,709 --> 00:00:08,719
+Pull the Trigger,
+ 
+
+7
+00:00:08,719 --> 00:00:10,390
+Pull the Trigger,
+Osmpower,
+
+8
+00:00:10,390 --> 00:00:10,400
+Osmpower,
+ 
+
+9
+00:00:10,400 --> 00:00:17,410
+Osmpower,
+read by Rafał Mazur from Caveman BR.
+
+10
+00:00:17,410 --> 00:00:17,420
+read by Rafał Mazur from Caveman BR.
+ 
+
+11
+00:00:17,420 --> 00:00:19,060
+read by Rafał Mazur from Caveman BR.
+Foreword:
+
+12
+00:00:19,060 --> 00:00:19,070
+Foreword:
+ 
+
+13
+00:00:19,070 --> 00:00:21,950
+Foreword:
+In the driveway leading to your
+
+14
+00:00:21,950 --> 00:00:21,960
+In the driveway leading to your
+ 
+
+15
+00:00:21,960 --> 00:00:25,400
+In the driveway leading to your
+house is a really fast car, not
+
+16
+00:00:25,400 --> 00:00:25,410
+house is a really fast car, not
+ 
+
+17
+00:00:25,410 --> 00:00:28,370
+house is a really fast car, not
+some Hamptons-style oddity,
+
+18
+00:00:28,370 --> 00:00:28,380
+some Hamptons-style oddity,
+ 
+
+19
+00:00:28,380 --> 00:00:30,290
+some Hamptons-style oddity,
+effectively a Polish toy for rich
+
+20
+00:00:30,290 --> 00:00:30,300
+effectively a Polish toy for rich
+ 
+
+21
+00:00:30,300 --> 00:00:33,139
+effectively a Polish toy for rich
+guys like a Ferrari, but a genuinely
+
+22
+00:00:33,139 --> 00:00:33,149
+guys like a Ferrari, but a genuinely
+ 
+
+23
+00:00:33,149 --> 00:00:37,850
+guys like a Ferrari, but a genuinely
+good car, say a Subaru WRX. And
+
+24
+00:00:37,850 --> 00:00:37,860
+good car, say a Subaru WRX. And
+ 
+
+25
+00:00:37,860 --> 00:00:41,180
+good car, say a Subaru WRX. And
+here are the keys. Now you can
+
+26
+00:00:41,180 --> 00:00:41,190
+here are the keys. Now you can
+ 
+
+27
+00:00:41,190 --> 00:00:45,560
+here are the keys. Now you can
+drive it. Next door, on the runway, a
+
+28
+00:00:45,560 --> 00:00:45,570
+drive it. Next door, on the runway, a
+ 
+
+29
+00:00:45,570 --> 00:00:49,010
+drive it. Next door, on the runway, a
+private jet is waiting, ready to drop you
+
+30
+00:00:49,010 --> 00:00:49,020
+private jet is waiting, ready to drop you
+ 
+
+31
+00:00:49,020 --> 00:00:52,939
+private jet is waiting, ready to drop you
+anywhere you want. Here's the pilot
+
+32
+00:00:52,939 --> 00:00:52,949
+anywhere you want. Here's the pilot
+ 
+
+33
+00:00:52,949 --> 00:00:58,119
+anywhere you want. Here's the pilot
+waiting for the takeoff signal. Go ahead and fly.
+
+34
+00:00:58,119 --> 00:00:58,129
+waiting for the takeoff signal. Go ahead and fly.
+ 
+
+35
+00:00:58,129 --> 00:01:00,840
+waiting for the takeoff signal. Go ahead and fly.
+Look at your friends. Check if you have a
+
+36
+00:01:00,840 --> 00:01:00,850
+Look at your friends. Check if you have a
+ 
+
+37
+00:01:00,850 --> 00:01:04,710
+Look at your friends. Check if you have a
+Chicago hammer. On the topic: x 0 6 51. You can
+
+38
+00:01:04,710 --> 00:01:04,720
+Chicago hammer. On the topic: x 0 6 51. You can
+ 
+
+39
+00:01:04,720 --> 00:01:07,289
+Chicago hammer. On the topic: x 0 6 51. You can
+drive nails into anything you want with it, and
+
+40
+00:01:07,289 --> 00:01:07,299
+drive nails into anything you want with it, and
+ 
+
+41
+00:01:07,299 --> 00:01:09,980
+drive nails into anything you want with it, and
+then another one, and so on endlessly.
+
+42
+00:01:09,980 --> 00:01:09,990
+then another one, and so on endlessly.
+ 
+
+43
+00:01:09,990 --> 00:01:14,090
+then another one, and so on endlessly.
+Use it now, and with this keyboard,
+
+44
+00:01:14,090 --> 00:01:14,100
+Use it now, and with this keyboard,
+ 
+
+45
+00:01:14,100 --> 00:01:17,670
+Use it now, and with this keyboard,
+you can connect to the whole world. This is a
+
+46
+00:01:17,670 --> 00:01:17,680
+you can connect to the whole world. This is a
+ 
+
+47
+00:01:17,680 --> 00:01:18,740
+you can connect to the whole world. This is a
+free
+
+48
+00:01:18,740 --> 00:01:18,750
+free
+ 
+
+49
+00:01:18,750 --> 00:01:20,670
+free
+communication platform that allows you to
+
+50
+00:01:20,670 --> 00:01:20,680
+communication platform that allows you to
+ 
+
+51
+00:01:20,680 --> 00:01:23,490
+communication platform that allows you to
+contact anyone you want,
+
+52
+00:01:23,490 --> 00:01:23,500
+contact anyone you want,
+ 
+
+53
+00:01:23,500 --> 00:01:26,399
+contact anyone you want,
+whenever you want. You wanted equal
+
+54
+00:01:26,399 --> 00:01:26,409
+whenever you want. You wanted equal
+ 
+
+55
+00:01:26,409 --> 00:01:29,160
+whenever you want. You wanted equal
+opportunities, so you could have the
+
+56
+00:01:29,160 --> 00:01:29,170
+opportunities, so you could have the
+ 
+
+57
+00:01:29,170 --> 00:01:32,100
+opportunities, so you could have the
+same opportunities as everyone else. Here it is. Let's get to
+
+58
+00:01:32,100 --> 00:01:32,110
+same opportunities as everyone else. Here it is. Let's get to
+ 
+
+59
+00:01:32,110 --> 00:01:35,760
+same opportunities as everyone else. Here it is. Let's get to
+work. This is something we all
+
+60
+00:01:35,760 --> 00:01:35,770
+work. This is something we all
+ 
+
+61
+00:01:35,770 --> 00:01:39,710
+work. This is something we all
+expect from you, that you make an effort.
+
+62
+00:01:39,710 --> 00:01:39,720
+expect from you, that you make an effort.
+ 
+
+63
+00:01:39,720 --> 00:01:42,499
+expect from you, that you make an effort.
+Steven Pressfield is the author of the
+
+64
+00:01:42,499 --> 00:01:42,509
+Steven Pressfield is the author of the
+ 
+
+65
+00:01:42,509 --> 00:01:45,029
+Steven Pressfield is the author of the
+most important book you've never
+
+66
+00:01:45,029 --> 00:01:45,039
+most important book you've never
+ 
+
+67
+00:01:45,039 --> 00:01:48,510
+most important book you've never
+read. War.  Art will help you
+
+68
+00:01:48,510 --> 00:01:48,520
+read. War.  Art will help you
+ 
+
+69
+00:01:48,520 --> 00:01:50,820
+read. War.  Art will help you
+understand why you've stopped on
+
+70
+00:01:50,820 --> 00:01:50,830
+understand why you've stopped on
+ 
+
+71
+00:01:50,830 --> 00:01:53,160
+understand why you've stopped on
+your path to your goal. Give me a boost of
+
+72
+00:01:53,160 --> 00:01:53,170
+your path to your goal. Give me a boost of
+ 
+
+73
+00:01:53,170 --> 00:01:55,830
+your path to your goal. Give me a boost of
+energy. It will make you get to
+
+74
+00:01:55,830 --> 00:01:55,840
+energy. It will make you get to
+ 
+
+75
+00:01:55,840 --> 00:02:00,730
+energy. It will make you get to
+work. You should, in fact, have to.
+
+76
+00:02:00,730 --> 00:02:00,740
+work. You should, in fact, have to.
+ 
+
+77
+00:02:00,740 --> 00:02:05,529
+work. You should, in fact, have to.
+When you finish listening, get to work. Steve
+
+78
+00:02:05,529 --> 00:02:05,539
+When you finish listening, get to work. Steve
+ 
+
+79
+00:02:05,539 --> 00:02:07,179
+When you finish listening, get to work. Steve
+gives
+
+80
+00:02:07,179 --> 00:02:07,189
+gives
+ 
+
+81
+00:02:07,189 --> 00:02:09,600
+gives
+practical advice in this manifesto and addresses it
+
+82
+00:02:09,600 --> 00:02:09,610
+practical advice in this manifesto and addresses it
+ 
+
+83
+00:02:09,610 --> 00:02:12,369
+practical advice in this manifesto and addresses it
+directly to you. Listen to it
+
+84
+00:02:12,369 --> 00:02:12,379
+directly to you. Listen to it
+ 
+
+85
+00:02:12,379 --> 00:02:14,979
+directly to you. Listen to it
+quickly and then listen
+
+86
+00:02:14,979 --> 00:02:14,989
+quickly and then listen
+ 
+
+87
+00:02:14,989 --> 00:02:17,350
+quickly and then listen
+again. Take notes and then buy it.
+
+88
+00:02:17,350 --> 00:02:17,360
+again. Take notes and then buy it.
+ 
+
+89
+00:02:17,360 --> 00:02:20,020
+again. Take notes and then buy it.
+For all your friends
+
+90
+00:02:20,020 --> 00:02:20,030
+For all your friends
+ 
+
+91
+00:02:20,030 --> 00:02:23,380
+For all your friends
+who are stuck on their path and
+
+92
+00:02:23,380 --> 00:02:23,390
+who are stuck on their path and
+ 
+
+93
+00:02:23,390 --> 00:02:26,520
+who are stuck on their path and
+encourage them to make an effort as well. Hurry up.
+
+94
+00:02:26,520 --> 00:02:28,470
+encourage them to make an effort as well. Hurry up.
+ 
+
+95
+00:02:28,470 --> 00:02:28,480
+
+ 
+
+96
+00:02:28,480 --> 00:02:32,970
+
+Hundreds of hours. Hastings, Hudson, January
+
+97
+00:02:32,970 --> 00:02:32,980
+Hundreds of hours. Hastings, Hudson, January
+ 
+
+98
+00:02:32,980 --> 00:02:37,530
+Hundreds of hours. Hastings, Hudson, January
+2011.
+
+99
+00:02:37,530 --> 00:02:37,540
+
+ 
+
+100
+00:02:37,540 --> 00:02:43,050
+
+In the field, I stand, a knight and a dragon. You
+
+101
+00:02:43,050 --> 00:02:43,060
+In the field, I stand, a knight and a dragon. You
+ 
+
+102
+00:02:43,060 --> 00:02:44,940
+In the field, I stand, a knight and a dragon. You
+are a knight.
+
+103
+00:02:44,940 --> 00:02:44,950
+are a knight.
+ 
+
+104
+00:02:44,950 --> 00:02:48,850
+are a knight.
+Resistance is a dragon. A few words about this
+
+105
+00:02:48,850 --> 00:02:48,860
+Resistance is a dragon. A few words about this
+ 
+
+106
+00:02:48,860 --> 00:02:49,470
+Resistance is a dragon. A few words about this
+book.
+
+107
+00:02:49,470 --> 00:02:49,480
+book.
+ 
+
+108
+00:02:49,480 --> 00:02:53,100
+book.
+This book was designed to
+
+109
+00:02:53,100 --> 00:02:53,110
+This book was designed to
+ 
+
+110
+00:02:53,110 --> 00:02:55,479
+This book was designed to
+guide you through
+
+111
+00:02:55,479 --> 00:02:55,489
+guide you through
+ 
+
+112
+00:02:55,489 --> 00:02:58,539
+guide you through
+your project, a book, a ballet, a
+
+113
+00:02:58,539 --> 00:02:58,549
+your project, a book, a ballet, a
+ 
+
+114
+00:02:58,549 --> 00:03:00,170
+your project, a book, a ballet, a
+business venture, or a
+
+115
+00:03:00,170 --> 00:03:00,180
+business venture, or a
+ 
+
+116
+00:03:00,180 --> 00:03:02,930
+business venture, or a
+charity event, from
+
+117
+00:03:02,930 --> 00:03:02,940
+charity event, from
+ 
+
+118
+00:03:02,940 --> 00:03:05,480
+charity event, from
+concept creation to the finished
+
+119
+00:03:05,480 --> 00:03:05,490
+concept creation to the finished
+ 
+
+120
+00:03:05,490 --> 00:03:08,870
+concept creation to the finished
+product. Looking at the whole thing through the prism of
+
+121
+00:03:08,870 --> 00:03:08,880
+product. Looking at the whole thing through the prism of
+ 
+
+122
+00:03:08,880 --> 00:03:11,690
+product. Looking at the whole thing through the prism of
+resistance, we will face all
+
+123
+00:03:11,690 --> 00:03:11,700
+resistance, we will face all
+ 
+
+124
+00:03:11,700 --> 00:03:13,820
+resistance, we will face all
+foreseeable obstacles.
+
+125
+00:03:13,820 --> 00:03:13,830
+foreseeable obstacles.
+ 
+
+126
+00:03:13,830 --> 00:03:17,449
+foreseeable obstacles.
+What resistance throws obstacles in our way? These are
+
+127
+00:03:17,449 --> 00:03:17,459
+What resistance throws obstacles in our way? These are
+ 
+
+128
+00:03:17,459 --> 00:03:20,780
+What resistance throws obstacles in our way? These are
+those critical moments where
+
+129
+00:03:20,780 --> 00:03:20,790
+those critical moments where
+ 
+
+130
+00:03:20,790 --> 00:03:23,350
+those critical moments where
+fear, self-sabotage,
+
+131
+00:03:23,350 --> 00:03:23,360
+fear, self-sabotage,
+ 
+
+132
+00:03:23,360 --> 00:03:25,760
+fear, self-sabotage,
+procrastination, lack of confidence in your own
+
+133
+00:03:25,760 --> 00:03:25,770
+procrastination, lack of confidence in your own
+ 
+
+134
+00:03:25,770 --> 00:03:29,090
+procrastination, lack of confidence in your own
+abilities, and all the other well-
+
+135
+00:03:29,090 --> 00:03:29,100
+abilities, and all the other well-
+ 
+
+136
+00:03:29,100 --> 00:03:32,630
+abilities, and all the other well-
+known demons appear. When you need a kick
+
+137
+00:03:32,630 --> 00:03:32,640
+known demons appear. When you need a kick
+ 
+
+138
+00:03:32,640 --> 00:03:36,050
+known demons appear. When you need a kick
+in the butt, I will do it when the best ones come.
+
+139
+00:03:36,050 --> 00:03:36,060
+in the butt, I will do it when the best ones come.
+ 
+
+140
+00:03:36,060 --> 00:03:39,070
+in the butt, I will do it when the best ones come.
+More gentle, gentle methods.
+
+141
+00:03:39,070 --> 00:03:39,080
+More gentle, gentle methods.
+ 
+
+142
+00:03:39,080 --> 00:03:41,080
+More gentle, gentle methods.
+I'm announcing you by the head. A
+
+143
+00:03:41,080 --> 00:03:41,090
+I'm announcing you by the head. A
+ 
+
+144
+00:03:41,090 --> 00:03:45,170
+I'm announcing you by the head. A
+small note: This book
+
+145
+00:03:45,170 --> 00:03:45,180
+small note: This book
+ 
+
+146
+00:03:45,180 --> 00:03:47,210
+small note: This book
+is essentially designed as a guide for
+
+147
+00:03:47,210 --> 00:03:47,220
+is essentially designed as a guide for
+ 
+
+148
+00:03:47,220 --> 00:03:50,240
+is essentially designed as a guide for
+writers. The presented model corresponds to
+
+149
+00:03:50,240 --> 00:03:50,250
+writers. The presented model corresponds to
+ 
+
+150
+00:03:50,250 --> 00:03:52,360
+writers. The presented model corresponds to
+the creation and writing of plays,
+
+151
+00:03:52,360 --> 00:03:52,370
+the creation and writing of plays,
+ 
+
+152
+00:03:52,370 --> 00:03:55,550
+the creation and writing of plays,
+novels, or screenplays, but the principles contained within
+
+153
+00:03:55,550 --> 00:03:55,560
+novels, or screenplays, but the principles contained within
+ 
+
+154
+00:03:55,560 --> 00:03:57,820
+novels, or screenplays, but the principles contained within
+can be applied equally
+
+155
+00:03:57,820 --> 00:03:57,830
+can be applied equally
+ 
+
+156
+00:03:57,830 --> 00:04:00,509
+can be applied equally
+effectively to any other
+
+157
+00:04:00,509 --> 00:04:00,519
+effectively to any other
+ 
+
+158
+00:04:00,519 --> 00:04:03,720
+effectively to any other
+form of creative endeavor, including endeavors as
+
+159
+00:04:03,720 --> 00:04:03,730
+form of creative endeavor, including endeavors as
+ 
+
+160
+00:04:03,730 --> 00:04:05,970
+form of creative endeavor, including endeavors as
+seemingly remote from writing
+
+161
+00:04:05,970 --> 00:04:05,980
+seemingly remote from writing
+ 
+
+162
+00:04:05,980 --> 00:04:08,630
+seemingly remote from writing
+as physical training,
+
+163
+00:04:08,630 --> 00:04:08,640
+as physical training,
+ 
+
+164
+00:04:08,640 --> 00:04:11,819
+as physical training,
+healing a broken heart, or pursuing
+
+165
+00:04:11,819 --> 00:04:11,829
+healing a broken heart, or pursuing
+ 
+
+166
+00:04:11,829 --> 00:04:12,890
+healing a broken heart, or pursuing
+some
+
+167
+00:04:12,890 --> 00:04:12,900
+some
+ 
+
+168
+00:04:12,900 --> 00:04:15,270
+some
+emotional, intellectual, or
+
+169
+00:04:15,270 --> 00:04:15,280
+emotional, intellectual, or
+ 
+
+170
+00:04:15,280 --> 00:04:18,330
+emotional, intellectual, or
+spiritual goal that involves
+
+171
+00:04:18,330 --> 00:04:18,340
+spiritual goal that involves
+ 
+
+172
+00:04:18,340 --> 00:04:21,360
+spiritual goal that involves
+moving from a lower or less conscious
+
+173
+00:04:21,360 --> 00:04:21,370
+moving from a lower or less conscious
+ 
+
+174
+00:04:21,370 --> 00:04:24,860
+moving from a lower or less conscious
+level to a higher one. Get to
+
+175
+00:04:24,860 --> 00:04:24,870
+level to a higher one. Get to
+ 
+
+176
+00:04:24,870 --> 00:04:27,719
+level to a higher one. Get to
+know your situation. Enemies and
+
+177
+00:04:27,719 --> 00:04:27,729
+know your situation. Enemies and
+ 
+
+178
+00:04:27,729 --> 00:04:28,969
+know your situation. Enemies and
+friends.
+
+179
+00:04:28,969 --> 00:04:28,979
+friends.
+ 
+
+180
+00:04:28,979 --> 00:04:30,920
+friends.
+Our enemies.
+
+181
+00:04:30,920 --> 00:04:30,930
+Our enemies.
+ 
+
+182
+00:04:30,930 --> 00:04:34,250
+Our enemies.
+These are the forces that work against us as
+
+183
+00:04:34,250 --> 00:04:34,260
+These are the forces that work against us as
+ 
+
+184
+00:04:34,260 --> 00:04:36,620
+These are the forces that work against us as
+artists and entrepreneurs.
+
+185
+00:04:36,620 --> 00:04:36,630
+artists and entrepreneurs.
+ 
+
+186
+00:04:36,630 --> 00:04:41,159
+artists and entrepreneurs.
+1. Resistance, for example, fear, lack of self-confidence, procrastination, academics, absent-mindedness,
+
+187
+00:04:41,159 --> 00:04:45,020
+1. Resistance, for example, fear, lack of self-confidence, procrastination, academics, absent-mindedness,
+ 
+
+188
+00:04:45,020 --> 00:04:45,030
+
+ 
+
+189
+00:04:45,030 --> 00:04:48,480
+
+shyness, one's own ego and narcissism, lack of
+
+190
+00:04:48,480 --> 00:04:48,490
+shyness, one's own ego and narcissism, lack of
+ 
+
+191
+00:04:48,490 --> 00:04:49,760
+shyness, one's own ego and narcissism, lack of
+self-acceptance,
+
+192
+00:04:49,760 --> 00:04:49,770
+self-acceptance,
+ 
+
+193
+00:04:49,770 --> 00:04:52,490
+self-acceptance,
+perfectionism, and the like. 2.
+
+194
+00:04:52,490 --> 00:04:52,500
+perfectionism, and the like. 2.
+ 
+
+195
+00:04:52,500 --> 00:04:56,580
+perfectionism, and the like. 2.
+Rational thinking. 3. Friends and
+
+196
+00:04:56,580 --> 00:04:56,590
+Rational thinking. 3. Friends and
+ 
+
+197
+00:04:56,590 --> 00:04:57,920
+Rational thinking. 3. Friends and
+family.
+
+198
+00:04:57,920 --> 00:04:57,930
+family.
+ 
+
+199
+00:04:57,930 --> 00:05:00,129
+family.
+Resistance is
+
+200
+00:05:00,129 --> 00:05:00,139
+Resistance is
+ 
+
+201
+00:05:00,139 --> 00:05:02,740
+Resistance is
+exactly what this beast is. Several
+
+202
+00:05:02,740 --> 00:05:02,750
+exactly what this beast is. Several
+ 
+
+203
+00:05:02,750 --> 00:05:05,200
+exactly what this beast is. Several
+chapters taken from the War of Art will
+
+204
+00:05:05,200 --> 00:05:05,210
+chapters taken from the War of Art will
+ 
+
+205
+00:05:05,210 --> 00:05:08,680
+chapters taken from the War of Art will
+quickly help us recognize it when it
+
+206
+00:05:08,680 --> 00:05:08,690
+quickly help us recognize it when it
+ 
+
+207
+00:05:08,690 --> 00:05:10,439
+quickly help us recognize it when it
+appears. From
+
+208
+00:05:10,439 --> 00:05:10,449
+appears. From
+ 
+
+209
+00:05:10,449 --> 00:05:13,300
+appears. From
+the actions that most often generate
+
+210
+00:05:13,300 --> 00:05:13,310
+the actions that most often generate
+ 
+
+211
+00:05:13,310 --> 00:05:15,809
+the actions that most often generate
+resistance, this is 1.
+
+212
+00:05:15,809 --> 00:05:15,819
+resistance, this is 1.
+ 
+
+213
+00:05:15,819 --> 00:05:18,939
+resistance, this is 1.
+The pursuit of any goal in
+
+214
+00:05:18,939 --> 00:05:18,949
+The pursuit of any goal in
+ 
+
+215
+00:05:18,949 --> 00:05:23,050
+The pursuit of any goal in
+literature, painting, music, dance, or
+
+216
+00:05:23,050 --> 00:05:23,060
+literature, painting, music, dance, or
+ 
+
+217
+00:05:23,060 --> 00:05:25,240
+literature, painting, music, dance, or
+other creative activity, even
+
+218
+00:05:25,240 --> 00:05:25,250
+other creative activity, even
+ 
+
+219
+00:05:25,250 --> 00:05:28,860
+other creative activity, even
+unusual or unconventional. 2.
+
+220
+00:05:28,860 --> 00:05:28,870
+unusual or unconventional. 2.
+ 
+
+221
+00:05:28,870 --> 00:05:30,760
+unusual or unconventional. 2.
+starting a venture
+
+222
+00:05:30,760 --> 00:05:30,770
+starting a venture
+ 
+
+223
+00:05:30,770 --> 00:05:33,490
+starting a venture
+or initiative aimed at profit or
+
+224
+00:05:33,490 --> 00:05:33,500
+or initiative aimed at profit or
+ 
+
+225
+00:05:33,500 --> 00:05:38,559
+or initiative aimed at profit or
+other goals 3 a diet or introducing a
+
+226
+00:05:38,559 --> 00:05:38,569
+other goals 3 a diet or introducing a
+ 
+
+227
+00:05:38,569 --> 00:05:39,990
+other goals 3 a diet or introducing a
+healthy lifestyle
+
+228
+00:05:39,990 --> 00:05:40,000
+healthy lifestyle
+ 
+
+229
+00:05:40,000 --> 00:05:44,309
+healthy lifestyle
+4 any spiritual development program
+
+230
+00:05:44,309 --> 00:05:44,319
+4 any spiritual development program
+ 
+
+231
+00:05:44,319 --> 00:05:47,830
+4 any spiritual development program
+5 any activity aimed at
+
+232
+00:05:47,830 --> 00:05:47,840
+5 any activity aimed at
+ 
+
+233
+00:05:47,840 --> 00:05:50,249
+5 any activity aimed at
+improving physical fitness
+
+234
+00:05:50,249 --> 00:05:50,259
+improving physical fitness
+ 
+
+235
+00:05:50,259 --> 00:05:54,670
+improving physical fitness
+6 any course or program aimed at
+
+236
+00:05:54,670 --> 00:05:54,680
+6 any course or program aimed at
+ 
+
+237
+00:05:54,680 --> 00:05:57,040
+6 any course or program aimed at
+changing unhealthy habits or
+
+238
+00:05:57,040 --> 00:05:57,050
+changing unhealthy habits or
+ 
+
+239
+00:05:57,050 --> 00:06:00,350
+changing unhealthy habits or
+getting rid of an addiction 7
+
+240
+00:06:00,350 --> 00:06:00,360
+getting rid of an addiction 7
+ 
+
+241
+00:06:00,360 --> 00:06:02,270
+getting rid of an addiction 7
+all activities aimed at
+
+242
+00:06:02,270 --> 00:06:02,280
+all activities aimed at
+ 
+
+243
+00:06:02,280 --> 00:06:05,930
+all activities aimed at
+deepening knowledge 8 any act of
+
+244
+00:06:05,930 --> 00:06:05,940
+deepening knowledge 8 any act of
+ 
+
+245
+00:06:05,940 --> 00:06:08,000
+deepening knowledge 8 any act of
+political, moral or ethical
+
+246
+00:06:08,000 --> 00:06:08,010
+political, moral or ethical
+ 
+
+247
+00:06:08,010 --> 00:06:10,880
+political, moral or ethical
+courage, including the decision to change
+
+248
+00:06:10,880 --> 00:06:10,890
+courage, including the decision to change
+ 
+
+249
+00:06:10,890 --> 00:06:13,400
+courage, including the decision to change
+some inappropriate way of
+
+250
+00:06:13,400 --> 00:06:13,410
+some inappropriate way of
+ 
+
+251
+00:06:13,410 --> 00:06:15,490
+some inappropriate way of
+thinking and behavior
+
+252
+00:06:15,490 --> 00:06:15,500
+thinking and behavior
+ 
+
+253
+00:06:15,500 --> 00:06:19,010
+thinking and behavior
+9 any venture or
+
+254
+00:06:19,010 --> 00:06:19,020
+9 any venture or
+ 
+
+255
+00:06:19,020 --> 00:06:21,590
+9 any venture or
+initiative aimed at
+
+256
+00:06:21,590 --> 00:06:21,600
+initiative aimed at
+ 
+
+257
+00:06:21,600 --> 00:06:26,390
+initiative aimed at
+helping others 10 any act that
+
+258
+00:06:26,390 --> 00:06:26,400
+helping others 10 any act that
+ 
+
+259
+00:06:26,400 --> 00:06:29,570
+helping others 10 any act that
+involves our emotions, decisions about getting married,
+
+260
+00:06:29,570 --> 00:06:29,580
+involves our emotions, decisions about getting married,
+ 
+
+261
+00:06:29,580 --> 00:06:32,210
+involves our emotions, decisions about getting married,
+having a
+
+262
+00:06:32,210 --> 00:06:32,220
+having a
+ 
+
+263
+00:06:32,220 --> 00:06:34,910
+having a
+child, facing
+
+264
+00:06:34,910 --> 00:06:34,920
+child, facing
+ 
+
+265
+00:06:34,920 --> 00:06:38,930
+child, facing
+marital problems 11 taking a firm
+
+266
+00:06:38,930 --> 00:06:38,940
+marital problems 11 taking a firm
+ 
+
+267
+00:06:38,940 --> 00:06:42,410
+marital problems 11 taking a firm
+stance in the face of failure in other
+
+268
+00:06:42,410 --> 00:06:42,420
+stance in the face of failure in other
+ 
+
+269
+00:06:42,420 --> 00:06:46,070
+stance in the face of failure in other
+words any action that does not
+
+270
+00:06:46,070 --> 00:06:46,080
+words any action that does not
+ 
+
+271
+00:06:46,080 --> 00:06:48,500
+words any action that does not
+involve immediate reward but
+
+272
+00:06:48,500 --> 00:06:48,510
+involve immediate reward but
+ 
+
+273
+00:06:48,510 --> 00:06:52,030
+involve immediate reward but
+assumes development, improvement of health
+
+274
+00:06:52,030 --> 00:06:52,040
+assumes development, improvement of health
+ 
+
+275
+00:06:52,040 --> 00:06:55,070
+assumes development, improvement of health
+or work on one's character over a
+
+276
+00:06:55,070 --> 00:06:55,080
+or work on one's character over a
+ 
+
+277
+00:06:55,080 --> 00:06:59,270
+or work on one's character over a
+longer period of time or to put it another way
+
+278
+00:06:59,270 --> 00:06:59,280
+longer period of time or to put it another way
+ 
+
+279
+00:06:59,280 --> 00:07:00,029
+longer period of time or to put it another way
+
+280
+00:07:00,029 --> 00:07:00,039
+
+ 
+
+281
+00:07:00,039 --> 00:07:02,999
+
+any action that is the source of our
+
+282
+00:07:02,999 --> 00:07:03,009
+any action that is the source of our
+ 
+
+283
+00:07:03,009 --> 00:07:06,480
+any action that is the source of our
+higher nature all actions of this
+
+284
+00:07:06,480 --> 00:07:06,490
+higher nature all actions of this
+ 
+
+285
+00:07:06,490 --> 00:07:11,939
+higher nature all actions of this
+type will generate resistance and now the question is what
+
+286
+00:07:11,939 --> 00:07:11,949
+type will generate resistance and now the question is what
+ 
+
+287
+00:07:11,949 --> 00:07:14,790
+type will generate resistance and now the question is what
+are the characteristics of resistance resistance
+
+288
+00:07:14,790 --> 00:07:14,800
+are the characteristics of resistance resistance
+ 
+
+289
+00:07:14,800 --> 00:07:17,489
+are the characteristics of resistance resistance
+is invisible resistance cannot be
+
+290
+00:07:17,489 --> 00:07:17,499
+is invisible resistance cannot be
+ 
+
+291
+00:07:17,499 --> 00:07:21,420
+is invisible resistance cannot be
+seen, heard, touched or smelled but it
+
+292
+00:07:21,420 --> 00:07:21,430
+seen, heard, touched or smelled but it
+ 
+
+293
+00:07:21,430 --> 00:07:24,689
+seen, heard, touched or smelled but it
+can be felt we experience it as
+
+294
+00:07:24,689 --> 00:07:24,699
+can be felt we experience it as
+ 
+
+295
+00:07:24,699 --> 00:07:27,139
+can be felt we experience it as
+energy fields emitted by  Our
+
+296
+00:07:27,139 --> 00:07:27,149
+energy fields emitted by  Our
+ 
+
+297
+00:07:27,149 --> 00:07:30,559
+energy fields emitted by  Our
+intended action. Resistance is a
+
+298
+00:07:30,559 --> 00:07:30,569
+intended action. Resistance is a
+ 
+
+299
+00:07:30,569 --> 00:07:34,079
+intended action. Resistance is a
+breathing force. It is negative. Its purpose
+
+300
+00:07:34,079 --> 00:07:34,089
+breathing force. It is negative. Its purpose
+ 
+
+301
+00:07:34,089 --> 00:07:37,230
+breathing force. It is negative. Its purpose
+is to distract us from action.
+
+302
+00:07:37,230 --> 00:07:37,240
+is to distract us from action.
+ 
+
+303
+00:07:37,240 --> 00:07:39,719
+is to distract us from action.
+It prevents us from doing our
+
+304
+00:07:39,719 --> 00:07:39,729
+It prevents us from doing our
+ 
+
+305
+00:07:39,729 --> 00:07:43,230
+It prevents us from doing our
+job. Resistance is insidious. It will respond to
+
+306
+00:07:43,230 --> 00:07:43,240
+job. Resistance is insidious. It will respond to
+ 
+
+307
+00:07:43,240 --> 00:07:46,010
+job. Resistance is insidious. It will respond to
+anything to stop us from
+
+308
+00:07:46,010 --> 00:07:46,020
+anything to stop us from
+ 
+
+309
+00:07:46,020 --> 00:07:48,049
+anything to stop us from
+doing our job. I will lie to myself, I will deceive myself, I will falsify, I will
+
+310
+00:07:48,049 --> 00:07:48,059
+doing our job. I will lie to myself, I will deceive myself, I will falsify, I will
+ 
+
+311
+00:07:48,059 --> 00:07:51,360
+doing our job. I will lie to myself, I will deceive myself, I will falsify, I will
+say, I will abuse you, I will slap
+
+312
+00:07:51,360 --> 00:07:51,370
+say, I will abuse you, I will slap
+ 
+
+313
+00:07:51,370 --> 00:07:54,299
+say, I will abuse you, I will slap
+you.
+
+314
+00:07:54,299 --> 00:07:54,309
+you.
+ 
+
+315
+00:07:54,309 --> 00:07:57,709
+you.
+I can predict various masks. It
+
+316
+00:07:57,709 --> 00:07:57,719
+I can predict various masks. It
+ 
+
+317
+00:07:57,719 --> 00:08:00,550
+I can predict various masks. It
+will take any form if
+
+318
+00:08:00,550 --> 00:08:00,560
+will take any form if
+ 
+
+319
+00:08:00,560 --> 00:08:03,580
+will take any form if
+necessary. I will deceive you, I will negotiate with
+
+320
+00:08:03,580 --> 00:08:03,590
+necessary. I will deceive you, I will negotiate with
+ 
+
+321
+00:08:03,590 --> 00:08:05,969
+necessary. I will deceive you, I will negotiate with
+you like a lawyer or like a bandit, I will
+
+322
+00:08:05,969 --> 00:08:05,979
+you like a lawyer or like a bandit, I will
+ 
+
+323
+00:08:05,979 --> 00:08:09,700
+you like a lawyer or like a bandit, I will
+point a gun at your face. Resistance has no conscience. I will
+
+324
+00:08:09,700 --> 00:08:09,710
+point a gun at your face. Resistance has no conscience. I will
+ 
+
+325
+00:08:09,710 --> 00:08:10,469
+point a gun at your face. Resistance has no conscience. I will
+
+326
+00:08:10,469 --> 00:08:10,479
+
+ 
+
+327
+00:08:10,479 --> 00:08:13,629
+
+give basically anything just to make a
+
+328
+00:08:13,629 --> 00:08:13,639
+give basically anything just to make a
+ 
+
+329
+00:08:13,639 --> 00:08:15,909
+give basically anything just to make a
+deal and then stand in the wind
+
+330
+00:08:15,909 --> 00:08:15,919
+deal and then stand in the wind
+ 
+
+331
+00:08:15,919 --> 00:08:18,610
+deal and then stand in the wind
+the moment you turn your back. If you believe
+
+332
+00:08:18,610 --> 00:08:18,620
+the moment you turn your back. If you believe
+ 
+
+333
+00:08:18,620 --> 00:08:22,450
+the moment you turn your back. If you believe
+its words, you deserve everything it
+
+334
+00:08:22,450 --> 00:08:22,460
+its words, you deserve everything it
+ 
+
+335
+00:08:22,460 --> 00:08:26,649
+its words, you deserve everything it
+encounters. Resistance always lies and never
+
+336
+00:08:26,649 --> 00:08:26,659
+encounters. Resistance always lies and never
+ 
+
+337
+00:08:26,659 --> 00:08:28,649
+encounters. Resistance always lies and never
+has good intentions.
+
+338
+00:08:28,649 --> 00:08:28,659
+has good intentions.
+ 
+
+339
+00:08:28,659 --> 00:08:32,350
+has good intentions.
+Resistance is impersonal. You cannot
+
+340
+00:08:32,350 --> 00:08:32,360
+Resistance is impersonal. You cannot
+ 
+
+341
+00:08:32,360 --> 00:08:35,290
+Resistance is impersonal. You cannot
+take it personally because it is nothing
+
+342
+00:08:35,290 --> 00:08:35,300
+take it personally because it is nothing
+ 
+
+343
+00:08:35,300 --> 00:08:38,380
+take it personally because it is nothing
+external. It does not know who you are and does not
+
+344
+00:08:38,380 --> 00:08:38,390
+external. It does not know who you are and does not
+ 
+
+345
+00:08:38,390 --> 00:08:41,709
+external. It does not know who you are and does not
+care. It is a force of nature. It acts
+
+346
+00:08:41,709 --> 00:08:41,719
+care. It is a force of nature. It acts
+ 
+
+347
+00:08:41,719 --> 00:08:44,590
+care. It is a force of nature. It acts
+objectively, although it seems to play
+
+348
+00:08:44,590 --> 00:08:44,600
+objectively, although it seems to play
+ 
+
+349
+00:08:44,600 --> 00:08:47,019
+objectively, although it seems to play
+against you. In reality, it acts
+
+350
+00:08:47,019 --> 00:08:47,029
+against you. In reality, it acts
+ 
+
+351
+00:08:47,029 --> 00:08:50,050
+against you. In reality, it acts
+with the indifference of rain and is governed by the
+
+352
+00:08:50,050 --> 00:08:50,060
+with the indifference of rain and is governed by the
+ 
+
+353
+00:08:50,060 --> 00:08:53,230
+with the indifference of rain and is governed by the
+same laws as the stars. When we gather
+
+354
+00:08:53,230 --> 00:08:53,240
+same laws as the stars. When we gather
+ 
+
+355
+00:08:53,240 --> 00:08:55,630
+same laws as the stars. When we gather
+strength to fight it, we must
+
+356
+00:08:55,630 --> 00:08:55,640
+strength to fight it, we must
+ 
+
+357
+00:08:55,640 --> 00:08:56,460
+strength to fight it, we must
+remember
+
+358
+00:08:56,460 --> 00:08:56,470
+remember
+ 
+
+359
+00:08:56,470 --> 00:09:00,830
+remember
+that resistance is infallible, like magnetic fields
+
+360
+00:09:00,830 --> 00:09:00,840
+that resistance is infallible, like magnetic fields
+ 
+
+361
+00:09:00,840 --> 00:09:03,470
+that resistance is infallible, like magnetic fields
+moving on the surface of oil, so it will
+
+362
+00:09:03,470 --> 00:09:03,480
+moving on the surface of oil, so it will
+ 
+
+363
+00:09:03,480 --> 00:09:07,790
+moving on the surface of oil, so it will
+surely point out.  North, by marking
+
+364
+00:09:07,790 --> 00:09:07,800
+surely point out.  North, by marking
+ 
+
+365
+00:09:07,800 --> 00:09:10,850
+surely point out.  North, by marking
+the tendency or action it
+
+366
+00:09:10,850 --> 00:09:10,860
+the tendency or action it
+ 
+
+367
+00:09:10,860 --> 00:09:12,130
+the tendency or action it
+wants to stop us from, you
+
+368
+00:09:12,130 --> 00:09:12,140
+wants to stop us from, you
+ 
+
+369
+00:09:12,140 --> 00:09:15,020
+wants to stop us from, you
+can use it. You can use it as a
+
+370
+00:09:15,020 --> 00:09:15,030
+can use it. You can use it as a
+ 
+
+371
+00:09:15,030 --> 00:09:18,040
+can use it. You can use it as a
+compass. We can navigate
+
+372
+00:09:18,040 --> 00:09:18,050
+compass. We can navigate
+ 
+
+373
+00:09:18,050 --> 00:09:21,110
+compass. We can navigate
+by using resistance and letting it
+
+374
+00:09:21,110 --> 00:09:21,120
+by using resistance and letting it
+ 
+
+375
+00:09:21,120 --> 00:09:24,410
+by using resistance and letting it
+guide us to that challenge or goal we
+
+376
+00:09:24,410 --> 00:09:24,420
+guide us to that challenge or goal we
+ 
+
+377
+00:09:24,420 --> 00:09:27,470
+guide us to that challenge or goal we
+should be heading towards before
+
+378
+00:09:27,470 --> 00:09:27,480
+should be heading towards before
+ 
+
+379
+00:09:27,480 --> 00:09:30,710
+should be heading towards before
+all others. This is a simple
+
+380
+00:09:30,710 --> 00:09:30,720
+all others. This is a simple
+ 
+
+381
+00:09:30,720 --> 00:09:33,170
+all others. This is a simple
+rule and the more important the challenge or
+
+382
+00:09:33,170 --> 00:09:33,180
+rule and the more important the challenge or
+ 
+
+383
+00:09:33,180 --> 00:09:35,600
+rule and the more important the challenge or
+action that leads to the development of our
+
+384
+00:09:35,600 --> 00:09:35,610
+action that leads to the development of our
+ 
+
+385
+00:09:35,610 --> 00:09:38,390
+action that leads to the development of our
+soul, the more resistance you will feel as you
+
+386
+00:09:38,390 --> 00:09:38,400
+soul, the more resistance you will feel as you
+ 
+
+387
+00:09:38,400 --> 00:09:40,210
+soul, the more resistance you will feel as you
+move towards the goal. Resistance
+
+388
+00:09:40,210 --> 00:09:40,220
+move towards the goal. Resistance
+ 
+
+389
+00:09:40,220 --> 00:09:43,790
+move towards the goal. Resistance
+is universal. You are wrong
+
+390
+00:09:43,790 --> 00:09:43,800
+is universal. You are wrong
+ 
+
+391
+00:09:43,800 --> 00:09:46,070
+is universal. You are wrong
+if you think you are the only one
+
+392
+00:09:46,070 --> 00:09:46,080
+if you think you are the only one
+ 
+
+393
+00:09:46,080 --> 00:09:48,500
+if you think you are the only one
+fighting resistance. Everyone who has a body
+
+394
+00:09:48,500 --> 00:09:48,510
+fighting resistance. Everyone who has a body
+ 
+
+395
+00:09:48,510 --> 00:09:50,290
+fighting resistance. Everyone who has a body
+experiences resistance. Resistance
+
+396
+00:09:50,290 --> 00:09:50,300
+experiences resistance. Resistance
+ 
+
+397
+00:09:50,300 --> 00:09:54,710
+experiences resistance. Resistance
+never sleeps. Henry always
+
+398
+00:09:54,710 --> 00:09:54,720
+never sleeps. Henry always
+ 
+
+399
+00:09:54,720 --> 00:09:56,660
+never sleeps. Henry always
+vomited before performing on stage,
+
+400
+00:09:56,660 --> 00:09:56,670
+vomited before performing on stage,
+ 
+
+401
+00:09:56,670 --> 00:10:00,750
+vomited before performing on stage,
+even at the age of 75. In other words, the drug does
+
+402
+00:10:00,750 --> 00:10:00,760
+even at the age of 75. In other words, the drug does
+ 
+
+403
+00:10:00,760 --> 00:10:04,470
+even at the age of 75. In other words, the drug does
+not disappear. A warrior and an artist are guided by the
+
+404
+00:10:04,470 --> 00:10:04,480
+not disappear. A warrior and an artist are guided by the
+ 
+
+405
+00:10:04,480 --> 00:10:07,530
+not disappear. A warrior and an artist are guided by the
+same law of necessity that forces them to
+
+406
+00:10:07,530 --> 00:10:07,540
+same law of necessity that forces them to
+ 
+
+407
+00:10:07,540 --> 00:10:10,700
+same law of necessity that forces them to
+fight the battle every day anew. Resistance
+
+408
+00:10:10,700 --> 00:10:10,710
+fight the battle every day anew. Resistance
+ 
+
+409
+00:10:10,710 --> 00:10:14,280
+fight the battle every day anew. Resistance
+is deadly serious. The goal of
+
+410
+00:10:14,280 --> 00:10:14,290
+is deadly serious. The goal of
+ 
+
+411
+00:10:14,290 --> 00:10:16,470
+is deadly serious. The goal of
+resistance is not to hurt or
+
+412
+00:10:16,470 --> 00:10:16,480
+resistance is not to hurt or
+ 
+
+413
+00:10:16,480 --> 00:10:19,980
+resistance is not to hurt or
+incapacitate you. Resistance aims to
+
+414
+00:10:19,980 --> 00:10:19,990
+incapacitate you. Resistance aims to
+ 
+
+415
+00:10:19,990 --> 00:10:23,640
+incapacitate you. Resistance aims to
+kill. Its goal is the epicenter of your
+
+416
+00:10:23,640 --> 00:10:23,650
+kill. Its goal is the epicenter of your
+ 
+
+417
+00:10:23,650 --> 00:10:26,210
+kill. Its goal is the epicenter of your
+existence. Your genius, your soul, the
+
+418
+00:10:26,210 --> 00:10:26,220
+existence. Your genius, your soul, the
+ 
+
+419
+00:10:26,220 --> 00:10:29,550
+existence. Your genius, your soul, the
+unique and priceless gift for which you
+
+420
+00:10:29,550 --> 00:10:29,560
+unique and priceless gift for which you
+ 
+
+421
+00:10:29,560 --> 00:10:32,430
+unique and priceless gift for which you
+were sent to earth and which no
+
+422
+00:10:32,430 --> 00:10:32,440
+were sent to earth and which no
+ 
+
+423
+00:10:32,440 --> 00:10:36,600
+were sent to earth and which no
+one else possesses. Resistance takes
+
+424
+00:10:36,600 --> 00:10:36,610
+one else possesses. Resistance takes
+ 
+
+425
+00:10:36,610 --> 00:10:39,330
+one else possesses. Resistance takes
+this matter seriously. Fighting resistance is a life
+
+426
+00:10:39,330 --> 00:10:39,340
+this matter seriously. Fighting resistance is a life
+ 
+
+427
+00:10:39,340 --> 00:10:43,250
+this matter seriously. Fighting resistance is a life
+and death war.
+
+428
+00:10:43,250 --> 00:10:43,260
+and death war.
+ 
+
+429
+00:10:43,260 --> 00:10:45,290
+and death war.
+Rational thinking. The
+
+430
+00:10:45,290 --> 00:10:45,300
+Rational thinking. The
+ 
+
+431
+00:10:45,300 --> 00:10:47,850
+Rational thinking. The
+second greatest enemy of an artist and
+
+432
+00:10:47,850 --> 00:10:47,860
+second greatest enemy of an artist and
+ 
+
+433
+00:10:47,860 --> 00:10:50,810
+second greatest enemy of an artist and
+businessman is rational thinking
+
+434
+00:10:50,810 --> 00:10:50,820
+businessman is rational thinking
+ 
+
+435
+00:10:50,820 --> 00:10:53,460
+businessman is rational thinking
+when you are guided by  Rational
+
+436
+00:10:53,460 --> 00:10:53,470
+when you are guided by  Rational
+ 
+
+437
+00:10:53,470 --> 00:10:56,220
+when you are guided by  Rational
+thinking is a failure because the
+
+438
+00:10:56,220 --> 00:10:56,230
+thinking is a failure because the
+ 
+
+439
+00:10:56,230 --> 00:10:59,040
+thinking is a failure because the
+source of rational thinking is your
+
+440
+00:10:59,040 --> 00:10:59,050
+source of rational thinking is your
+ 
+
+441
+00:10:59,050 --> 00:11:00,280
+source of rational thinking is your
+ego.
+
+442
+00:11:00,280 --> 00:11:00,290
+ego.
+ 
+
+443
+00:11:00,290 --> 00:11:02,710
+ego.
+Instead, you should operate at the
+
+444
+00:11:02,710 --> 00:11:02,720
+Instead, you should operate at the
+ 
+
+445
+00:11:02,720 --> 00:11:05,919
+Instead, you should operate at the
+level of the self, which means using your
+
+446
+00:11:05,919 --> 00:11:05,929
+level of the self, which means using your
+ 
+
+447
+00:11:05,929 --> 00:11:09,809
+level of the self, which means using your
+instinct and intuition, your subconscious.
+
+448
+00:11:09,809 --> 00:11:09,819
+instinct and intuition, your subconscious.
+ 
+
+449
+00:11:09,819 --> 00:11:13,119
+instinct and intuition, your subconscious.
+Homer began both I'm Going and the
+
+450
+00:11:13,119 --> 00:11:13,129
+Homer began both I'm Going and the
+ 
+
+451
+00:11:13,129 --> 00:11:17,079
+Homer began both I'm Going and the
+Odyssey with the Domus prayer. The greatest
+
+452
+00:11:17,079 --> 00:11:17,089
+Odyssey with the Domus prayer. The greatest
+ 
+
+453
+00:11:17,089 --> 00:11:20,019
+Odyssey with the Domus prayer. The greatest
+Greek poet knew that inspiration is
+
+454
+00:11:20,019 --> 00:11:20,029
+Greek poet knew that inspiration is
+ 
+
+455
+00:11:20,029 --> 00:11:22,210
+Greek poet knew that inspiration is
+born within the boundaries of his mistaken
+
+456
+00:11:22,210 --> 00:11:22,220
+born within the boundaries of his mistaken
+ 
+
+457
+00:11:22,220 --> 00:11:25,090
+born within the boundaries of his mistaken
+mortal self, but it comes from a
+
+458
+00:11:25,090 --> 00:11:25,100
+mortal self, but it comes from a
+ 
+
+459
+00:11:25,100 --> 00:11:25,769
+mortal self, but it comes from a
+source
+
+460
+00:11:25,769 --> 00:11:25,779
+source
+ 
+
+461
+00:11:25,779 --> 00:11:29,289
+source
+that he cannot control and over
+
+462
+00:11:29,289 --> 00:11:29,299
+that he cannot control and over
+ 
+
+463
+00:11:29,299 --> 00:11:32,650
+that he cannot control and over
+which he cannot master. He can only ask
+
+464
+00:11:32,650 --> 00:11:32,660
+which he cannot master. He can only ask
+ 
+
+465
+00:11:32,660 --> 00:11:34,109
+which he cannot master. He can only ask
+you for help.
+
+466
+00:11:34,109 --> 00:11:34,119
+you for help.
+ 
+
+467
+00:11:34,119 --> 00:11:37,119
+you for help.
+Saying "trust the soup" means
+
+468
+00:11:37,119 --> 00:11:37,129
+Saying "trust the soup" means
+ 
+
+469
+00:11:37,129 --> 00:11:39,789
+Saying "trust the soup" means
+allowing yourself to lack control, yet
+
+470
+00:11:39,789 --> 00:11:39,799
+allowing yourself to lack control, yet
+ 
+
+471
+00:11:39,799 --> 00:11:41,889
+allowing yourself to lack control, yet
+you are unable to exercise it anyway,
+
+472
+00:11:41,889 --> 00:11:41,899
+you are unable to exercise it anyway,
+ 
+
+473
+00:11:41,899 --> 00:11:45,160
+you are unable to exercise it anyway,
+and instead relying on the
+
+474
+00:11:45,160 --> 00:11:45,170
+and instead relying on the
+ 
+
+475
+00:11:45,170 --> 00:11:48,479
+and instead relying on the
+action of a higher power, the mystery of
+
+476
+00:11:48,479 --> 00:11:48,489
+action of a higher power, the mystery of
+ 
+
+477
+00:11:48,489 --> 00:11:52,359
+action of a higher power, the mystery of
+quantum soup. The deeper the source
+
+478
+00:11:52,359 --> 00:11:52,369
+quantum soup. The deeper the source
+ 
+
+479
+00:11:52,369 --> 00:11:54,789
+quantum soup. The deeper the source
+you draw from, the better the results of
+
+480
+00:11:54,789 --> 00:11:54,799
+you draw from, the better the results of
+ 
+
+481
+00:11:54,799 --> 00:11:58,269
+you draw from, the better the results of
+your work will be and the greater the transformation you will
+
+482
+00:11:58,269 --> 00:11:58,279
+your work will be and the greater the transformation you will
+ 
+
+483
+00:11:58,279 --> 00:12:02,030
+your work will be and the greater the transformation you will
+experience. Both those to whom "Hey, how's it going" is
+
+484
+00:12:02,030 --> 00:12:02,040
+experience. Both those to whom "Hey, how's it going" is
+ 
+
+485
+00:12:02,040 --> 00:12:04,870
+experience. Both those to whom "Hey, how's it going" is
+addressed,
+
+486
+00:12:04,870 --> 00:12:04,880
+addressed,
+ 
+
+487
+00:12:04,880 --> 00:12:07,550
+addressed,
+friends and family, the problem with
+
+488
+00:12:07,550 --> 00:12:07,560
+friends and family, the problem with
+ 
+
+489
+00:12:07,560 --> 00:12:09,470
+friends and family, the problem with
+friends and family is that
+
+490
+00:12:09,470 --> 00:12:09,480
+friends and family is that
+ 
+
+491
+00:12:09,480 --> 00:12:12,230
+friends and family is that
+they know how you are, they will do everything in their
+
+492
+00:12:12,230 --> 00:12:12,240
+they know how you are, they will do everything in their
+ 
+
+493
+00:12:12,240 --> 00:12:16,040
+they know how you are, they will do everything in their
+power to prevent you from changing, and the last
+
+494
+00:12:16,040 --> 00:12:16,050
+power to prevent you from changing, and the last
+ 
+
+495
+00:12:16,050 --> 00:12:18,290
+power to prevent you from changing, and the last
+thing we want is to remain as we are.
+
+496
+00:12:18,290 --> 00:12:18,300
+thing we want is to remain as we are.
+ 
+
+497
+00:12:18,300 --> 00:12:21,830
+thing we want is to remain as we are.
+You are listening to this
+
+498
+00:12:21,830 --> 00:12:21,840
+You are listening to this
+ 
+
+499
+00:12:21,840 --> 00:12:24,680
+You are listening to this
+book because you sense your
+
+500
+00:12:24,680 --> 00:12:24,690
+book because you sense your
+ 
+
+501
+00:12:24,690 --> 00:12:28,070
+book because you sense your
+other self within yourself, a completely different you,
+
+502
+00:12:28,070 --> 00:12:28,080
+other self within yourself, a completely different you,
+ 
+
+503
+00:12:28,080 --> 00:12:31,490
+other self within yourself, a completely different you,
+with a few exceptions. God
+
+504
+00:12:31,490 --> 00:12:31,500
+with a few exceptions. God
+ 
+
+505
+00:12:31,500 --> 00:12:33,950
+with a few exceptions. God
+bless your friends and family.
+
+506
+00:12:33,950 --> 00:12:33,960
+bless your friends and family.
+ 
+
+507
+00:12:33,960 --> 00:12:36,890
+bless your friends and family.
+The enemies of this unmanifested one are
+
+508
+00:12:36,890 --> 00:12:36,900
+The enemies of this unmanifested one are
+ 
+
+509
+00:12:36,900 --> 00:12:40,310
+The enemies of this unmanifested one are
+you and the unborn selves of this
+
+510
+00:12:40,310 --> 00:12:40,320
+you and the unborn selves of this
+ 
+
+511
+00:12:40,320 --> 00:12:42,550
+you and the unborn selves of this
+future one.
+
+512
+00:12:42,550 --> 00:12:42,560
+future one.
+ 
+
+513
+00:12:42,560 --> 00:12:46,250
+future one.
+Prepare for new friendships. They will
+
+514
+00:12:46,250 --> 00:12:46,260
+Prepare for new friendships. They will
+ 
+
+515
+00:12:46,260 --> 00:12:49,090
+Prepare for new friendships. They will
+appear. Believe me,
+
+516
+00:12:49,090 --> 00:12:49,100
+appear. Believe me,
+ 
+
+517
+00:12:49,100 --> 00:12:51,610
+appear. Believe me,
+our allies. You
+
+518
+00:12:51,610 --> 00:12:51,620
+our allies. You
+ 
+
+519
+00:12:51,620 --> 00:12:54,620
+our allies. You
+already know enough about
+
+520
+00:12:54,620 --> 00:12:54,630
+already know enough about
+ 
+
+521
+00:12:54,630 --> 00:12:57,560
+already know enough about
+your opponents. So, get to know the forces
+
+522
+00:12:57,560 --> 00:12:57,570
+your opponents. So, get to know the forces
+ 
+
+523
+00:12:57,570 --> 00:13:00,360
+your opponents. So, get to know the forces
+on your side.
+
+524
+00:13:00,360 --> 00:13:00,370
+on your side.
+ 
+
+525
+00:13:00,370 --> 00:13:07,010
+on your side.
+1. Stupidity. 2. Stubbornness. 3. Blind faith. 4.
+
+526
+00:13:07,010 --> 00:13:07,020
+1. Stupidity. 2. Stubbornness. 3. Blind faith. 4.
+ 
+
+527
+00:13:07,020 --> 00:13:12,060
+1. Stupidity. 2. Stubbornness. 3. Blind faith. 4.
+Passion. 5. Support, or the opposite.
+
+528
+00:13:12,060 --> 00:13:12,070
+Passion. 5. Support, or the opposite.
+ 
+
+529
+00:13:12,070 --> 00:13:16,530
+Passion. 5. Support, or the opposite.
+Forum. Hello friends and family. Don't
+
+530
+00:13:16,530 --> 00:13:16,540
+Forum. Hello friends and family. Don't
+ 
+
+531
+00:13:16,540 --> 00:13:20,370
+Forum. Hello friends and family. Don't
+be stupid. Here are the three stupidest
+
+532
+00:13:20,370 --> 00:13:20,380
+be stupid. Here are the three stupidest
+ 
+
+533
+00:13:20,380 --> 00:13:23,060
+be stupid. Here are the three stupidest
+guys that come to mind.
+
+534
+00:13:23,060 --> 00:13:23,070
+guys that come to mind.
+ 
+
+535
+00:13:23,070 --> 00:13:25,640
+guys that come to mind.
+Charles Lindberg, Steve
+
+536
+00:13:25,640 --> 00:13:25,650
+Charles Lindberg, Steve
+ 
+
+537
+00:13:25,650 --> 00:13:29,840
+Charles Lindberg, Steve
+Jobs, Winston Churchill. Why?
+
+538
+00:13:29,840 --> 00:13:29,850
+Jobs, Winston Churchill. Why?
+ 
+
+539
+00:13:29,850 --> 00:13:33,090
+Jobs, Winston Churchill. Why?
+Because any reasonable, thinking person
+
+540
+00:13:33,090 --> 00:13:33,100
+Because any reasonable, thinking person
+ 
+
+541
+00:13:33,100 --> 00:13:35,820
+Because any reasonable, thinking person
+in their place, knowing how incredibly
+
+542
+00:13:35,820 --> 00:13:35,830
+in their place, knowing how incredibly
+ 
+
+543
+00:13:35,830 --> 00:13:38,420
+in their place, knowing how incredibly
+difficult a task they set for themselves,
+
+544
+00:13:38,420 --> 00:13:38,430
+difficult a task they set for themselves,
+ 
+
+545
+00:13:38,430 --> 00:13:40,650
+difficult a task they set for themselves,
+would give up on their implementation without
+
+546
+00:13:40,650 --> 00:13:40,660
+would give up on their implementation without
+ 
+
+547
+00:13:40,660 --> 00:13:43,380
+would give up on their implementation without
+taking a single step towards their
+
+548
+00:13:43,380 --> 00:13:43,390
+taking a single step towards their
+ 
+
+549
+00:13:43,390 --> 00:13:44,750
+taking a single step towards their
+goal.
+
+550
+00:13:44,750 --> 00:13:44,760
+goal.
+ 
+
+551
+00:13:44,760 --> 00:13:47,970
+goal.
+Ignorance and arrogance are essential
+
+552
+00:13:47,970 --> 00:13:47,980
+Ignorance and arrogance are essential
+ 
+
+553
+00:13:47,980 --> 00:13:49,380
+Ignorance and arrogance are essential
+allies of an artist and an
+
+554
+00:13:49,380 --> 00:13:49,390
+allies of an artist and an
+ 
+
+555
+00:13:49,390 --> 00:13:51,630
+allies of an artist and an
+entrepreneur. You must be so
+
+556
+00:13:51,630 --> 00:13:51,640
+entrepreneur. You must be so
+ 
+
+557
+00:13:51,640 --> 00:13:54,360
+entrepreneur. You must be so
+ignorant of the subject that you don't
+
+558
+00:13:54,360 --> 00:13:54,370
+ignorant of the subject that you don't
+ 
+
+559
+00:13:54,370 --> 00:13:56,700
+ignorant of the subject that you don't
+realize what you're undertaking. You
+
+560
+00:13:56,700 --> 00:13:56,710
+realize what you're undertaking. You
+ 
+
+561
+00:13:56,710 --> 00:14:00,160
+realize what you're undertaking. You
+must be strong enough to
+
+562
+00:14:00,160 --> 00:14:00,170
+must be strong enough to
+ 
+
+563
+00:14:00,170 --> 00:14:02,109
+must be strong enough to
+believe that, no matter what, you will
+
+564
+00:14:02,109 --> 00:14:02,119
+believe that, no matter what, you will
+ 
+
+565
+00:14:02,119 --> 00:14:04,600
+believe that, no matter what, you will
+achieve your
+
+566
+00:14:04,600 --> 00:14:04,610
+achieve your
+ 
+
+567
+00:14:04,610 --> 00:14:08,910
+achieve your
+goals. How to achieve this state of mind
+
+568
+00:14:08,910 --> 00:14:08,920
+goals. How to achieve this state of mind
+ 
+
+569
+00:14:08,920 --> 00:14:12,429
+goals. How to achieve this state of mind
+by cultivating stupidity without allowing yourself
+
+570
+00:14:12,429 --> 00:14:12,439
+by cultivating stupidity without allowing yourself
+ 
+
+571
+00:14:12,439 --> 00:14:14,549
+by cultivating stupidity without allowing yourself
+to think. A
+
+572
+00:14:14,549 --> 00:14:14,559
+to think. A
+ 
+
+573
+00:14:14,559 --> 00:14:17,019
+to think. A
+child genius and a madman have no
+
+574
+00:14:17,019 --> 00:14:17,029
+child genius and a madman have no
+ 
+
+575
+00:14:17,029 --> 00:14:19,169
+child genius and a madman have no
+problem believing in the
+
+576
+00:14:19,169 --> 00:14:19,179
+problem believing in the
+ 
+
+577
+00:14:19,179 --> 00:14:21,910
+problem believing in the
+improbable. Only  You and I can't
+
+578
+00:14:21,910 --> 00:14:21,920
+improbable. Only  You and I can't
+ 
+
+579
+00:14:21,920 --> 00:14:24,189
+improbable. Only  You and I can't
+do that with our big brains and
+
+580
+00:14:24,189 --> 00:14:24,199
+do that with our big brains and
+ 
+
+581
+00:14:24,199 --> 00:14:26,400
+do that with our big brains and
+tiny hearts that doubt, wonder,
+
+582
+00:14:26,400 --> 00:14:26,410
+tiny hearts that doubt, wonder,
+ 
+
+583
+00:14:26,410 --> 00:14:30,419
+tiny hearts that doubt, wonder,
+and hesitate. Don't think.
+
+584
+00:14:30,419 --> 00:14:30,429
+and hesitate. Don't think.
+ 
+
+585
+00:14:30,429 --> 00:14:33,850
+and hesitate. Don't think.
+Act. You can always analyze and
+
+586
+00:14:33,850 --> 00:14:33,860
+Act. You can always analyze and
+ 
+
+587
+00:14:33,860 --> 00:14:36,579
+Act. You can always analyze and
+improve what you've done, but you can't do
+
+588
+00:14:36,579 --> 00:14:36,589
+improve what you've done, but you can't do
+ 
+
+589
+00:14:36,589 --> 00:14:39,400
+improve what you've done, but you can't do
+it until you act. Be
+
+590
+00:14:39,400 --> 00:14:39,410
+it until you act. Be
+ 
+
+591
+00:14:39,410 --> 00:14:40,619
+it until you act. Be
+
+592
+00:14:40,619 --> 00:14:40,629
+
+ 
+
+593
+00:14:40,629 --> 00:14:44,039
+
+stubborn. Once you start acting, the
+
+594
+00:14:44,039 --> 00:14:44,049
+stubborn. Once you start acting, the
+ 
+
+595
+00:14:44,049 --> 00:14:46,889
+stubborn. Once you start acting, the
+worst thing you can do is stop,
+
+596
+00:14:46,889 --> 00:14:46,899
+worst thing you can do is stop,
+ 
+
+597
+00:14:46,899 --> 00:14:50,889
+worst thing you can do is stop,
+which will prevent you from giving up.
+
+598
+00:14:50,889 --> 00:14:50,899
+which will prevent you from giving up.
+ 
+
+599
+00:14:50,899 --> 00:14:53,829
+which will prevent you from giving up.
+Good old choice. I like the idea of ​​stubbornness
+
+600
+00:14:53,829 --> 00:14:53,839
+Good old choice. I like the idea of ​​stubbornness
+ 
+
+601
+00:14:53,839 --> 00:14:56,039
+Good old choice. I like the idea of ​​stubbornness
+because if not, and more sublime than
+
+602
+00:14:56,039 --> 00:14:56,049
+because if not, and more sublime than
+ 
+
+603
+00:14:56,049 --> 00:14:59,319
+because if not, and more sublime than
+tenacity or perseverance, we don't have to
+
+604
+00:14:59,319 --> 00:14:59,329
+tenacity or perseverance, we don't have to
+ 
+
+605
+00:14:59,329 --> 00:15:00,140
+tenacity or perseverance, we don't have to
+be
+
+606
+00:15:00,140 --> 00:15:00,150
+be
+ 
+
+607
+00:15:00,150 --> 00:15:03,500
+be
+grammatical. To be guided by stubbornness, we can
+
+608
+00:15:03,500 --> 00:15:03,510
+grammatical. To be guided by stubbornness, we can
+ 
+
+609
+00:15:03,510 --> 00:15:06,710
+grammatical. To be guided by stubbornness, we can
+simply be stubborn like donkeys. When
+
+610
+00:15:06,710 --> 00:15:06,720
+simply be stubborn like donkeys. When
+ 
+
+611
+00:15:06,720 --> 00:15:09,470
+simply be stubborn like donkeys. When
+we are stubborn, there is no room for resignation in us. We are mean. We don't give up. We
+
+612
+00:15:09,470 --> 00:15:12,380
+we are stubborn, there is no room for resignation in us. We are mean. We don't give up. We
+ 
+
+613
+00:15:12,380 --> 00:15:12,390
+
+ 
+
+614
+00:15:12,390 --> 00:15:14,860
+
+are nasty. We fight to the end.
+
+615
+00:15:14,860 --> 00:15:14,870
+are nasty. We fight to the end.
+ 
+
+616
+00:15:14,870 --> 00:15:18,020
+are nasty. We fight to the end.
+We sink our teeth into resistance
+
+617
+00:15:18,020 --> 00:15:18,030
+We sink our teeth into resistance
+ 
+
+618
+00:15:18,030 --> 00:15:21,530
+We sink our teeth into resistance
+and won't let go, no matter
+
+619
+00:15:21,530 --> 00:15:21,540
+and won't let go, no matter
+ 
+
+620
+00:15:21,540 --> 00:15:24,160
+and won't let go, no matter
+how hard it struggles. Is there a
+
+621
+00:15:24,160 --> 00:15:24,170
+how hard it struggles. Is there a
+ 
+
+622
+00:15:24,170 --> 00:15:27,860
+how hard it struggles. Is there a
+spiritual element to
+
+623
+00:15:27,860 --> 00:15:27,870
+spiritual element to
+ 
+
+624
+00:15:27,870 --> 00:15:31,040
+spiritual element to
+creation? Well, probably your greatest
+
+625
+00:15:31,040 --> 00:15:31,050
+creation? Well, probably your greatest
+ 
+
+626
+00:15:31,050 --> 00:15:33,170
+creation? Well, probably your greatest
+ally, an irreplaceable
+
+627
+00:15:33,170 --> 00:15:33,180
+ally, an irreplaceable
+ 
+
+628
+00:15:33,180 --> 00:15:35,000
+ally, an irreplaceable
+ally, is not faith in something you can't
+
+629
+00:15:35,000 --> 00:15:35,010
+ally, is not faith in something you can't
+ 
+
+630
+00:15:35,010 --> 00:15:37,930
+ally, is not faith in something you can't
+see, hear, touch, taste,
+
+631
+00:15:37,930 --> 00:15:37,940
+see, hear, touch, taste,
+ 
+
+632
+00:15:37,940 --> 00:15:41,530
+see, hear, touch, taste,
+or feel. Resistance
+
+633
+00:15:41,530 --> 00:15:41,540
+or feel. Resistance
+ 
+
+634
+00:15:41,540 --> 00:15:45,350
+or feel. Resistance
+wants to shake this faith. I want to
+
+635
+00:15:45,350 --> 00:15:45,360
+wants to shake this faith. I want to
+ 
+
+636
+00:15:45,360 --> 00:15:49,460
+wants to shake this faith. I want to
+destroy it. Africa and America describe in his
+
+637
+00:15:49,460 --> 00:15:49,470
+destroy it. Africa and America describe in his
+ 
+
+638
+00:15:49,470 --> 00:15:52,070
+destroy it. Africa and America describe in his
+wonderful book, Impulse. Home.  some
+
+639
+00:15:52,070 --> 00:15:52,080
+wonderful book, Impulse. Home.  some
+ 
+
+640
+00:15:52,080 --> 00:15:54,620
+wonderful book, Impulse. Home.  some
+exercises
+

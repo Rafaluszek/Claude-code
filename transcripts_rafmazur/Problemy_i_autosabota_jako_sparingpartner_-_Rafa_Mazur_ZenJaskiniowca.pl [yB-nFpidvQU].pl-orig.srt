@@ -1,0 +1,3235 @@
+1
+00:00:00,120 --> 00:00:01,870
+
+Wiesz, coś, co na przykład jest
+
+2
+00:00:01,870 --> 00:00:01,880
+Wiesz, coś, co na przykład jest
+ 
+
+3
+00:00:01,880 --> 00:00:03,550
+Wiesz, coś, co na przykład jest
+problemem dla ciebie, nie musi być dla
+
+4
+00:00:03,550 --> 00:00:03,560
+problemem dla ciebie, nie musi być dla
+ 
+
+5
+00:00:03,560 --> 00:00:05,550
+problemem dla ciebie, nie musi być dla
+mnie i odwrotnie. Nie
+
+6
+00:00:05,550 --> 00:00:05,560
+mnie i odwrotnie. Nie
+ 
+
+7
+00:00:05,560 --> 00:00:08,270
+mnie i odwrotnie. Nie
+problem mówi o tobie, prawda? Nie o
+
+8
+00:00:08,270 --> 00:00:08,280
+problem mówi o tobie, prawda? Nie o
+ 
+
+9
+00:00:08,280 --> 00:00:09,750
+problem mówi o tobie, prawda? Nie o
+problemie de facto. Dlatego każdy
+
+10
+00:00:09,750 --> 00:00:09,760
+problemie de facto. Dlatego każdy
+ 
+
+11
+00:00:09,760 --> 00:00:12,350
+problemie de facto. Dlatego każdy
+problem jest metaforą w tym sensie.
+
+12
+00:00:12,350 --> 00:00:12,360
+problem jest metaforą w tym sensie.
+ 
+
+13
+00:00:12,360 --> 00:00:13,549
+problem jest metaforą w tym sensie.
+Oczywiście przechodzimy do drugiego
+
+14
+00:00:13,549 --> 00:00:13,559
+Oczywiście przechodzimy do drugiego
+ 
+
+15
+00:00:13,559 --> 00:00:15,190
+Oczywiście przechodzimy do drugiego
+elementu,
+
+16
+00:00:15,190 --> 00:00:15,200
+elementu,
+ 
+
+17
+00:00:15,200 --> 00:00:17,470
+elementu,
+a tak naprawdę od tego, co to jest
+
+18
+00:00:17,470 --> 00:00:17,480
+a tak naprawdę od tego, co to jest
+ 
+
+19
+00:00:17,480 --> 00:00:18,910
+a tak naprawdę od tego, co to jest
+problem. dlatego że większość tego, co
+
+20
+00:00:18,910 --> 00:00:18,920
+problem. dlatego że większość tego, co
+ 
+
+21
+00:00:18,920 --> 00:00:20,029
+problem. dlatego że większość tego, co
+my nazywamy problemem nie jest
+
+22
+00:00:20,029 --> 00:00:20,039
+my nazywamy problemem nie jest
+ 
+
+23
+00:00:20,039 --> 00:00:23,509
+my nazywamy problemem nie jest
+problemem, bo problem polega na tym, że
+
+24
+00:00:23,509 --> 00:00:23,519
+problemem, bo problem polega na tym, że
+ 
+
+25
+00:00:23,519 --> 00:00:25,349
+problemem, bo problem polega na tym, że
+nie znasz przyczyny, bo w momencie, w
+
+26
+00:00:25,349 --> 00:00:25,359
+nie znasz przyczyny, bo w momencie, w
+ 
+
+27
+00:00:25,359 --> 00:00:27,109
+nie znasz przyczyny, bo w momencie, w
+którym znasz przyczynę i w momencie, w
+
+28
+00:00:27,109 --> 00:00:27,119
+którym znasz przyczynę i w momencie, w
+ 
+
+29
+00:00:27,119 --> 00:00:28,429
+którym znasz przyczynę i w momencie, w
+którym znasz rozwiązanie, to nie masz
+
+30
+00:00:28,429 --> 00:00:28,439
+którym znasz rozwiązanie, to nie masz
+ 
+
+31
+00:00:28,439 --> 00:00:30,870
+którym znasz rozwiązanie, to nie masz
+problemu. To jest tylko kwestia decyzji,
+
+32
+00:00:30,870 --> 00:00:30,880
+problemu. To jest tylko kwestia decyzji,
+ 
+
+33
+00:00:30,880 --> 00:00:32,109
+problemu. To jest tylko kwestia decyzji,
+kwestia wyboru, żeby coś zrobić.
+
+34
+00:00:32,109 --> 00:00:32,119
+kwestia wyboru, żeby coś zrobić.
+ 
+
+35
+00:00:32,119 --> 00:00:32,990
+kwestia wyboru, żeby coś zrobić.
+Rozumiesz o co chodzi?
+
+36
+00:00:32,990 --> 00:00:33,000
+Rozumiesz o co chodzi?
+ 
+
+37
+00:00:33,000 --> 00:00:34,709
+Rozumiesz o co chodzi?
+Tak. Jakieś zdarzenie w którym czasie
+
+38
+00:00:34,709 --> 00:00:34,719
+Tak. Jakieś zdarzenie w którym czasie
+ 
+
+39
+00:00:34,719 --> 00:00:35,110
+Tak. Jakieś zdarzenie w którym czasie
+zależ
+
+40
+00:00:35,110 --> 00:00:35,120
+zależ
+ 
+
+41
+00:00:35,120 --> 00:00:36,470
+zależ
+to nie jest problem. To co ludzie na
+
+42
+00:00:36,470 --> 00:00:36,480
+to nie jest problem. To co ludzie na
+ 
+
+43
+00:00:36,480 --> 00:00:37,869
+to nie jest problem. To co ludzie na
+ogół określają problemem, nie jest
+
+44
+00:00:37,869 --> 00:00:37,879
+ogół określają problemem, nie jest
+ 
+
+45
+00:00:37,879 --> 00:00:40,389
+ogół określają problemem, nie jest
+problemem. To jest po prostu kwestia nie
+
+46
+00:00:40,389 --> 00:00:40,399
+problemem. To jest po prostu kwestia nie
+ 
+
+47
+00:00:40,399 --> 00:00:43,029
+problemem. To jest po prostu kwestia nie
+podjęcia decyzji, kwestia niedokonania
+
+48
+00:00:43,029 --> 00:00:43,039
+podjęcia decyzji, kwestia niedokonania
+ 
+
+49
+00:00:43,039 --> 00:00:45,389
+podjęcia decyzji, kwestia niedokonania
+wyboru. Natomiast to nie jest problem,
+
+50
+00:00:45,389 --> 00:00:45,399
+wyboru. Natomiast to nie jest problem,
+ 
+
+51
+00:00:45,399 --> 00:00:47,950
+wyboru. Natomiast to nie jest problem,
+że przyczyna, jeżeli wiesz co robić, nie
+
+52
+00:00:47,950 --> 00:00:47,960
+że przyczyna, jeżeli wiesz co robić, nie
+ 
+
+53
+00:00:47,960 --> 00:00:49,830
+że przyczyna, jeżeli wiesz co robić, nie
+musisz wiedzieć jak robić, ale wiesz co
+
+54
+00:00:49,830 --> 00:00:49,840
+musisz wiedzieć jak robić, ale wiesz co
+ 
+
+55
+00:00:49,840 --> 00:00:52,549
+musisz wiedzieć jak robić, ale wiesz co
+robić, to nie masz problemu. Po prostu
+
+56
+00:00:52,549 --> 00:00:52,559
+robić, to nie masz problemu. Po prostu
+ 
+
+57
+00:00:52,559 --> 00:00:55,270
+robić, to nie masz problemu. Po prostu
+nie masz decyzji, nie masz, nie jesteś
+
+58
+00:00:55,270 --> 00:00:55,280
+nie masz decyzji, nie masz, nie jesteś
+ 
+
+59
+00:00:55,280 --> 00:00:57,910
+nie masz decyzji, nie masz, nie jesteś
+właścicielem i jesteś na, jesteś w
+
+60
+00:00:57,910 --> 00:00:57,920
+właścicielem i jesteś na, jesteś w
+ 
+
+61
+00:00:57,920 --> 00:01:01,270
+właścicielem i jesteś na, jesteś w
+postawie ofiary. I to jest tyle, nie?
+
+62
+00:01:01,270 --> 00:01:01,280
+postawie ofiary. I to jest tyle, nie?
+ 
+
+63
+00:01:01,280 --> 00:01:04,869
+postawie ofiary. I to jest tyle, nie?
+I teraz kolejne to muszę przyznać, że tu
+
+64
+00:01:04,869 --> 00:01:04,879
+I teraz kolejne to muszę przyznać, że tu
+ 
+
+65
+00:01:04,879 --> 00:01:07,429
+I teraz kolejne to muszę przyznać, że tu
+jestem strasznie z siebie dumny teraz.
+
+66
+00:01:07,429 --> 00:01:07,439
+jestem strasznie z siebie dumny teraz.
+ 
+
+67
+00:01:07,439 --> 00:01:09,149
+jestem strasznie z siebie dumny teraz.
+to no strasznie jestem dumny teraz co ci
+
+68
+00:01:09,149 --> 00:01:09,159
+to no strasznie jestem dumny teraz co ci
+ 
+
+69
+00:01:09,159 --> 00:01:11,149
+to no strasznie jestem dumny teraz co ci
+powiem tym bardziej że jesteś fanem
+
+70
+00:01:11,149 --> 00:01:11,159
+powiem tym bardziej że jesteś fanem
+ 
+
+71
+00:01:11,159 --> 00:01:14,070
+powiem tym bardziej że jesteś fanem
+filmu więc powinieneś to wyczuć bardziej
+
+72
+00:01:14,070 --> 00:01:14,080
+filmu więc powinieneś to wyczuć bardziej
+ 
+
+73
+00:01:14,080 --> 00:01:15,550
+filmu więc powinieneś to wyczuć bardziej
+tam jednym z tych rozróżnień jednym z
+
+74
+00:01:15,550 --> 00:01:15,560
+tam jednym z tych rozróżnień jednym z
+ 
+
+75
+00:01:15,560 --> 00:01:19,230
+tam jednym z tych rozróżnień jednym z
+tych kontrastów prawda jest to że czy to
+
+76
+00:01:19,230 --> 00:01:19,240
+tych kontrastów prawda jest to że czy to
+ 
+
+77
+00:01:19,240 --> 00:01:21,429
+tych kontrastów prawda jest to że czy to
+jest urok gry czy to jest problem czy
+
+78
+00:01:21,429 --> 00:01:21,439
+jest urok gry czy to jest problem czy
+ 
+
+79
+00:01:21,439 --> 00:01:23,390
+jest urok gry czy to jest problem czy
+przeszkoda. Prawda? Dla właściciela to
+
+80
+00:01:23,390 --> 00:01:23,400
+przeszkoda. Prawda? Dla właściciela to
+ 
+
+81
+00:01:23,400 --> 00:01:25,149
+przeszkoda. Prawda? Dla właściciela to
+jest urok gry. Dla ofiary wszystko jest
+
+82
+00:01:25,149 --> 00:01:25,159
+jest urok gry. Dla ofiary wszystko jest
+ 
+
+83
+00:01:25,159 --> 00:01:27,630
+jest urok gry. Dla ofiary wszystko jest
+problemem przeszkodą zaporą i tak dalej.
+
+84
+00:01:27,630 --> 00:01:27,640
+problemem przeszkodą zaporą i tak dalej.
+ 
+
+85
+00:01:27,640 --> 00:01:30,670
+problemem przeszkodą zaporą i tak dalej.
+Nie. I teraz
+
+86
+00:01:30,670 --> 00:01:30,680
+Nie. I teraz
+ 
+
+87
+00:01:30,680 --> 00:01:31,950
+Nie. I teraz
+wczoraj jak się szykowałem do tej
+
+88
+00:01:31,950 --> 00:01:31,960
+wczoraj jak się szykowałem do tej
+ 
+
+89
+00:01:31,960 --> 00:01:34,429
+wczoraj jak się szykowałem do tej
+rozmowy to sobie coś przypomniałem. Nie
+
+90
+00:01:34,429 --> 00:01:34,439
+rozmowy to sobie coś przypomniałem. Nie
+ 
+
+91
+00:01:34,439 --> 00:01:37,109
+rozmowy to sobie coś przypomniałem. Nie
+ciekawe jak działa podświadomość akurat.
+
+92
+00:01:37,109 --> 00:01:37,119
+ciekawe jak działa podświadomość akurat.
+ 
+
+93
+00:01:37,119 --> 00:01:39,670
+ciekawe jak działa podświadomość akurat.
+Bo widziałem ten film z 15 lat temu.
+
+94
+00:01:39,670 --> 00:01:39,680
+Bo widziałem ten film z 15 lat temu.
+ 
+
+95
+00:01:39,680 --> 00:01:42,550
+Bo widziałem ten film z 15 lat temu.
+Pamiętasz te
+
+96
+00:01:42,550 --> 00:01:42,560
+Pamiętasz te
+ 
+
+97
+00:01:42,560 --> 00:01:46,350
+Pamiętasz te
+stare z lat 70 filmy Różowa Pantera z
+
+98
+00:01:46,350 --> 00:01:46,360
+stare z lat 70 filmy Różowa Pantera z
+ 
+
+99
+00:01:46,360 --> 00:01:49,109
+stare z lat 70 filmy Różowa Pantera z
+Peterem Sellersem?
+
+100
+00:01:49,109 --> 00:01:49,119
+Peterem Sellersem?
+ 
+
+101
+00:01:49,119 --> 00:01:52,350
+Peterem Sellersem?
+Tak, średnio. Wiesz,
+
+102
+00:01:52,350 --> 00:01:52,360
+Tak, średnio. Wiesz,
+ 
+
+103
+00:01:52,360 --> 00:01:53,870
+Tak, średnio. Wiesz,
+ten fragment, ten fragment, o którym
+
+104
+00:01:53,870 --> 00:01:53,880
+ten fragment, ten fragment, o którym
+ 
+
+105
+00:01:53,880 --> 00:01:56,310
+ten fragment, ten fragment, o którym
+mówię, znajdziesz nawet na YouTubie.
+
+106
+00:01:56,310 --> 00:01:56,320
+mówię, znajdziesz nawet na YouTubie.
+ 
+
+107
+00:01:56,320 --> 00:01:59,069
+mówię, znajdziesz nawet na YouTubie.
+Więc tak jak mamy ten to przeramowanie,
+
+108
+00:01:59,069 --> 00:01:59,079
+Więc tak jak mamy ten to przeramowanie,
+ 
+
+109
+00:01:59,079 --> 00:02:01,270
+Więc tak jak mamy ten to przeramowanie,
+czy problem to jest tak zwany problem,
+
+110
+00:02:01,270 --> 00:02:01,280
+czy problem to jest tak zwany problem,
+ 
+
+111
+00:02:01,280 --> 00:02:04,990
+czy problem to jest tak zwany problem,
+czy to jest urok gry, czy to jest
+
+112
+00:02:04,990 --> 00:02:05,000
+czy to jest urok gry, czy to jest
+ 
+
+113
+00:02:05,000 --> 00:02:07,190
+czy to jest urok gry, czy to jest
+przeszkoda i tak dalej i tak dalej, to w
+
+114
+00:02:07,190 --> 00:02:07,200
+przeszkoda i tak dalej i tak dalej, to w
+ 
+
+115
+00:02:07,200 --> 00:02:09,669
+przeszkoda i tak dalej i tak dalej, to w
+tych różowych panterach on miał takiego
+
+116
+00:02:09,669 --> 00:02:09,679
+tych różowych panterach on miał takiego
+ 
+
+117
+00:02:09,679 --> 00:02:12,270
+tych różowych panterach on miał takiego
+swojego służącego, który się nazywał
+
+118
+00:02:12,270 --> 00:02:12,280
+swojego służącego, który się nazywał
+ 
+
+119
+00:02:12,280 --> 00:02:15,670
+swojego służącego, który się nazywał
+Kato. isane przez Cato
+
+120
+00:02:15,670 --> 00:02:15,680
+Kato. isane przez Cato
+ 
+
+121
+00:02:15,680 --> 00:02:18,550
+Kato. isane przez Cato
+i ten Kato taki był takim służącym
+
+122
+00:02:18,550 --> 00:02:18,560
+i ten Kato taki był takim służącym
+ 
+
+123
+00:02:18,560 --> 00:02:20,670
+i ten Kato taki był takim służącym
+sparing partnerem, który ciągle się na
+
+124
+00:02:20,670 --> 00:02:20,680
+sparing partnerem, który ciągle się na
+ 
+
+125
+00:02:20,680 --> 00:02:22,589
+sparing partnerem, który ciągle się na
+niego zaczajał, żeby on przypadkiem nie
+
+126
+00:02:22,589 --> 00:02:22,599
+niego zaczajał, żeby on przypadkiem nie
+ 
+
+127
+00:02:22,599 --> 00:02:32,750
+niego zaczajał, żeby on przypadkiem nie
+wypadł z formy.
+
+128
+00:02:32,750 --> 00:02:32,760
+
+ 
+
+129
+00:02:32,760 --> 00:02:34,270
+
+I jak on tam na przykład wchodził gdzieś
+
+130
+00:02:34,270 --> 00:02:34,280
+I jak on tam na przykład wchodził gdzieś
+ 
+
+131
+00:02:34,280 --> 00:02:35,710
+I jak on tam na przykład wchodził gdzieś
+tam tam niego tam nie wiem spadał z
+
+132
+00:02:35,710 --> 00:02:35,720
+tam tam niego tam nie wiem spadał z
+ 
+
+133
+00:02:35,720 --> 00:02:37,670
+tam tam niego tam nie wiem spadał z
+sufitu czy wyskakiwał z szafy z jakimś
+
+134
+00:02:37,670 --> 00:02:37,680
+sufitu czy wyskakiwał z szafy z jakimś
+ 
+
+135
+00:02:37,680 --> 00:02:39,949
+sufitu czy wyskakiwał z szafy z jakimś
+kijem i się wiesz bili i demolowali
+
+136
+00:02:39,949 --> 00:02:39,959
+kijem i się wiesz bili i demolowali
+ 
+
+137
+00:02:39,959 --> 00:02:42,070
+kijem i się wiesz bili i demolowali
+wszystko i to wszystko było. On był jego
+
+138
+00:02:42,070 --> 00:02:42,080
+wszystko i to wszystko było. On był jego
+ 
+
+139
+00:02:42,080 --> 00:02:44,670
+wszystko i to wszystko było. On był jego
+takim służącym partnerem sparring,
+
+140
+00:02:44,670 --> 00:02:44,680
+takim służącym partnerem sparring,
+ 
+
+141
+00:02:44,680 --> 00:02:46,710
+takim służącym partnerem sparring,
+znaczy służącym przyjacielem sparring
+
+142
+00:02:46,710 --> 00:02:46,720
+znaczy służącym przyjacielem sparring
+ 
+
+143
+00:02:46,720 --> 00:02:48,589
+znaczy służącym przyjacielem sparring
+partnerem, który ciągle atakował go
+
+144
+00:02:48,589 --> 00:02:48,599
+partnerem, który ciągle atakował go
+ 
+
+145
+00:02:48,599 --> 00:02:50,390
+partnerem, który ciągle atakował go
+znienzka.
+
+146
+00:02:50,390 --> 00:02:50,400
+znienzka.
+ 
+
+147
+00:02:50,400 --> 00:02:52,830
+znienzka.
+I to co Pressfield nazywa oporem, ja
+
+148
+00:02:52,830 --> 00:02:52,840
+I to co Pressfield nazywa oporem, ja
+ 
+
+149
+00:02:52,840 --> 00:02:54,589
+I to co Pressfield nazywa oporem, ja
+sobie zacząłem nazywać Kato, bo masz
+
+150
+00:02:54,589 --> 00:02:54,599
+sobie zacząłem nazywać Kato, bo masz
+ 
+
+151
+00:02:54,599 --> 00:02:58,990
+sobie zacząłem nazywać Kato, bo masz
+wybór. Czy ten czy ta część ciebie,
+
+152
+00:02:58,990 --> 00:02:59,000
+wybór. Czy ten czy ta część ciebie,
+ 
+
+153
+00:02:59,000 --> 00:03:01,309
+wybór. Czy ten czy ta część ciebie,
+która jest autosabotażem, to co Presseld
+
+154
+00:03:01,309 --> 00:03:01,319
+która jest autosabotażem, to co Presseld
+ 
+
+155
+00:03:01,319 --> 00:03:04,149
+która jest autosabotażem, to co Presseld
+nazywa oporem, czy traktujesz ją, czy
+
+156
+00:03:04,149 --> 00:03:04,159
+nazywa oporem, czy traktujesz ją, czy
+ 
+
+157
+00:03:04,159 --> 00:03:07,110
+nazywa oporem, czy traktujesz ją, czy
+się jej poddajesz, czy traktujesz ją
+
+158
+00:03:07,110 --> 00:03:07,120
+się jej poddajesz, czy traktujesz ją
+ 
+
+159
+00:03:07,120 --> 00:03:09,190
+się jej poddajesz, czy traktujesz ją
+jako Kato? Czyli albo masz wybór, albo
+
+160
+00:03:09,190 --> 00:03:09,200
+jako Kato? Czyli albo masz wybór, albo
+ 
+
+161
+00:03:09,200 --> 00:03:12,229
+jako Kato? Czyli albo masz wybór, albo
+ona jest katem, albo jest kato. Bo w
+
+162
+00:03:12,229 --> 00:03:12,239
+ona jest katem, albo jest kato. Bo w
+ 
+
+163
+00:03:12,239 --> 00:03:13,550
+ona jest katem, albo jest kato. Bo w
+momencie, w którym zaczynasz traktować
+
+164
+00:03:13,550 --> 00:03:13,560
+momencie, w którym zaczynasz traktować
+ 
+
+165
+00:03:13,560 --> 00:03:15,430
+momencie, w którym zaczynasz traktować
+to jako kato, to ona jest dla ciebie po
+
+166
+00:03:15,430 --> 00:03:15,440
+to jako kato, to ona jest dla ciebie po
+ 
+
+167
+00:03:15,440 --> 00:03:17,670
+to jako kato, to ona jest dla ciebie po
+to, żebyś nie wypadł z formy. I ona jest
+
+168
+00:03:17,670 --> 00:03:17,680
+to, żebyś nie wypadł z formy. I ona jest
+ 
+
+169
+00:03:17,680 --> 00:03:21,350
+to, żebyś nie wypadł z formy. I ona jest
+dla ciebie po to, żebyś mógł się
+
+170
+00:03:21,350 --> 00:03:21,360
+dla ciebie po to, żebyś mógł się
+ 
+
+171
+00:03:21,360 --> 00:03:23,550
+dla ciebie po to, żebyś mógł się
+sprawdzić na ringu i jest twoim sparing
+
+172
+00:03:23,550 --> 00:03:23,560
+sprawdzić na ringu i jest twoim sparing
+ 
+
+173
+00:03:23,560 --> 00:03:25,070
+sprawdzić na ringu i jest twoim sparing
+partnerem, który powoduje, że masz
+
+174
+00:03:25,070 --> 00:03:25,080
+partnerem, który powoduje, że masz
+ 
+
+175
+00:03:25,080 --> 00:03:29,949
+partnerem, który powoduje, że masz
+więcej siły i więcej umiejętności.
+
+176
+00:03:29,949 --> 00:03:29,959
+
+ 
+
+177
+00:03:29,959 --> 00:03:31,429
+
+Czy to jasne?
+
+178
+00:03:31,429 --> 00:03:31,439
+Czy to jasne?
+ 
+
+179
+00:03:31,439 --> 00:03:33,589
+Czy to jasne?
+Tak. W momencie, w którym się poddasz, w
+
+180
+00:03:33,589 --> 00:03:33,599
+Tak. W momencie, w którym się poddasz, w
+ 
+
+181
+00:03:33,599 --> 00:03:35,309
+Tak. W momencie, w którym się poddasz, w
+momencie, w którym uznasz, że to jest
+
+182
+00:03:35,309 --> 00:03:35,319
+momencie, w którym uznasz, że to jest
+ 
+
+183
+00:03:35,319 --> 00:03:38,470
+momencie, w którym uznasz, że to jest
+problem, że ten autosabotaż cię pokona,
+
+184
+00:03:38,470 --> 00:03:38,480
+problem, że ten autosabotaż cię pokona,
+ 
+
+185
+00:03:38,480 --> 00:03:40,270
+problem, że ten autosabotaż cię pokona,
+to w tym momencie ten autosabotaż czy
+
+186
+00:03:40,270 --> 00:03:40,280
+to w tym momencie ten autosabotaż czy
+ 
+
+187
+00:03:40,280 --> 00:03:42,550
+to w tym momencie ten autosabotaż czy
+ten opór staje się katem, a ty masz
+
+188
+00:03:42,550 --> 00:03:42,560
+ten opór staje się katem, a ty masz
+ 
+
+189
+00:03:42,560 --> 00:03:45,270
+ten opór staje się katem, a ty masz
+możliwość, żeby to był kato, że to po
+
+190
+00:03:45,270 --> 00:03:45,280
+możliwość, żeby to był kato, że to po
+ 
+
+191
+00:03:45,280 --> 00:03:47,509
+możliwość, żeby to był kato, że to po
+prostu jest wiesz, że wiesz, wiesz, że
+
+192
+00:03:47,509 --> 00:03:47,519
+prostu jest wiesz, że wiesz, wiesz, że
+ 
+
+193
+00:03:47,519 --> 00:03:49,630
+prostu jest wiesz, że wiesz, wiesz, że
+uderzy
+
+194
+00:03:49,630 --> 00:03:49,640
+uderzy
+ 
+
+195
+00:03:49,640 --> 00:03:51,630
+uderzy
+tak jak
+
+196
+00:03:51,630 --> 00:03:51,640
+tak jak
+ 
+
+197
+00:03:51,640 --> 00:03:54,670
+tak jak
+Kluzo wiedział, że Kato gdzieś się
+
+198
+00:03:54,670 --> 00:03:54,680
+Kluzo wiedział, że Kato gdzieś się
+ 
+
+199
+00:03:54,680 --> 00:03:56,869
+Kluzo wiedział, że Kato gdzieś się
+zaczaił, więc ty wiesz na pewno, że się
+
+200
+00:03:56,869 --> 00:03:56,879
+zaczaił, więc ty wiesz na pewno, że się
+ 
+
+201
+00:03:56,879 --> 00:03:59,350
+zaczaił, więc ty wiesz na pewno, że się
+zaczaił, wiesz na pewno, że uderzy, więc
+
+202
+00:03:59,350 --> 00:03:59,360
+zaczaił, wiesz na pewno, że uderzy, więc
+ 
+
+203
+00:03:59,360 --> 00:04:01,470
+zaczaił, wiesz na pewno, że uderzy, więc
+tylko czekasz, dlatego że on jest twoim
+
+204
+00:04:01,470 --> 00:04:01,480
+tylko czekasz, dlatego że on jest twoim
+ 
+
+205
+00:04:01,480 --> 00:04:03,830
+tylko czekasz, dlatego że on jest twoim
+sparing partnerem, nie? I w tym momencie
+
+206
+00:04:03,830 --> 00:04:03,840
+sparing partnerem, nie? I w tym momencie
+ 
+
+207
+00:04:03,840 --> 00:04:05,830
+sparing partnerem, nie? I w tym momencie
+możesz spojrzeć na to wszystko przez
+
+208
+00:04:05,830 --> 00:04:05,840
+możesz spojrzeć na to wszystko przez
+ 
+
+209
+00:04:05,840 --> 00:04:08,069
+możesz spojrzeć na to wszystko przez
+metaforę boksu czy MMA, gdzie masz
+
+210
+00:04:08,069 --> 00:04:08,079
+metaforę boksu czy MMA, gdzie masz
+ 
+
+211
+00:04:08,079 --> 00:04:10,550
+metaforę boksu czy MMA, gdzie masz
+sparing partnera
+
+212
+00:04:10,550 --> 00:04:10,560
+sparing partnera
+ 
+
+213
+00:04:10,560 --> 00:04:13,390
+sparing partnera
+i masz pewnego rodzaju fun w bawieniu
+
+214
+00:04:13,390 --> 00:04:13,400
+i masz pewnego rodzaju fun w bawieniu
+ 
+
+215
+00:04:13,400 --> 00:04:15,309
+i masz pewnego rodzaju fun w bawieniu
+się z nim, bo wiesz, że gdzieś cię
+
+216
+00:04:15,309 --> 00:04:15,319
+się z nim, bo wiesz, że gdzieś cię
+ 
+
+217
+00:04:15,319 --> 00:04:18,069
+się z nim, bo wiesz, że gdzieś cię
+uderzy i możesz zatrzeć ręce i zacząć
+
+218
+00:04:18,069 --> 00:04:18,079
+uderzy i możesz zatrzeć ręce i zacząć
+ 
+
+219
+00:04:18,079 --> 00:04:20,390
+uderzy i możesz zatrzeć ręce i zacząć
+walczyć, bo on jest po to, żebyś
+
+220
+00:04:20,390 --> 00:04:20,400
+walczyć, bo on jest po to, żebyś
+ 
+
+221
+00:04:20,400 --> 00:04:22,189
+walczyć, bo on jest po to, żebyś
+szlifował swoje umiejętności i nie
+
+222
+00:04:22,189 --> 00:04:22,199
+szlifował swoje umiejętności i nie
+ 
+
+223
+00:04:22,199 --> 00:04:24,469
+szlifował swoje umiejętności i nie
+wypadł z formy.
+
+224
+00:04:24,469 --> 00:04:24,479
+wypadł z formy.
+ 
+
+225
+00:04:24,479 --> 00:04:26,510
+wypadł z formy.
+Więc możesz spojrzeć na ten cały rodzaj
+
+226
+00:04:26,510 --> 00:04:26,520
+Więc możesz spojrzeć na ten cały rodzaj
+ 
+
+227
+00:04:26,520 --> 00:04:28,350
+Więc możesz spojrzeć na ten cały rodzaj
+autosabotażu
+
+228
+00:04:28,350 --> 00:04:28,360
+autosabotażu
+ 
+
+229
+00:04:28,360 --> 00:04:29,870
+autosabotażu
+jako na to. W momencie, w którym
+
+230
+00:04:29,870 --> 00:04:29,880
+jako na to. W momencie, w którym
+ 
+
+231
+00:04:29,880 --> 00:04:31,430
+jako na to. W momencie, w którym
+autosabotaż idzie już w niebezpieczną
+
+232
+00:04:31,430 --> 00:04:31,440
+autosabotaż idzie już w niebezpieczną
+ 
+
+233
+00:04:31,440 --> 00:04:34,310
+autosabotaż idzie już w niebezpieczną
+stronę i zaczyna przybierać
+
+234
+00:04:34,310 --> 00:04:34,320
+stronę i zaczyna przybierać
+ 
+
+235
+00:04:34,320 --> 00:04:36,909
+stronę i zaczyna przybierać
+yyy rozmiary, które mogą grozić
+
+236
+00:04:36,909 --> 00:04:36,919
+yyy rozmiary, które mogą grozić
+ 
+
+237
+00:04:36,919 --> 00:04:39,670
+yyy rozmiary, które mogą grozić
+dosłownie, wiesz, na jakieś jakieś już y
+
+238
+00:04:39,670 --> 00:04:39,680
+dosłownie, wiesz, na jakieś jakieś już y
+ 
+
+239
+00:04:39,680 --> 00:04:42,310
+dosłownie, wiesz, na jakieś jakieś już y
+nałogi typu wiesz, po prostu nie wiem
+
+240
+00:04:42,310 --> 00:04:42,320
+nałogi typu wiesz, po prostu nie wiem
+ 
+
+241
+00:04:42,320 --> 00:04:43,909
+nałogi typu wiesz, po prostu nie wiem
+czy jakieś kwestie samookaleczania
+
+242
+00:04:43,909 --> 00:04:43,919
+czy jakieś kwestie samookaleczania
+ 
+
+243
+00:04:43,919 --> 00:04:45,790
+czy jakieś kwestie samookaleczania
+siebie za pomocą różnych rzeczy lub
+
+244
+00:04:45,790 --> 00:04:45,800
+siebie za pomocą różnych rzeczy lub
+ 
+
+245
+00:04:45,800 --> 00:04:47,629
+siebie za pomocą różnych rzeczy lub
+różnych substancji, no to wtedy
+
+246
+00:04:47,629 --> 00:04:47,639
+różnych substancji, no to wtedy
+ 
+
+247
+00:04:47,639 --> 00:04:49,510
+różnych substancji, no to wtedy
+rozumiesz, że ten sparing partner jest w
+
+248
+00:04:49,510 --> 00:04:49,520
+rozumiesz, że ten sparing partner jest w
+ 
+
+249
+00:04:49,520 --> 00:04:51,350
+rozumiesz, że ten sparing partner jest w
+wadze super ciężkiej, a ty jesteś w
+
+250
+00:04:51,350 --> 00:04:51,360
+wadze super ciężkiej, a ty jesteś w
+ 
+
+251
+00:04:51,360 --> 00:04:53,310
+wadze super ciężkiej, a ty jesteś w
+piórkowej i trzeba coś robić, nie?
+
+252
+00:04:53,310 --> 00:04:53,320
+piórkowej i trzeba coś robić, nie?
+ 
+
+253
+00:04:53,320 --> 00:04:55,390
+piórkowej i trzeba coś robić, nie?
+Natomiast możesz patrzeć na to jako na
+
+254
+00:04:55,390 --> 00:04:55,400
+Natomiast możesz patrzeć na to jako na
+ 
+
+255
+00:04:55,400 --> 00:04:57,550
+Natomiast możesz patrzeć na to jako na
+element wewnętrzny wewnętrznego
+
+256
+00:04:57,550 --> 00:04:57,560
+element wewnętrzny wewnętrznego
+ 
+
+257
+00:04:57,560 --> 00:04:59,310
+element wewnętrzny wewnętrznego
+treningu, jak na sparing partnera, tak
+
+258
+00:04:59,310 --> 00:04:59,320
+treningu, jak na sparing partnera, tak
+ 
+
+259
+00:04:59,320 --> 00:05:02,350
+treningu, jak na sparing partnera, tak
+samo jak Floyd czy Conor, wszystko jedno
+
+260
+00:05:02,350 --> 00:05:02,360
+samo jak Floyd czy Conor, wszystko jedno
+ 
+
+261
+00:05:02,360 --> 00:05:04,469
+samo jak Floyd czy Conor, wszystko jedno
+też codziennie ćwiczą z ludźmi i ci
+
+262
+00:05:04,469 --> 00:05:04,479
+też codziennie ćwiczą z ludźmi i ci
+ 
+
+263
+00:05:04,479 --> 00:05:06,830
+też codziennie ćwiczą z ludźmi i ci
+ludzie i zwróć uwagę, że na ogół ten
+
+264
+00:05:06,830 --> 00:05:06,840
+ludzie i zwróć uwagę, że na ogół ten
+ 
+
+265
+00:05:06,840 --> 00:05:08,430
+ludzie i zwróć uwagę, że na ogół ten
+autosabotż nie polega na tym, że on ci
+
+266
+00:05:08,430 --> 00:05:08,440
+autosabotż nie polega na tym, że on ci
+ 
+
+267
+00:05:08,440 --> 00:05:11,189
+autosabotż nie polega na tym, że on ci
+próbuje zabić cię jednym ciosem.
+
+268
+00:05:11,189 --> 00:05:11,199
+próbuje zabić cię jednym ciosem.
+ 
+
+269
+00:05:11,199 --> 00:05:12,550
+próbuje zabić cię jednym ciosem.
+On po prostu cię okłada i cię
+
+270
+00:05:12,550 --> 00:05:12,560
+On po prostu cię okłada i cię
+ 
+
+271
+00:05:12,560 --> 00:05:14,909
+On po prostu cię okłada i cię
+zatrzymuje, nie? Więc więc jakby to jest
+
+272
+00:05:14,909 --> 00:05:14,919
+zatrzymuje, nie? Więc więc jakby to jest
+ 
+
+273
+00:05:14,919 --> 00:05:17,230
+zatrzymuje, nie? Więc więc jakby to jest
+to kolejne przerowanie. Czy ten opór,
+
+274
+00:05:17,230 --> 00:05:17,240
+to kolejne przerowanie. Czy ten opór,
+ 
+
+275
+00:05:17,240 --> 00:05:19,830
+to kolejne przerowanie. Czy ten opór,
+ten autosabotaż, czy patrzysz na to jak
+
+276
+00:05:19,830 --> 00:05:19,840
+ten autosabotaż, czy patrzysz na to jak
+ 
+
+277
+00:05:19,840 --> 00:05:22,830
+ten autosabotaż, czy patrzysz na to jak
+na kata, czy jak na tego służącego Kato?
+
+278
+00:05:22,830 --> 00:05:22,840
+na kata, czy jak na tego służącego Kato?
+ 
+
+279
+00:05:22,840 --> 00:05:25,270
+na kata, czy jak na tego służącego Kato?
+I wpisz sobie na YouTubie, jak będziesz
+
+280
+00:05:25,270 --> 00:05:25,280
+I wpisz sobie na YouTubie, jak będziesz
+ 
+
+281
+00:05:25,280 --> 00:05:26,790
+I wpisz sobie na YouTubie, jak będziesz
+miał chwilę tam, wpisz sobie Pink
+
+282
+00:05:26,790 --> 00:05:26,800
+miał chwilę tam, wpisz sobie Pink
+ 
+
+283
+00:05:26,800 --> 00:05:29,469
+miał chwilę tam, wpisz sobie Pink
+Panther Cato, czy tam Cluzo Cato i
+
+284
+00:05:29,469 --> 00:05:29,479
+Panther Cato, czy tam Cluzo Cato i
+ 
+
+285
+00:05:29,479 --> 00:05:30,790
+Panther Cato, czy tam Cluzo Cato i
+zobaczysz takie scenki, jak oni
+
+286
+00:05:30,790 --> 00:05:30,800
+zobaczysz takie scenki, jak oni
+ 
+
+287
+00:05:30,800 --> 00:05:32,710
+zobaczysz takie scenki, jak oni
+demolują, wiesz, całe pomieszczenia, bo
+
+288
+00:05:32,710 --> 00:05:32,720
+demolują, wiesz, całe pomieszczenia, bo
+ 
+
+289
+00:05:32,720 --> 00:05:34,950
+demolują, wiesz, całe pomieszczenia, bo
+jeden się zaczaił na drugiego, nie? I to
+
+290
+00:05:34,950 --> 00:05:34,960
+jeden się zaczaił na drugiego, nie? I to
+ 
+
+291
+00:05:34,960 --> 00:05:36,790
+jeden się zaczaił na drugiego, nie? I to
+była, to była cała gra. Więc w tym
+
+292
+00:05:36,790 --> 00:05:36,800
+była, to była cała gra. Więc w tym
+ 
+
+293
+00:05:36,800 --> 00:05:38,710
+była, to była cała gra. Więc w tym
+sensie możesz z tego stworzyć grę. W tym
+
+294
+00:05:38,710 --> 00:05:38,720
+sensie możesz z tego stworzyć grę. W tym
+ 
+
+295
+00:05:38,720 --> 00:05:41,510
+sensie możesz z tego stworzyć grę. W tym
+sensie możesz stworzyć z tego urok gry,
+
+296
+00:05:41,510 --> 00:05:41,520
+sensie możesz stworzyć z tego urok gry,
+ 
+
+297
+00:05:41,520 --> 00:05:43,749
+sensie możesz stworzyć z tego urok gry,
+bo Kato jest po to, żebyś nie wypadł z
+
+298
+00:05:43,749 --> 00:05:43,759
+bo Kato jest po to, żebyś nie wypadł z
+ 
+
+299
+00:05:43,759 --> 00:05:48,430
+bo Kato jest po to, żebyś nie wypadł z
+formy i Kato jest po to, żebyś
+
+300
+00:05:48,430 --> 00:05:48,440
+formy i Kato jest po to, żebyś
+ 
+
+301
+00:05:48,440 --> 00:05:50,870
+formy i Kato jest po to, żebyś
+był dalej, żebyś miał dalej
+
+302
+00:05:50,870 --> 00:05:50,880
+był dalej, żebyś miał dalej
+ 
+
+303
+00:05:50,880 --> 00:05:55,830
+był dalej, żebyś miał dalej
+umiejętności.
+
+304
+00:05:55,830 --> 00:05:55,840
+
+ 
+
+305
+00:05:55,840 --> 00:05:58,430
+
+Okej. Czy to jest jasne?
+
+306
+00:05:58,430 --> 00:05:58,440
+Okej. Czy to jest jasne?
+ 
+
+307
+00:05:58,440 --> 00:06:01,230
+Okej. Czy to jest jasne?
+Czy to też jakby znowu dużo tych mówisz
+
+308
+00:06:01,230 --> 00:06:01,240
+Czy to też jakby znowu dużo tych mówisz
+ 
+
+309
+00:06:01,240 --> 00:06:03,670
+Czy to też jakby znowu dużo tych mówisz
+po prostu jakby zrzuca takie taki
+
+310
+00:06:03,670 --> 00:06:03,680
+po prostu jakby zrzuca takie taki
+ 
+
+311
+00:06:03,680 --> 00:06:06,189
+po prostu jakby zrzuca takie taki
+umysłowy palc, nie?
+
+312
+00:06:06,189 --> 00:06:06,199
+umysłowy palc, nie?
+ 
+
+313
+00:06:06,199 --> 00:06:08,589
+umysłowy palc, nie?
+Znaczy to jest to to co to wszystko o
+
+314
+00:06:08,589 --> 00:06:08,599
+Znaczy to jest to to co to wszystko o
+ 
+
+315
+00:06:08,599 --> 00:06:12,230
+Znaczy to jest to to co to wszystko o
+czym ja mówię czy że postrzegasz problem
+
+316
+00:06:12,230 --> 00:06:12,240
+czym ja mówię czy że postrzegasz problem
+ 
+
+317
+00:06:12,240 --> 00:06:14,430
+czym ja mówię czy że postrzegasz problem
+jako metaforę która się odnosi do władzy
+
+318
+00:06:14,430 --> 00:06:14,440
+jako metaforę która się odnosi do władzy
+ 
+
+319
+00:06:14,440 --> 00:06:16,070
+jako metaforę która się odnosi do władzy
+osobistej czy do tego czy mogę czy nie
+
+320
+00:06:16,070 --> 00:06:16,080
+osobistej czy do tego czy mogę czy nie
+ 
+
+321
+00:06:16,080 --> 00:06:18,710
+osobistej czy do tego czy mogę czy nie
+mogę i tak naprawdę jest wyzwaniem
+
+322
+00:06:18,710 --> 00:06:18,720
+mogę i tak naprawdę jest wyzwaniem
+ 
+
+323
+00:06:18,720 --> 00:06:22,350
+mogę i tak naprawdę jest wyzwaniem
+wyzwaniem czy patrzysz po prostu w taki
+
+324
+00:06:22,350 --> 00:06:22,360
+wyzwaniem czy patrzysz po prostu w taki
+ 
+
+325
+00:06:22,360 --> 00:06:24,550
+wyzwaniem czy patrzysz po prostu w taki
+bardzo zimny sposób na problem że na
+
+326
+00:06:24,550 --> 00:06:24,560
+bardzo zimny sposób na problem że na
+ 
+
+327
+00:06:24,560 --> 00:06:26,070
+bardzo zimny sposób na problem że na
+ogół to nie jest problem bo skoro znasz
+
+328
+00:06:26,070 --> 00:06:26,080
+ogół to nie jest problem bo skoro znasz
+ 
+
+329
+00:06:26,080 --> 00:06:27,469
+ogół to nie jest problem bo skoro znasz
+przyczynę i znasz rozwiązanie to jest
+
+330
+00:06:27,469 --> 00:06:27,479
+przyczynę i znasz rozwiązanie to jest
+ 
+
+331
+00:06:27,479 --> 00:06:30,070
+przyczynę i znasz rozwiązanie to jest
+tylko kwestia decyzji więc masz ten
+
+332
+00:06:30,070 --> 00:06:30,080
+tylko kwestia decyzji więc masz ten
+ 
+
+333
+00:06:30,080 --> 00:06:31,909
+tylko kwestia decyzji więc masz ten
+cudzysłów problem bo tak naprawdę chcesz
+
+334
+00:06:31,909 --> 00:06:31,919
+cudzysłów problem bo tak naprawdę chcesz
+ 
+
+335
+00:06:31,919 --> 00:06:33,430
+cudzysłów problem bo tak naprawdę chcesz
+go mieć i nie chcesz niczego z nim
+
+336
+00:06:33,430 --> 00:06:33,440
+go mieć i nie chcesz niczego z nim
+ 
+
+337
+00:06:33,440 --> 00:06:35,830
+go mieć i nie chcesz niczego z nim
+zrobić czy patrzysz na problem przez
+
+338
+00:06:35,830 --> 00:06:35,840
+zrobić czy patrzysz na problem przez
+ 
+
+339
+00:06:35,840 --> 00:06:39,790
+zrobić czy patrzysz na problem przez
+przeramowanie kat kontra kato,
+
+340
+00:06:39,790 --> 00:06:39,800
+przeramowanie kat kontra kato,
+ 
+
+341
+00:06:39,800 --> 00:06:41,950
+przeramowanie kat kontra kato,
+to to jest właśnie bycie właścicielem,
+
+342
+00:06:41,950 --> 00:06:41,960
+to to jest właśnie bycie właścicielem,
+ 
+
+343
+00:06:41,960 --> 00:06:45,029
+to to jest właśnie bycie właścicielem,
+czyli tworzenie. Okej? Tworzysz sobie
+
+344
+00:06:45,029 --> 00:06:45,039
+czyli tworzenie. Okej? Tworzysz sobie
+ 
+
+345
+00:06:45,039 --> 00:06:47,909
+czyli tworzenie. Okej? Tworzysz sobie
+narrację, która ci bardziej pasuje. To
+
+346
+00:06:47,909 --> 00:06:47,919
+narrację, która ci bardziej pasuje. To
+ 
+
+347
+00:06:47,919 --> 00:06:50,589
+narrację, która ci bardziej pasuje. To
+jest właśnie ta sztuka życia, nie? Bo w
+
+348
+00:06:50,589 --> 00:06:50,599
+jest właśnie ta sztuka życia, nie? Bo w
+ 
+
+349
+00:06:50,599 --> 00:06:52,390
+jest właśnie ta sztuka życia, nie? Bo w
+tym momencie tworzysz swoją własną
+
+350
+00:06:52,390 --> 00:06:52,400
+tym momencie tworzysz swoją własną
+ 
+
+351
+00:06:52,400 --> 00:06:54,870
+tym momencie tworzysz swoją własną
+narrację, nie poddajesz się temu, co
+
+352
+00:06:54,870 --> 00:06:54,880
+narrację, nie poddajesz się temu, co
+ 
+
+353
+00:06:54,880 --> 00:06:58,189
+narrację, nie poddajesz się temu, co
+jest warunkowane społecznie.
+
+354
+00:06:58,189 --> 00:06:58,199
+jest warunkowane społecznie.
+ 
+
+355
+00:06:58,199 --> 00:06:59,830
+jest warunkowane społecznie.
+W tym momencie tworzysz narrację. Więc
+
+356
+00:06:59,830 --> 00:06:59,840
+W tym momencie tworzysz narrację. Więc
+ 
+
+357
+00:06:59,840 --> 00:07:01,710
+W tym momencie tworzysz narrację. Więc
+ja ci podaję te dwa, te dwa główne
+
+358
+00:07:01,710 --> 00:07:01,720
+ja ci podaję te dwa, te dwa główne
+ 
+
+359
+00:07:01,720 --> 00:07:03,869
+ja ci podaję te dwa, te dwa główne
+elementy jako metafora
+
+360
+00:07:03,869 --> 00:07:03,879
+elementy jako metafora
+ 
+
+361
+00:07:03,879 --> 00:07:06,230
+elementy jako metafora
+i jako Kato. Zresztą swoją drogą Kato
+
+362
+00:07:06,230 --> 00:07:06,240
+i jako Kato. Zresztą swoją drogą Kato
+ 
+
+363
+00:07:06,240 --> 00:07:08,589
+i jako Kato. Zresztą swoją drogą Kato
+też jest metaforą de facto, nie?
+
+364
+00:07:08,589 --> 00:07:08,599
+też jest metaforą de facto, nie?
+ 
+
+365
+00:07:08,599 --> 00:07:09,390
+też jest metaforą de facto, nie?
+Mhm.
+
+366
+00:07:09,390 --> 00:07:09,400
+Mhm.
+ 
+
+367
+00:07:09,400 --> 00:07:12,869
+Mhm.
+I i i po prostu tyle, nie? W tym
+
+368
+00:07:12,869 --> 00:07:12,879
+I i i po prostu tyle, nie? W tym
+ 
+
+369
+00:07:12,879 --> 00:07:15,629
+I i i po prostu tyle, nie? W tym
+momencie zaczynasz być właśnie twórcą,
+
+370
+00:07:15,629 --> 00:07:15,639
+momencie zaczynasz być właśnie twórcą,
+ 
+
+371
+00:07:15,639 --> 00:07:18,070
+momencie zaczynasz być właśnie twórcą,
+który tworzy, czyli jesteś właścicielem,
+
+372
+00:07:18,070 --> 00:07:18,080
+który tworzy, czyli jesteś właścicielem,
+ 
+
+373
+00:07:18,080 --> 00:07:20,430
+który tworzy, czyli jesteś właścicielem,
+czyli patrzysz na to, co jest, bo wiesz,
+
+374
+00:07:20,430 --> 00:07:20,440
+czyli patrzysz na to, co jest, bo wiesz,
+ 
+
+375
+00:07:20,440 --> 00:07:22,029
+czyli patrzysz na to, co jest, bo wiesz,
+że będziesz miał ten głos wewnętrzny,
+
+376
+00:07:22,029 --> 00:07:22,039
+że będziesz miał ten głos wewnętrzny,
+ 
+
+377
+00:07:22,039 --> 00:07:24,150
+że będziesz miał ten głos wewnętrzny,
+wiesz, że ten opór czy ten autosabotaż
+
+378
+00:07:24,150 --> 00:07:24,160
+wiesz, że ten opór czy ten autosabotaż
+ 
+
+379
+00:07:24,160 --> 00:07:26,110
+wiesz, że ten opór czy ten autosabotaż
+będzie, a absolutnie pewne, że on
+
+380
+00:07:26,110 --> 00:07:26,120
+będzie, a absolutnie pewne, że on
+ 
+
+381
+00:07:26,120 --> 00:07:29,430
+będzie, a absolutnie pewne, że on
+będzie, bo był i będzie.
+
+382
+00:07:29,430 --> 00:07:29,440
+będzie, bo był i będzie.
+ 
+
+383
+00:07:29,440 --> 00:07:31,110
+będzie, bo był i będzie.
+będzie dużo mniejszy w momencie, w
+
+384
+00:07:31,110 --> 00:07:31,120
+będzie dużo mniejszy w momencie, w
+ 
+
+385
+00:07:31,120 --> 00:07:32,830
+będzie dużo mniejszy w momencie, w
+którym zrobisz ten to ćwiczenie z
+
+386
+00:07:32,830 --> 00:07:32,840
+którym zrobisz ten to ćwiczenie z
+ 
+
+387
+00:07:32,840 --> 00:07:35,230
+którym zrobisz ten to ćwiczenie z
+typowym dniem, bo wtedy dojdzie do
+
+388
+00:07:35,230 --> 00:07:35,240
+typowym dniem, bo wtedy dojdzie do
+ 
+
+389
+00:07:35,240 --> 00:07:36,830
+typowym dniem, bo wtedy dojdzie do
+spójności większej między tym, co
+
+390
+00:07:36,830 --> 00:07:36,840
+spójności większej między tym, co
+ 
+
+391
+00:07:36,840 --> 00:07:38,350
+spójności większej między tym, co
+podświadome a tym świadome, więc
+
+392
+00:07:38,350 --> 00:07:38,360
+podświadome a tym świadome, więc
+ 
+
+393
+00:07:38,360 --> 00:07:40,390
+podświadome a tym świadome, więc
+zmniejszysz ten ładunek automatycznie
+
+394
+00:07:40,390 --> 00:07:40,400
+zmniejszysz ten ładunek automatycznie
+ 
+
+395
+00:07:40,400 --> 00:07:41,550
+zmniejszysz ten ładunek automatycznie
+tym pierwszym ćwiczeniem, o którym
+
+396
+00:07:41,550 --> 00:07:41,560
+tym pierwszym ćwiczeniem, o którym
+ 
+
+397
+00:07:41,560 --> 00:07:43,350
+tym pierwszym ćwiczeniem, o którym
+mówiliśmy.
+
+398
+00:07:43,350 --> 00:07:43,360
+mówiliśmy.
+ 
+
+399
+00:07:43,360 --> 00:07:45,270
+mówiliśmy.
+Natomiast wiesz, że on będzie, nie? I to
+
+400
+00:07:45,270 --> 00:07:45,280
+Natomiast wiesz, że on będzie, nie? I to
+ 
+
+401
+00:07:45,280 --> 00:07:47,270
+Natomiast wiesz, że on będzie, nie? I to
+jest okej. I teraz skoro wiesz, że jest
+
+402
+00:07:47,270 --> 00:07:47,280
+jest okej. I teraz skoro wiesz, że jest
+ 
+
+403
+00:07:47,280 --> 00:07:49,350
+jest okej. I teraz skoro wiesz, że jest
+jakaś siła, no to tak jak mówiliśmy na
+
+404
+00:07:49,350 --> 00:07:49,360
+jakaś siła, no to tak jak mówiliśmy na
+ 
+
+405
+00:07:49,360 --> 00:07:50,790
+jakaś siła, no to tak jak mówiliśmy na
+początku, zanim zaczęliśmy nagrywać,
+
+406
+00:07:50,790 --> 00:07:50,800
+początku, zanim zaczęliśmy nagrywać,
+ 
+
+407
+00:07:50,800 --> 00:07:53,869
+początku, zanim zaczęliśmy nagrywać,
+nie? Albo wykorzystujesz to jako nawóz,
+
+408
+00:07:53,869 --> 00:07:53,879
+nie? Albo wykorzystujesz to jako nawóz,
+ 
+
+409
+00:07:53,879 --> 00:07:58,309
+nie? Albo wykorzystujesz to jako nawóz,
+albo się babrzasz tym głównie.
+
+410
+00:07:58,309 --> 00:07:58,319
+
+ 
+
+411
+00:07:58,319 --> 00:08:00,430
+
+Więc to jest to nie ten rodzaj
+
+412
+00:08:00,430 --> 00:08:00,440
+Więc to jest to nie ten rodzaj
+ 
+
+413
+00:08:00,440 --> 00:08:01,430
+Więc to jest to nie ten rodzaj
+stworzenia gry, bo wiesz, bo ja
+
+414
+00:08:01,430 --> 00:08:01,440
+stworzenia gry, bo wiesz, bo ja
+ 
+
+415
+00:08:01,440 --> 00:08:02,629
+stworzenia gry, bo wiesz, bo ja
+pamiętam, że wiesz, my rozmawialiśmy
+
+416
+00:08:02,629 --> 00:08:02,639
+pamiętam, że wiesz, my rozmawialiśmy
+ 
+
+417
+00:08:02,639 --> 00:08:04,070
+pamiętam, że wiesz, my rozmawialiśmy
+kiedyś, ja też mówiłem o tym, że tam gra
+
+418
+00:08:04,070 --> 00:08:04,080
+kiedyś, ja też mówiłem o tym, że tam gra
+ 
+
+419
+00:08:04,080 --> 00:08:05,469
+kiedyś, ja też mówiłem o tym, że tam gra
+to jest dobrowolne usuwanie zbędnych
+
+420
+00:08:05,469 --> 00:08:05,479
+to jest dobrowolne usuwanie zbędnych
+ 
+
+421
+00:08:05,479 --> 00:08:06,990
+to jest dobrowolne usuwanie zbędnych
+przeszkód, nie tylko, że to był taki
+
+422
+00:08:06,990 --> 00:08:07,000
+przeszkód, nie tylko, że to był taki
+ 
+
+423
+00:08:07,000 --> 00:08:08,830
+przeszkód, nie tylko, że to był taki
+model teoretyczny,
+
+424
+00:08:08,830 --> 00:08:08,840
+model teoretyczny,
+ 
+
+425
+00:08:08,840 --> 00:08:11,029
+model teoretyczny,
+a tu dosłownie możesz wykorzystując
+
+426
+00:08:11,029 --> 00:08:11,039
+a tu dosłownie możesz wykorzystując
+ 
+
+427
+00:08:11,039 --> 00:08:12,510
+a tu dosłownie możesz wykorzystując
+między innymi tą odrobinę swojego
+
+428
+00:08:12,510 --> 00:08:12,520
+między innymi tą odrobinę swojego
+ 
+
+429
+00:08:12,520 --> 00:08:14,469
+między innymi tą odrobinę swojego
+szaleństwa, o którym mówiliś, o którym
+
+430
+00:08:14,469 --> 00:08:14,479
+szaleństwa, o którym mówiliś, o którym
+ 
+
+431
+00:08:14,479 --> 00:08:16,469
+szaleństwa, o którym mówiliś, o którym
+mówiliśmy wcześniej, dosłownie możesz,
+
+432
+00:08:16,469 --> 00:08:16,479
+mówiliśmy wcześniej, dosłownie możesz,
+ 
+
+433
+00:08:16,479 --> 00:08:19,629
+mówiliśmy wcześniej, dosłownie możesz,
+wiesz, hm i i jest i to jest dopiero
+
+434
+00:08:19,629 --> 00:08:19,639
+wiesz, hm i i jest i to jest dopiero
+ 
+
+435
+00:08:19,639 --> 00:08:21,909
+wiesz, hm i i jest i to jest dopiero
+cały urok gry, tak jak ci goście, którzy
+
+436
+00:08:21,909 --> 00:08:21,919
+cały urok gry, tak jak ci goście, którzy
+ 
+
+437
+00:08:21,919 --> 00:08:24,710
+cały urok gry, tak jak ci goście, którzy
+są najlepsi w sprzedaży, wiesz jak ja
+
+438
+00:08:24,710 --> 00:08:24,720
+są najlepsi w sprzedaży, wiesz jak ja
+ 
+
+439
+00:08:24,720 --> 00:08:26,550
+są najlepsi w sprzedaży, wiesz jak ja
+jak Jak jak wiesz, niektórzy mówią, że
+
+440
+00:08:26,550 --> 00:08:26,560
+jak Jak jak wiesz, niektórzy mówią, że
+ 
+
+441
+00:08:26,560 --> 00:08:27,869
+jak Jak jak wiesz, niektórzy mówią, że
+sprzedaż dopiero zaczyna się przy
+
+442
+00:08:27,869 --> 00:08:27,879
+sprzedaż dopiero zaczyna się przy
+ 
+
+443
+00:08:27,879 --> 00:08:29,550
+sprzedaż dopiero zaczyna się przy
+piątym, nie?
+
+444
+00:08:29,550 --> 00:08:29,560
+piątym, nie?
+ 
+
+445
+00:08:29,560 --> 00:08:32,110
+piątym, nie?
+Rozumiesz? Bo o to jest dopiero dla nich
+
+446
+00:08:32,110 --> 00:08:32,120
+Rozumiesz? Bo o to jest dopiero dla nich
+ 
+
+447
+00:08:32,120 --> 00:08:34,990
+Rozumiesz? Bo o to jest dopiero dla nich
+fun. Dla nich nie jest fanem powiedzieć,
+
+448
+00:08:34,990 --> 00:08:35,000
+fun. Dla nich nie jest fanem powiedzieć,
+ 
+
+449
+00:08:35,000 --> 00:08:37,230
+fun. Dla nich nie jest fanem powiedzieć,
+ktoś od razu kupuje. Okej. Nie no,
+
+450
+00:08:37,230 --> 00:08:37,240
+ktoś od razu kupuje. Okej. Nie no,
+ 
+
+451
+00:08:37,240 --> 00:08:41,149
+ktoś od razu kupuje. Okej. Nie no,
+owszem, to jest fajnie, nie? Ale fan to
+
+452
+00:08:41,149 --> 00:08:41,159
+owszem, to jest fajnie, nie? Ale fan to
+ 
+
+453
+00:08:41,159 --> 00:08:44,630
+owszem, to jest fajnie, nie? Ale fan to
+jest dopiero wtedy, kiedy jest opór.
+
+454
+00:08:44,630 --> 00:08:44,640
+jest dopiero wtedy, kiedy jest opór.
+ 
+
+455
+00:08:44,640 --> 00:08:46,310
+jest dopiero wtedy, kiedy jest opór.
+Na takiej samej zasadzie, jak idziesz na
+
+456
+00:08:46,310 --> 00:08:46,320
+Na takiej samej zasadzie, jak idziesz na
+ 
+
+457
+00:08:46,320 --> 00:08:48,829
+Na takiej samej zasadzie, jak idziesz na
+siłownię
+
+458
+00:08:48,829 --> 00:08:48,839
+siłownię
+ 
+
+459
+00:08:48,839 --> 00:08:51,350
+siłownię
+i tak naprawdę rozrastasz się dopiero
+
+460
+00:08:51,350 --> 00:08:51,360
+i tak naprawdę rozrastasz się dopiero
+ 
+
+461
+00:08:51,360 --> 00:08:55,269
+i tak naprawdę rozrastasz się dopiero
+wtedy, kiedy jest za ciężko, nie?
+
+462
+00:08:55,269 --> 00:08:55,279
+wtedy, kiedy jest za ciężko, nie?
+ 
+
+463
+00:08:55,279 --> 00:08:57,269
+wtedy, kiedy jest za ciężko, nie?
+wiesz, od od podnoszenia styropianowej
+
+464
+00:08:57,269 --> 00:08:57,279
+wiesz, od od podnoszenia styropianowej
+ 
+
+465
+00:08:57,279 --> 00:09:00,470
+wiesz, od od podnoszenia styropianowej
+sztangi to jeszcze nikt nie urósł, nie?
+
+466
+00:09:00,470 --> 00:09:00,480
+sztangi to jeszcze nikt nie urósł, nie?
+ 
+
+467
+00:09:00,480 --> 00:09:02,790
+sztangi to jeszcze nikt nie urósł, nie?
+W tym sensie
+
+468
+00:09:02,790 --> 00:09:02,800
+W tym sensie
+ 
+
+469
+00:09:02,800 --> 00:09:04,949
+W tym sensie
+po prostu to co widzę to to jest tak, że
+
+470
+00:09:04,949 --> 00:09:04,959
+po prostu to co widzę to to jest tak, że
+ 
+
+471
+00:09:04,959 --> 00:09:06,150
+po prostu to co widzę to to jest tak, że
+można się po prostu do tego, że tak
+
+472
+00:09:06,150 --> 00:09:06,160
+można się po prostu do tego, że tak
+ 
+
+473
+00:09:06,160 --> 00:09:08,590
+można się po prostu do tego, że tak
+powiem, lekko uśmiechać, nie? na
+
+474
+00:09:08,590 --> 00:09:08,600
+powiem, lekko uśmiechać, nie? na
+ 
+
+475
+00:09:08,600 --> 00:09:10,949
+powiem, lekko uśmiechać, nie? na
+na ja nawet uważam, że trzeba. Ja nawet
+
+476
+00:09:10,949 --> 00:09:10,959
+na ja nawet uważam, że trzeba. Ja nawet
+ 
+
+477
+00:09:10,959 --> 00:09:12,790
+na ja nawet uważam, że trzeba. Ja nawet
+uważam, że trzeba. Ja ostatnio Ja
+
+478
+00:09:12,790 --> 00:09:12,800
+uważam, że trzeba. Ja ostatnio Ja
+ 
+
+479
+00:09:12,800 --> 00:09:14,750
+uważam, że trzeba. Ja ostatnio Ja
+ostatnio Ja ostatnio przeglądałem, wiesz
+
+480
+00:09:14,750 --> 00:09:14,760
+ostatnio Ja ostatnio przeglądałem, wiesz
+ 
+
+481
+00:09:14,760 --> 00:09:17,269
+ostatnio Ja ostatnio przeglądałem, wiesz
+co, bo tak
+
+482
+00:09:17,269 --> 00:09:17,279
+co, bo tak
+ 
+
+483
+00:09:17,279 --> 00:09:19,230
+co, bo tak
+dwa błędy, które z perspektywy czasu,
+
+484
+00:09:19,230 --> 00:09:19,240
+dwa błędy, które z perspektywy czasu,
+ 
+
+485
+00:09:19,240 --> 00:09:21,269
+dwa błędy, które z perspektywy czasu,
+które widzę, że robiłem, znaczy wiesz,
+
+486
+00:09:21,269 --> 00:09:21,279
+które widzę, że robiłem, znaczy wiesz,
+ 
+
+487
+00:09:21,279 --> 00:09:23,230
+które widzę, że robiłem, znaczy wiesz,
+mi wyszło w sensie, bo bo bo bo bo bo bo
+
+488
+00:09:23,230 --> 00:09:23,240
+mi wyszło w sensie, bo bo bo bo bo bo bo
+ 
+
+489
+00:09:23,240 --> 00:09:24,990
+mi wyszło w sensie, bo bo bo bo bo bo bo
+bo bo wiesz, jeżeli jesteś na ringu i
+
+490
+00:09:24,990 --> 00:09:25,000
+bo bo wiesz, jeżeli jesteś na ringu i
+ 
+
+491
+00:09:25,000 --> 00:09:26,750
+bo bo wiesz, jeżeli jesteś na ringu i
+nie schodzisz z niego, no to generalnie
+
+492
+00:09:26,750 --> 00:09:26,760
+nie schodzisz z niego, no to generalnie
+ 
+
+493
+00:09:26,760 --> 00:09:29,829
+nie schodzisz z niego, no to generalnie
+ci wyjdzie, nie? Jest wiesz, kwestia
+
+494
+00:09:29,829 --> 00:09:29,839
+ci wyjdzie, nie? Jest wiesz, kwestia
+ 
+
+495
+00:09:29,839 --> 00:09:31,990
+ci wyjdzie, nie? Jest wiesz, kwestia
+czasu i tego jak się z tym czujesz i tak
+
+496
+00:09:31,990 --> 00:09:32,000
+czasu i tego jak się z tym czujesz i tak
+ 
+
+497
+00:09:32,000 --> 00:09:35,470
+czasu i tego jak się z tym czujesz i tak
+dalej, ale dwa błędy, które które ja
+
+498
+00:09:35,470 --> 00:09:35,480
+dalej, ale dwa błędy, które które ja
+ 
+
+499
+00:09:35,480 --> 00:09:38,310
+dalej, ale dwa błędy, które które ja
+robiłem, nie?
+
+500
+00:09:38,310 --> 00:09:38,320
+robiłem, nie?
+ 
+
+501
+00:09:38,320 --> 00:09:40,190
+robiłem, nie?
+To jest
+
+502
+00:09:40,190 --> 00:09:40,200
+To jest
+ 
+
+503
+00:09:40,200 --> 00:09:42,710
+To jest
+to, że tak jak już mówiłem, to jest to,
+
+504
+00:09:42,710 --> 00:09:42,720
+to, że tak jak już mówiłem, to jest to,
+ 
+
+505
+00:09:42,720 --> 00:09:46,069
+to, że tak jak już mówiłem, to jest to,
+że uważałem, że niczego nie muszę. Nie,
+
+506
+00:09:46,069 --> 00:09:46,079
+że uważałem, że niczego nie muszę. Nie,
+ 
+
+507
+00:09:46,079 --> 00:09:48,870
+że uważałem, że niczego nie muszę. Nie,
+to wiesz, to był straszny błąd,
+
+508
+00:09:48,870 --> 00:09:48,880
+to wiesz, to był straszny błąd,
+ 
+
+509
+00:09:48,880 --> 00:09:52,150
+to wiesz, to był straszny błąd,
+że wiesz, że ja wiesz, ten musi to na
+
+510
+00:09:52,150 --> 00:09:52,160
+że wiesz, że ja wiesz, ten musi to na
+ 
+
+511
+00:09:52,160 --> 00:09:54,389
+że wiesz, że ja wiesz, ten musi to na
+Rusi, bla bla bla, ja niczego nie muszę
+
+512
+00:09:54,389 --> 00:09:54,399
+Rusi, bla bla bla, ja niczego nie muszę
+ 
+
+513
+00:09:54,399 --> 00:09:55,509
+Rusi, bla bla bla, ja niczego nie muszę
+i to jest oczywiście prawda, no bo
+
+514
+00:09:55,509 --> 00:09:55,519
+i to jest oczywiście prawda, no bo
+ 
+
+515
+00:09:55,519 --> 00:09:58,590
+i to jest oczywiście prawda, no bo
+niczego nie musisz. No to to to jest
+
+516
+00:09:58,590 --> 00:09:58,600
+niczego nie musisz. No to to to jest
+ 
+
+517
+00:09:58,600 --> 00:09:59,910
+niczego nie musisz. No to to to jest
+prawda. Jak chcesz być ofiarą, to
+
+518
+00:09:59,910 --> 00:09:59,920
+prawda. Jak chcesz być ofiarą, to
+ 
+
+519
+00:09:59,920 --> 00:10:01,870
+prawda. Jak chcesz być ofiarą, to
+niczego nie musisz, nie? Aż potem do
+
+520
+00:10:01,870 --> 00:10:01,880
+niczego nie musisz, nie? Aż potem do
+ 
+
+521
+00:10:01,880 --> 00:10:04,230
+niczego nie musisz, nie? Aż potem do
+czasu, kiedy musisz. Tak jak to wiesz
+
+522
+00:10:04,230 --> 00:10:04,240
+czasu, kiedy musisz. Tak jak to wiesz
+ 
+
+523
+00:10:04,240 --> 00:10:06,350
+czasu, kiedy musisz. Tak jak to wiesz
+tam zdaje się w Dolinie Krzemowej mają
+
+524
+00:10:06,350 --> 00:10:06,360
+tam zdaje się w Dolinie Krzemowej mają
+ 
+
+525
+00:10:06,360 --> 00:10:08,150
+tam zdaje się w Dolinie Krzemowej mają
+to powiedzenie, że jeżeli pieniądze nie
+
+526
+00:10:08,150 --> 00:10:08,160
+to powiedzenie, że jeżeli pieniądze nie
+ 
+
+527
+00:10:08,160 --> 00:10:09,910
+to powiedzenie, że jeżeli pieniądze nie
+są dla ciebie ważne, to wkrótce staną
+
+528
+00:10:09,910 --> 00:10:09,920
+są dla ciebie ważne, to wkrótce staną
+ 
+
+529
+00:10:09,920 --> 00:10:11,870
+są dla ciebie ważne, to wkrótce staną
+się najważniejsze, nie?
+
+530
+00:10:11,870 --> 00:10:11,880
+się najważniejsze, nie?
+ 
+
+531
+00:10:11,880 --> 00:10:15,790
+się najważniejsze, nie?
+To jest na tej zasadzie. A a potem drugi
+
+532
+00:10:15,790 --> 00:10:15,800
+To jest na tej zasadzie. A a potem drugi
+ 
+
+533
+00:10:15,800 --> 00:10:18,069
+To jest na tej zasadzie. A a potem drugi
+element, drugi element.
+
+534
+00:10:18,069 --> 00:10:18,079
+element, drugi element.
+ 
+
+535
+00:10:18,079 --> 00:10:20,150
+element, drugi element.
+Musisz to będziesz musiał.
+
+536
+00:10:20,150 --> 00:10:20,160
+Musisz to będziesz musiał.
+ 
+
+537
+00:10:20,160 --> 00:10:23,110
+Musisz to będziesz musiał.
+Tak, tak, tak. Tylko pierwsze tylko,
+
+538
+00:10:23,110 --> 00:10:23,120
+Tak, tak, tak. Tylko pierwsze tylko,
+ 
+
+539
+00:10:23,120 --> 00:10:25,269
+Tak, tak, tak. Tylko pierwsze tylko,
+tylko właśnie pierwsze musisz robić to,
+
+540
+00:10:25,269 --> 00:10:25,279
+tylko właśnie pierwsze musisz robić to,
+ 
+
+541
+00:10:25,279 --> 00:10:26,949
+tylko właśnie pierwsze musisz robić to,
+co
+
+542
+00:10:26,949 --> 00:10:26,959
+co
+ 
+
+543
+00:10:26,959 --> 00:10:29,190
+co
+żeby mieć to czego chcesz,
+
+544
+00:10:29,190 --> 00:10:29,200
+żeby mieć to czego chcesz,
+ 
+
+545
+00:10:29,200 --> 00:10:31,550
+żeby mieć to czego chcesz,
+a potem musisz robić, żebyś nie miał
+
+546
+00:10:31,550 --> 00:10:31,560
+a potem musisz robić, żebyś nie miał
+ 
+
+547
+00:10:31,560 --> 00:10:33,870
+a potem musisz robić, żebyś nie miał
+tego, czego nie chcesz, nie?
+
+548
+00:10:33,870 --> 00:10:33,880
+tego, czego nie chcesz, nie?
+ 
+
+549
+00:10:33,880 --> 00:10:36,590
+tego, czego nie chcesz, nie?
+Taka taka jest różnica, że jeszcze
+
+550
+00:10:36,590 --> 00:10:36,600
+Taka taka jest różnica, że jeszcze
+ 
+
+551
+00:10:36,600 --> 00:10:37,990
+Taka taka jest różnica, że jeszcze
+bardziej musisz, jeszcze bardziej
+
+552
+00:10:37,990 --> 00:10:38,000
+bardziej musisz, jeszcze bardziej
+ 
+
+553
+00:10:38,000 --> 00:10:39,389
+bardziej musisz, jeszcze bardziej
+zapieprzasz tylko po to, żeby
+
+554
+00:10:39,389 --> 00:10:39,399
+zapieprzasz tylko po to, żeby
+ 
+
+555
+00:10:39,399 --> 00:10:41,190
+zapieprzasz tylko po to, żeby
+ewentualnie przerzucić się na poziom
+
+556
+00:10:41,190 --> 00:10:41,200
+ewentualnie przerzucić się na poziom
+ 
+
+557
+00:10:41,200 --> 00:10:43,310
+ewentualnie przerzucić się na poziom
+zero i nie mieć problemu zamiast mieć
+
+558
+00:10:43,310 --> 00:10:43,320
+zero i nie mieć problemu zamiast mieć
+ 
+
+559
+00:10:43,320 --> 00:10:47,829
+zero i nie mieć problemu zamiast mieć
+to, co chcesz.
+
+560
+00:10:47,829 --> 00:10:47,839
+
+ 
+
+561
+00:10:47,839 --> 00:10:48,230
+
+No tak.
+
+562
+00:10:48,230 --> 00:10:48,240
+No tak.
+ 
+
+563
+00:10:48,240 --> 00:10:51,590
+No tak.
+A a drugi element to właśnie to, wiesz,
+
+564
+00:10:51,590 --> 00:10:51,600
+A a drugi element to właśnie to, wiesz,
+ 
+
+565
+00:10:51,600 --> 00:10:54,509
+A a drugi element to właśnie to, wiesz,
+to strasznie traktowałem to jako wojnę,
+
+566
+00:10:54,509 --> 00:10:54,519
+to strasznie traktowałem to jako wojnę,
+ 
+
+567
+00:10:54,519 --> 00:10:56,430
+to strasznie traktowałem to jako wojnę,
+to takie nakurwianie, nie? Mhm.
+
+568
+00:10:56,430 --> 00:10:56,440
+to takie nakurwianie, nie? Mhm.
+ 
+
+569
+00:10:56,440 --> 00:10:58,350
+to takie nakurwianie, nie? Mhm.
+Nie było, nie było tego takiego fanu
+
+570
+00:10:58,350 --> 00:10:58,360
+Nie było, nie było tego takiego fanu
+ 
+
+571
+00:10:58,360 --> 00:11:00,389
+Nie było, nie było tego takiego fanu
+przy okazji tego elementu gry, nie tego,
+
+572
+00:11:00,389 --> 00:11:00,399
+przy okazji tego elementu gry, nie tego,
+ 
+
+573
+00:11:00,399 --> 00:11:04,069
+przy okazji tego elementu gry, nie tego,
+że to wiesz, nie, że traktujesz poważnie
+
+574
+00:11:04,069 --> 00:11:04,079
+że to wiesz, nie, że traktujesz poważnie
+ 
+
+575
+00:11:04,079 --> 00:11:06,150
+że to wiesz, nie, że traktujesz poważnie
+to, co robisz,
+
+576
+00:11:06,150 --> 00:11:06,160
+to, co robisz,
+ 
+
+577
+00:11:06,160 --> 00:11:09,069
+to, co robisz,
+ale nie do końca traktujesz poważnie
+
+578
+00:11:09,069 --> 00:11:09,079
+ale nie do końca traktujesz poważnie
+ 
+
+579
+00:11:09,079 --> 00:11:13,030
+ale nie do końca traktujesz poważnie
+siebie. I to, że traktujesz coś
+
+580
+00:11:13,030 --> 00:11:13,040
+siebie. I to, że traktujesz coś
+ 
+
+581
+00:11:13,040 --> 00:11:14,949
+siebie. I to, że traktujesz coś
+poważnie, nie znaczy, że musisz być taki
+
+582
+00:11:14,949 --> 00:11:14,959
+poważnie, nie znaczy, że musisz być taki
+ 
+
+583
+00:11:14,959 --> 00:11:17,870
+poważnie, nie znaczy, że musisz być taki
+ 100% na serio. Nie
+
+584
+00:11:17,870 --> 00:11:17,880
+100% na serio. Nie
+ 
+
+585
+00:11:17,880 --> 00:11:19,550
+100% na serio. Nie
+wiesz o co chodzi. Zaczy, rozumiesz,
+
+586
+00:11:19,550 --> 00:11:19,560
+wiesz o co chodzi. Zaczy, rozumiesz,
+ 
+
+587
+00:11:19,560 --> 00:11:21,030
+wiesz o co chodzi. Zaczy, rozumiesz,
+traktujesz poważnie siebie i traktujesz
+
+588
+00:11:21,030 --> 00:11:21,040
+traktujesz poważnie siebie i traktujesz
+ 
+
+589
+00:11:21,040 --> 00:11:23,389
+traktujesz poważnie siebie i traktujesz
+poważnie wynik, ale same rzeczy możesz
+
+590
+00:11:23,389 --> 00:11:23,399
+poważnie wynik, ale same rzeczy możesz
+ 
+
+591
+00:11:23,399 --> 00:11:25,230
+poważnie wynik, ale same rzeczy możesz
+robić lekko, pod warunkiem, że robisz
+
+592
+00:11:25,230 --> 00:11:25,240
+robić lekko, pod warunkiem, że robisz
+ 
+
+593
+00:11:25,240 --> 00:11:26,310
+robić lekko, pod warunkiem, że robisz
+jak jesteś użyteczny, jak jesteś
+
+594
+00:11:26,310 --> 00:11:26,320
+jak jesteś użyteczny, jak jesteś
+ 
+
+595
+00:11:26,320 --> 00:11:27,870
+jak jesteś użyteczny, jak jesteś
+pracowy, jak jest skuteczny i to
+
+596
+00:11:27,870 --> 00:11:27,880
+pracowy, jak jest skuteczny i to
+ 
+
+597
+00:11:27,880 --> 00:11:29,230
+pracowy, jak jest skuteczny i to
+odrobina szaleństwa, wiesz, tak jak na
+
+598
+00:11:29,230 --> 00:11:29,240
+odrobina szaleństwa, wiesz, tak jak na
+ 
+
+599
+00:11:29,240 --> 00:11:31,710
+odrobina szaleństwa, wiesz, tak jak na
+przykład zobacz jeszcze jak jedną rzecz
+
+600
+00:11:31,710 --> 00:11:31,720
+przykład zobacz jeszcze jak jedną rzecz
+ 
+
+601
+00:11:31,720 --> 00:11:34,430
+przykład zobacz jeszcze jak jedną rzecz
+znosi ta to bycie użytecznym.
+
+602
+00:11:34,430 --> 00:11:34,440
+znosi ta to bycie użytecznym.
+ 
+
+603
+00:11:34,440 --> 00:11:36,150
+znosi ta to bycie użytecznym.
+Przestajesz tak bardzo myśleć jaki mam
+
+604
+00:11:36,150 --> 00:11:36,160
+Przestajesz tak bardzo myśleć jaki mam
+ 
+
+605
+00:11:36,160 --> 00:11:38,430
+Przestajesz tak bardzo myśleć jaki mam
+być ten cały branding, powinienem tak
+
+606
+00:11:38,430 --> 00:11:38,440
+być ten cały branding, powinienem tak
+ 
+
+607
+00:11:38,440 --> 00:11:40,430
+być ten cały branding, powinienem tak
+wyglądać albo tak, albo zachowywać się
+
+608
+00:11:40,430 --> 00:11:40,440
+wyglądać albo tak, albo zachowywać się
+ 
+
+609
+00:11:40,440 --> 00:11:42,310
+wyglądać albo tak, albo zachowywać się
+tak. Nie ma większego znaczenia w
+
+610
+00:11:42,310 --> 00:11:42,320
+tak. Nie ma większego znaczenia w
+ 
+
+611
+00:11:42,320 --> 00:11:44,470
+tak. Nie ma większego znaczenia w
+momencie, w którym jesteś użyteczny.
+
+612
+00:11:44,470 --> 00:11:44,480
+momencie, w którym jesteś użyteczny.
+ 
+
+613
+00:11:44,480 --> 00:11:47,750
+momencie, w którym jesteś użyteczny.
+Dlatego ci wszyscy goście
+
+614
+00:11:47,750 --> 00:11:47,760
+Dlatego ci wszyscy goście
+ 
+
+615
+00:11:47,760 --> 00:11:49,509
+Dlatego ci wszyscy goście
+na przykład w świecie biznesu są tak
+
+616
+00:11:49,509 --> 00:11:49,519
+na przykład w świecie biznesu są tak
+ 
+
+617
+00:11:49,519 --> 00:11:52,590
+na przykład w świecie biznesu są tak
+cholernie różni,
+
+618
+00:11:52,590 --> 00:11:52,600
+cholernie różni,
+ 
+
+619
+00:11:52,600 --> 00:11:53,910
+cholernie różni,
+bo w momencie, w którym jesteś
+
+620
+00:11:53,910 --> 00:11:53,920
+bo w momencie, w którym jesteś
+ 
+
+621
+00:11:53,920 --> 00:11:55,430
+bo w momencie, w którym jesteś
+użyteczny, to i tak ludzie do ciebie
+
+622
+00:11:55,430 --> 00:11:55,440
+użyteczny, to i tak ludzie do ciebie
+ 
+
+623
+00:11:55,440 --> 00:11:56,949
+użyteczny, to i tak ludzie do ciebie
+przyjdą.
+
+624
+00:11:56,949 --> 00:11:56,959
+przyjdą.
+ 
+
+625
+00:11:56,959 --> 00:11:58,350
+przyjdą.
+To jest wiesz, to jest ten Hapner z
+
+626
+00:11:58,350 --> 00:11:58,360
+To jest wiesz, to jest ten Hapner z
+ 
+
+627
+00:11:58,360 --> 00:12:00,829
+To jest wiesz, to jest ten Hapner z
+Playboya, który od 50 lat chodzi ciągle
+
+628
+00:12:00,829 --> 00:12:00,839
+Playboya, który od 50 lat chodzi ciągle
+ 
+
+629
+00:12:00,839 --> 00:12:03,310
+Playboya, który od 50 lat chodzi ciągle
+w tym szlafroku, nie?
+
+630
+00:12:03,310 --> 00:12:03,320
+w tym szlafroku, nie?
+ 
+
+631
+00:12:03,320 --> 00:12:05,069
+w tym szlafroku, nie?
+Czy w momencie, w którym tam podobno
+
+632
+00:12:05,069 --> 00:12:05,079
+Czy w momencie, w którym tam podobno
+ 
+
+633
+00:12:05,079 --> 00:12:07,670
+Czy w momencie, w którym tam podobno
+wiesz Cukerberg przyszedł po pieniądze,
+
+634
+00:12:07,670 --> 00:12:07,680
+wiesz Cukerberg przyszedł po pieniądze,
+ 
+
+635
+00:12:07,680 --> 00:12:09,069
+wiesz Cukerberg przyszedł po pieniądze,
+po tam nie tam miliard czy półtora
+
+636
+00:12:09,069 --> 00:12:09,079
+po tam nie tam miliard czy półtora
+ 
+
+637
+00:12:09,079 --> 00:12:10,750
+po tam nie tam miliard czy półtora
+miliarda dolarów tam, nie wiem w co on
+
+638
+00:12:10,750 --> 00:12:10,760
+miliarda dolarów tam, nie wiem w co on
+ 
+
+639
+00:12:10,760 --> 00:12:13,069
+miliarda dolarów tam, nie wiem w co on
+tam był ubrany też w jakiś szlafrok czy
+
+640
+00:12:13,069 --> 00:12:13,079
+tam był ubrany też w jakiś szlafrok czy
+ 
+
+641
+00:12:13,079 --> 00:12:14,710
+tam był ubrany też w jakiś szlafrok czy
+w jakiś tam gacie czy coś, nawet nie
+
+642
+00:12:14,710 --> 00:12:14,720
+w jakiś tam gacie czy coś, nawet nie
+ 
+
+643
+00:12:14,720 --> 00:12:17,990
+w jakiś tam gacie czy coś, nawet nie
+założył garnituru, nie? Bo nie musiał,
+
+644
+00:12:17,990 --> 00:12:18,000
+założył garnituru, nie? Bo nie musiał,
+ 
+
+645
+00:12:18,000 --> 00:12:20,910
+założył garnituru, nie? Bo nie musiał,
+bo był użyteczny, nie?
+
+646
+00:12:20,910 --> 00:12:20,920
+bo był użyteczny, nie?
+ 
+
+647
+00:12:20,920 --> 00:12:24,839
+bo był użyteczny, nie?
+To zmienia wszystko, wiesz?
+
